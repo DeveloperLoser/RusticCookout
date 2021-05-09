@@ -1,0 +1,9 @@
+{
+  "NotAllowed": "You are not allowed to use the '{0}' command",
+  "BlankEvent": "You need to specify an event",
+  "UnknownEvent": "'{0}' is an unknown event type",
+  "NotSet": "'{0}' is not set to run via Automated Events",
+  "NextRunTime": "Next '{0}' event will be ran after {1}",
+  "Running": "'{0}' attempting to run automated event: {1}",
+  "Removing": "'{0}' attempting to remove any current running event: {1}"
+}

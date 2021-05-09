@@ -1,0 +1,14 @@
+
+
+[2021-05-06 13:38:33] Failed to read store 'install' from '/home/tcagame/18212/17008//Steam/config/config.vdf.tmp'
+[2021-05-06 13:38:34] Flushed store 'install' to '/home/tcagame/18212/17008//Steam/config/config.vdf'
+[2021-05-06 13:38:35] Flushed store 'install' to '/home/tcagame/18212/17008//Steam/config/config.vdf'
+[2021-05-06 13:38:36] Flushed store 'install' to '/home/tcagame/18212/17008//Steam/config/config.vdf'
+
+
+[2021-05-07 14:00:07] Loaded store 'install' from '/home/tcagame/18212/17008//Steam/config/config.vdf' successfully
+[2021-05-07 14:00:08] Flushed store 'install' to '/home/tcagame/18212/17008//Steam/config/config.vdf'
+
+
+[2021-05-08 17:17:40] Loaded store 'install' from '/home/tcagame/18212/17008//Steam/config/config.vdf' successfully
+[2021-05-08 17:17:41] Flushed store 'install' to '/home/tcagame/18212/17008//Steam/config/config.vdf'

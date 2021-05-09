@@ -1,0 +1,9 @@
+{
+  "CurrStack": "The current stack size is {0}x.",
+  "ArgOver": "You have provided too many arguments. Try: stackmultiplier.multiply 2 for 2x stacks.",
+  "ArgOverReset": "You have provided too many arguments.",
+  "NotInt": "That is not a valid integer.",
+  "BlockedItems": "Stack size set was blocked for items in config: {0}.",
+  "StackReset": "All stacks have been reset.",
+  "NoPerms": "You lack the permissions to use this command."
+}

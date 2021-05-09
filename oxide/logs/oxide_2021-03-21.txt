@@ -1,0 +1,567 @@
+00:00 [Info] [Automated Events] Next CargoShip event will be ran after 00:36:43
+00:02 [Info] [ZLevelsRemastered] Nightbonus points disabled
+00:06 [Info] [Automated Events] Spawning Chinook
+00:06 [Info] [Automated Events] Next Chinook event will be ran after 00:34:00
+00:12 [Info] [Automated Events] Spawning Helicopter
+00:12 [Info] [Automated Events] Next Helicopter event will be ran after 00:53:35
+00:28 [Warning] [Automated Events] The number of Bradley events has reached the limit of 1
+00:28 [Info] [Automated Events] Next Bradley event will be ran after 00:31:20
+00:28 [Info] [Automated Events] Spawning Cargo Plane
+00:28 [Info] [Automated Events] Next CargoPlane event will be ran after 00:33:41
+00:31 [Info] [Automated Events] Next Helicopter event will be ran after 00:51:48
+00:32 [Info] [ZLevelsRemastered] Nightbonus points enabled
+00:35 [Info] [FancyDrop] Timed Airdrop skipped, not enough Players
+00:35 [Info] [FancyDrop] Next timed Airdrop in 40 minutes
+00:35 [Info] [Automated Events] Next Chinook event will be ran after 00:40:17
+00:36 [Info] [Automated Events] Next CargoPlane event will be ran after 00:38:09
+00:37 [Info] [Automated Events] Spawning Cargo Ship
+00:37 [Info] [Automated Events] Next CargoShip event will be ran after 00:30:39
+00:57 [Warning] Calling 'OnTick' on 'FancyDrop v2.9.2' took 102ms
+00:59 [Warning] [Automated Events] The number of Bradley events has reached the limit of 1
+00:59 [Info] [Automated Events] Next Bradley event will be ran after 00:43:20
+01:02 [Info] [ZLevelsRemastered] Nightbonus points disabled
+01:07 [Warning] [Automated Events] The number of CargoShip events has reached the limit of 1
+01:07 [Info] [Automated Events] Next CargoShip event will be ran after 00:34:24
+01:14 [Info] [Automated Events] Spawning FancyDrop Cargo Plane
+01:14 [Info] [FancyDrop] Random Airdrop of type 'regular' incoming at: (-1448, 33, 855) grid area: K14
+01:14 [Info] [Automated Events] Next CargoPlane event will be ran after 00:33:30
+01:15 [Info] [FancyDrop] Timed Airdrop skipped, not enough Players
+01:15 [Info] [FancyDrop] Next timed Airdrop in 47 minutes
+01:15 [Info] [Automated Events] Spawning Chinook
+01:15 [Info] [Automated Events] Next Chinook event will be ran after 00:31:29
+01:22 [Info] [Automated Events] Spawning Helicopter
+01:22 [Info] [Automated Events] Next Helicopter event will be ran after 00:59:32
+01:32 [Info] [ZLevelsRemastered] Nightbonus points enabled
+01:37 [Info] [Automated Events] Next CargoShip event will be ran after 00:36:02
+01:41 [Warning] Calling 'OnEntitySpawned' on 'AutomaticAuthorization v1.2.2' took 106ms
+01:41 [Warning] Calling 'OnEntityTakeDamage' on 'ZLevelsRemastered v2.9.22' took 105ms
+01:41 [Info] [Automated Events] Next Helicopter event will be ran after 00:57:03
+01:43 [Warning] [Automated Events] The number of Bradley events has reached the limit of 1
+01:43 [Info] [Automated Events] Next Bradley event will be ran after 00:33:44
+01:44 [Info] [Automated Events] Next Chinook event will be ran after 00:41:41
+01:48 [Info] [Automated Events] Spawning Cargo Plane
+01:48 [Info] [Automated Events] Next CargoPlane event will be ran after 00:40:03
+01:55 [Info] [Automated Events] Next CargoPlane event will be ran after 00:33:14
+02:02 [Info] [FancyDrop] Timed Airdrop skipped, not enough Players
+02:02 [Info] [FancyDrop] Next timed Airdrop in 35 minutes
+02:02 [Info] [ZLevelsRemastered] Nightbonus points disabled
+02:13 [Info] [Automated Events] Spawning Cargo Ship
+02:13 [Info] [Automated Events] Next CargoShip event will be ran after 00:40:11
+02:16 [Warning] [Automated Events] The number of Bradley events has reached the limit of 1
+02:16 [Info] [Automated Events] Next Bradley event will be ran after 00:33:01
+02:26 [Info] [Automated Events] Spawning Chinook
+02:26 [Info] [Automated Events] Next Chinook event will be ran after 00:41:21
+02:28 [Info] [Automated Events] Spawning Cargo Plane
+02:28 [Info] [Automated Events] Next CargoPlane event will be ran after 00:33:49
+02:32 [Info] [ZLevelsRemastered] Nightbonus points enabled
+02:36 [Info] [Automated Events] Next CargoPlane event will be ran after 00:38:00
+02:37 [Info] [FancyDrop] Timed Airdrop skipped, not enough Players
+02:37 [Info] [FancyDrop] Next timed Airdrop in 48 minutes
+02:39 [Info] [Automated Events] Spawning Helicopter
+02:39 [Info] [Automated Events] Next Helicopter event will be ran after 00:53:58
+02:49 [Warning] [Automated Events] The number of Bradley events has reached the limit of 1
+02:49 [Info] [Automated Events] Next Bradley event will be ran after 00:33:00
+02:50 [Warning] Calling 'OnTick' on 'FancyDrop v2.9.2' took 102ms
+02:53 [Warning] [Automated Events] The number of CargoShip events has reached the limit of 1
+02:53 [Info] [Automated Events] Next CargoShip event will be ran after 00:36:00
+02:58 [Info] [Automated Events] Next Helicopter event will be ran after 00:51:47
+03:01 [Info] [Automated Events] Next Chinook event will be ran after 00:43:09
+03:02 [Info] [ZLevelsRemastered] Nightbonus points disabled
+03:13 [Info] [Automated Events] Next CargoShip event will be ran after 00:44:50
+03:14 [Info] [Automated Events] Spawning FancyDrop Cargo Plane
+03:14 [Info] [FancyDrop] Random Airdrop of type 'regular' incoming at: (853, 21, -1669) grid area: [32
+03:14 [Info] [Automated Events] Next CargoPlane event will be ran after 00:32:55
+03:22 [Warning] [Automated Events] The number of Bradley events has reached the limit of 1
+03:22 [Info] [Automated Events] Next Bradley event will be ran after 00:32:10
+03:25 [Info] [FancyDrop] Timed Airdrop skipped, not enough Players
+03:25 [Info] [FancyDrop] Next timed Airdrop in 33 minutes
+03:32 [Info] [ZLevelsRemastered] Nightbonus points enabled
+03:44 [Info] [Automated Events] Spawning Chinook
+03:44 [Info] [Automated Events] Next Chinook event will be ran after 00:38:40
+03:47 [Warning] Calling 'OnEntityKill' on 'AutomaticAuthorization v1.2.2' took 102ms
+03:47 [Info] [Automated Events] Spawning FancyDrop Cargo Plane
+03:47 [Info] [FancyDrop] Random Airdrop of type 'regular' incoming at: (158, 48, 1089) grid area: V13
+03:47 [Info] [Automated Events] Next CargoPlane event will be ran after 00:40:45
+03:49 [Info] [Automated Events] Spawning Helicopter
+03:49 [Info] [Automated Events] Next Helicopter event will be ran after 00:58:23
+03:55 [Warning] [Automated Events] The number of Bradley events has reached the limit of 1
+03:55 [Info] [Automated Events] Next Bradley event will be ran after 00:43:57
+03:58 [Warning] [Automated Events] The number of CargoShip events has reached the limit of 1
+03:58 [Info] [Automated Events] Next CargoShip event will be ran after 00:37:35
+03:58 [Info] [FancyDrop] Timed Airdrop skipped, not enough Players
+03:58 [Info] [FancyDrop] Next timed Airdrop in 34 minutes
+04:02 [Info] [ZLevelsRemastered] Nightbonus points disabled
+04:05 [Warning] Calling 'OnEntityTakeDamage' on 'ZLevelsRemastered v2.9.22' took 104ms
+04:08 [Info] [Automated Events] Next Helicopter event will be ran after 00:48:49
+04:15 [Warning] Calling 'OnEntityTakeDamage' on 'ZLevelsRemastered v2.9.22' took 105ms
+04:16 [Info] [Automated Events] Next Chinook event will be ran after 00:31:11
+04:28 [Info] [Automated Events] Spawning Cargo Plane
+04:28 [Info] [Automated Events] Next CargoPlane event will be ran after 00:34:40
+04:32 [Info] [FancyDrop] Timed Airdrop skipped, not enough Players
+04:32 [Info] [FancyDrop] Next timed Airdrop in 30 minutes
+04:32 [Info] [ZLevelsRemastered] Nightbonus points enabled
+04:35 [Warning] [Automated Events] The number of CargoShip events has reached the limit of 1
+04:35 [Info] [Automated Events] Next CargoShip event will be ran after 00:41:14
+04:36 [Info] [Automated Events] Next CargoPlane event will be ran after 00:36:50
+04:39 [Warning] [Automated Events] The number of Bradley events has reached the limit of 1
+04:39 [Info] [Automated Events] Next Bradley event will be ran after 00:33:18
+04:47 [Info] [Automated Events] Spawning Chinook
+04:47 [Info] [Automated Events] Next Chinook event will be ran after 00:42:04
+04:57 [Info] [Automated Events] Spawning Helicopter
+04:57 [Info] [Automated Events] Next Helicopter event will be ran after 00:53:27
+05:02 [Info] [FancyDrop] Timed Airdrop skipped, not enough Players
+05:02 [Info] [FancyDrop] Next timed Airdrop in 43 minutes
+05:02 [Info] [ZLevelsRemastered] Nightbonus points disabled
+05:11 [Warning] Calling 'OnTick' on 'FancyDrop v2.9.2' took 105ms
+05:12 [Warning] [Automated Events] The number of Bradley events has reached the limit of 1
+05:12 [Info] [Automated Events] Next Bradley event will be ran after 00:36:52
+05:13 [Info] [Automated Events] Spawning FancyDrop Cargo Plane
+05:13 [Info] [FancyDrop] Random Airdrop of type 'regular' incoming at: (1305, 17, -1141) grid area: AD28
+05:13 [Info] [Automated Events] Next CargoPlane event will be ran after 00:36:28
+05:16 [Info] [Automated Events] Next Helicopter event will be ran after 00:56:00
+05:17 [Info] [Automated Events] Spawning Cargo Ship
+05:17 [Info] [Automated Events] Next CargoShip event will be ran after 00:32:18
+05:17 [Info] [Automated Events] Next Chinook event will be ran after 00:32:25
+05:32 [Info] [ZLevelsRemastered] Nightbonus points enabled
+05:45 [Info] [FancyDrop] Timed Airdrop skipped, not enough Players
+05:45 [Info] [FancyDrop] Next timed Airdrop in 33 minutes
+05:49 [Warning] [Automated Events] The number of Bradley events has reached the limit of 1
+05:49 [Info] [Automated Events] Next Bradley event will be ran after 00:38:13
+05:49 [Warning] [Automated Events] The number of CargoShip events has reached the limit of 1
+05:49 [Info] [Automated Events] Next CargoShip event will be ran after 00:36:03
+05:49 [Info] [Automated Events] Spawning Cargo Plane
+05:49 [Info] [Automated Events] Next CargoPlane event will be ran after 00:40:09
+05:49 [Info] [Automated Events] Spawning Chinook
+05:49 [Info] [Automated Events] Next Chinook event will be ran after 00:36:13
+05:55 [Warning] Calling 'OnEntityKill' on 'FurnaceSplitter v2.2.7' took 103ms
+05:57 [Info] [Automated Events] Next CargoPlane event will be ran after 00:38:59
+06:02 [Info] [ZLevelsRemastered] Nightbonus points disabled
+06:06 [Info] [Automated Events] Next Chinook event will be ran after 00:37:52
+06:12 [Info] [Automated Events] Spawning Helicopter
+06:12 [Info] [Automated Events] Next Helicopter event will be ran after 00:55:03
+06:17 [Info] [Automated Events] Next CargoShip event will be ran after 00:32:40
+06:18 [Info] [FancyDrop] Timed Airdrop skipped, not enough Players
+06:18 [Info] [FancyDrop] Next timed Airdrop in 41 minutes
+06:27 [Warning] [Automated Events] The number of Bradley events has reached the limit of 1
+06:27 [Info] [Automated Events] Next Bradley event will be ran after 00:32:30
+06:31 [Info] [Automated Events] Next Helicopter event will be ran after 00:45:51
+06:32 [Info] [ZLevelsRemastered] Nightbonus points enabled
+06:36 [Info] [Automated Events] Spawning FancyDrop Cargo Plane
+06:36 [Info] [FancyDrop] Random Airdrop of type 'regular' incoming at: (-1564, 37, 401) grid area: J17
+06:36 [Info] [Automated Events] Next CargoPlane event will be ran after 00:35:36
+06:43 [Info] [Automated Events] Spawning Chinook
+06:43 [Info] [Automated Events] Next Chinook event will be ran after 00:30:26
+06:44 [Warning] Calling 'OnEntityTakeDamage' on 'FancyDrop v2.9.2' took 101ms
+06:49 [Warning] [Automated Events] The number of CargoShip events has reached the limit of 1
+06:49 [Info] [Automated Events] Next CargoShip event will be ran after 00:36:01
+06:59 [Info] [FancyDrop] Timed Airdrop skipped, not enough Players
+06:59 [Info] [FancyDrop] Next timed Airdrop in 31 minutes
+06:59 [Warning] [Automated Events] The number of Bradley events has reached the limit of 1
+06:59 [Info] [Automated Events] Next Bradley event will be ran after 00:41:17
+07:02 [Info] [Automated Events] Next Chinook event will be ran after 00:32:20
+07:02 [Info] [ZLevelsRemastered] Nightbonus points disabled
+07:03 [Warning] Calling 'OnEntityTakeDamage' on 'DeathNotes v6.3.5' took 104ms
+07:12 [Info] [Automated Events] Spawning FancyDrop Cargo Plane
+07:12 [Info] [FancyDrop] Random Airdrop of type 'regular' incoming at: (-1372, 37, 1848) grid area: L7
+07:12 [Info] [Automated Events] Next CargoPlane event will be ran after 00:33:51
+07:17 [Info] [Automated Events] Spawning Helicopter
+07:17 [Info] [Automated Events] Next Helicopter event will be ran after 00:50:05
+07:25 [Warning] [Automated Events] The number of CargoShip events has reached the limit of 1
+07:25 [Info] [Automated Events] Next CargoShip event will be ran after 00:38:54
+07:30 [Info] [FancyDrop] Timed Airdrop skipped, not enough Players
+07:30 [Info] [FancyDrop] Next timed Airdrop in 32 minutes
+07:33 [Info] [ZLevelsRemastered] Nightbonus points enabled
+07:34 [Info] [Automated Events] Spawning Chinook
+07:34 [Info] [Automated Events] Next Chinook event will be ran after 00:35:58
+07:36 [Info] [Automated Events] Next Helicopter event will be ran after 00:48:47
+07:41 [Warning] [Automated Events] The number of Bradley events has reached the limit of 1
+07:41 [Info] [Automated Events] Next Bradley event will be ran after 00:33:54
+07:46 [Info] [Automated Events] Spawning Cargo Plane
+07:46 [Info] [Automated Events] Next CargoPlane event will be ran after 00:43:05
+07:54 [Info] [Automated Events] Next CargoPlane event will be ran after 00:43:36
+07:55 [Warning] Calling 'OnEntityTakeDamage' on 'NoEscape v2.1.31' took 101ms
+08:02 [Info] [FancyDrop] Timed Airdrop skipped, not enough Players
+08:02 [Info] [FancyDrop] Next timed Airdrop in 39 minutes
+08:03 [Info] [ZLevelsRemastered] Nightbonus points disabled
+08:04 [Info] [Automated Events] Spawning Cargo Ship
+08:04 [Info] [Automated Events] Next CargoShip event will be ran after 00:39:56
+08:06 [Info] [Automated Events] Next Chinook event will be ran after 00:36:04
+08:14 [Warning] Calling 'OnTick' on 'FurnaceSplitter v2.2.7' took 101ms
+08:15 [Warning] [Automated Events] The number of Bradley events has reached the limit of 1
+08:15 [Info] [Automated Events] Next Bradley event will be ran after 00:37:29
+08:25 [Info] [Automated Events] Spawning Helicopter
+08:25 [Info] [Automated Events] Next Helicopter event will be ran after 00:50:53
+08:32 [Warning] Calling 'OnTick' on 'FancyDrop v2.9.2' took 106ms
+08:32 [Warning] Calling 'OnTick' on 'FancyDrop v2.9.2' took 106ms
+08:33 [Info] [ZLevelsRemastered] Nightbonus points enabled
+08:38 [Info] [Automated Events] Spawning Cargo Plane
+08:38 [Info] [Automated Events] Next CargoPlane event will be ran after 00:30:33
+08:41 [Info] [FancyDrop] Timed Airdrop skipped, not enough Players
+08:41 [Info] [FancyDrop] Next timed Airdrop in 37 minutes
+08:42 [Info] [Automated Events] Spawning Chinook
+08:42 [Info] [Automated Events] Next Chinook event will be ran after 00:30:10
+08:44 [Info] [Automated Events] Next Helicopter event will be ran after 00:47:24
+08:44 [Warning] [Automated Events] The number of CargoShip events has reached the limit of 1
+08:44 [Info] [Automated Events] Next CargoShip event will be ran after 00:43:06
+08:45 [Info] [Automated Events] Next CargoPlane event will be ran after 00:44:27
+08:52 [Warning] [Automated Events] The number of Bradley events has reached the limit of 1
+08:52 [Info] [Automated Events] Next Bradley event will be ran after 00:36:13
+09:03 [Info] [ZLevelsRemastered] Nightbonus points disabled
+09:04 [Info] [Automated Events] Next CargoShip event will be ran after 00:34:55
+09:11 [Info] [Automated Events] Next Chinook event will be ran after 00:37:24
+09:18 [Info] [FancyDrop] Timed Airdrop skipped, not enough Players
+09:18 [Info] [FancyDrop] Next timed Airdrop in 38 minutes
+09:25 [Warning] Calling 'OnTick' on 'FancyDrop v2.9.2' took 106ms
+09:28 [Warning] [Automated Events] The number of Bradley events has reached the limit of 1
+09:28 [Info] [Automated Events] Next Bradley event will be ran after 00:34:01
+09:30 [Info] [Automated Events] Spawning Cargo Plane
+09:30 [Info] [Automated Events] Next CargoPlane event will be ran after 00:34:57
+09:31 [Warning] Calling 'CanAcceptItem' on 'Backpacks v3.2.1' took 103ms
+09:31 [Info] [Automated Events] Spawning Helicopter
+09:31 [Info] [Automated Events] Next Helicopter event will be ran after 00:52:14
+09:33 [Info] [ZLevelsRemastered] Nightbonus points enabled
+09:38 [Info] [Automated Events] Next CargoPlane event will be ran after 00:32:10
+09:39 [Warning] [Automated Events] The number of CargoShip events has reached the limit of 1
+09:39 [Info] [Automated Events] Next CargoShip event will be ran after 00:30:26
+09:49 [Info] [Automated Events] Spawning Chinook
+09:49 [Info] [Automated Events] Next Chinook event will be ran after 00:42:16
+09:50 [Info] [Automated Events] Next Helicopter event will be ran after 00:45:31
+09:56 [Info] [FancyDrop] Timed Airdrop skipped, not enough Players
+09:56 [Info] [FancyDrop] Next timed Airdrop in 35 minutes
+10:02 [Warning] [Automated Events] The number of Bradley events has reached the limit of 1
+10:02 [Info] [Automated Events] Next Bradley event will be ran after 00:32:47
+10:03 [Info] [ZLevelsRemastered] Nightbonus points disabled
+10:10 [Info] [Automated Events] Spawning Cargo Ship
+10:10 [Info] [Automated Events] Next CargoShip event will be ran after 00:41:12
+10:10 [Info] [Automated Events] Spawning Cargo Plane
+10:10 [Info] [Automated Events] Next CargoPlane event will be ran after 00:33:36
+10:18 [Info] [Automated Events] Next CargoPlane event will be ran after 00:35:32
+10:23 [Info] [Automated Events] Next Chinook event will be ran after 00:34:57
+10:31 [Info] [FancyDrop] Timed Airdrop skipped, not enough Players
+10:31 [Info] [FancyDrop] Next timed Airdrop in 39 minutes
+10:33 [Info] [ZLevelsRemastered] Nightbonus points enabled
+10:35 [Warning] [Automated Events] The number of Bradley events has reached the limit of 1
+10:35 [Info] [Automated Events] Next Bradley event will be ran after 00:43:07
+10:36 [Info] [Automated Events] Spawning Helicopter
+10:36 [Info] [Automated Events] Next Helicopter event will be ran after 00:52:20
+10:51 [Warning] [Automated Events] The number of CargoShip events has reached the limit of 1
+10:51 [Info] [Automated Events] Next CargoShip event will be ran after 00:36:53
+10:54 [Info] [Automated Events] Spawning Cargo Plane
+10:54 [Info] [Automated Events] Next CargoPlane event will be ran after 00:36:59
+10:55 [Info] [Automated Events] Next Helicopter event will be ran after 00:50:31
+10:57 [Info] [ZLevelsRemastered] Nightbonus points disabled
+10:57 [Info] [Death Notes] Corona.Virus did not want to be a part of the Scientist's experiments.
+10:57 [Info] [Death Notes] Corona.Virus did not want to be a part of the Scientist's experiments.
+10:57 [Info] [Death Notes] Corona.Virus did not want to be a part of the Scientist's experiments.
+10:57 [Info] [Death Notes] Corona.Virus did not want to be a part of the Scientist's experiments.
+10:58 [Info] [Automated Events] Spawning Chinook
+10:58 [Info] [Automated Events] Next Chinook event will be ran after 00:42:33
+10:58 [Info] [Death Notes] Corona.Virus did not want to be a part of the Scientist's experiments.
+10:59 [Info] [Death Notes] Corona.Virus did not want to be a part of the Scientist's experiments.
+10:59 [Info] [Death Notes] Corona.Virus did not want to be a part of the Scientist's experiments.
+10:59 [Info] [Death Notes] Corona.Virus did not want to be a part of the Scientist's experiments.
+11:00 [Info] [Death Notes] Corona.Virus became just a touch too radioactive.
+11:00 [Warning] 'Backpacks v3.2.1' is using deprecated hook 'OnPlayerCorpse', which will stop working on Thursday, 01 July 2021. Please ask the author to update to 'OnPlayerCorpseSpawned(BasePlayer player, BaseCorpse corpse)'
+11:02 [Info] [Automated Events] Next CargoPlane event will be ran after 00:39:06
+11:10 [Info] [Automated Events] Next CargoShip event will be ran after 00:38:23
+11:10 [Info] [FancyDrop] Timed Airdrop skipped, not enough Players
+11:10 [Info] [FancyDrop] Next timed Airdrop in 48 minutes
+11:18 [Warning] [Automated Events] The number of Bradley events has reached the limit of 1
+11:18 [Info] [Automated Events] Next Bradley event will be ran after 00:38:41
+11:25 [Info] [ZLevelsRemastered] Nightbonus points enabled
+11:30 [Info] [Automated Events] Next Chinook event will be ran after 00:36:48
+11:36 [Warning] Calling 'OnEntityTakeDamage' on 'ZLevelsRemastered v2.9.22' took 101ms
+11:41 [Info] [Automated Events] Spawning Cargo Plane
+11:41 [Info] [Automated Events] Next CargoPlane event will be ran after 00:43:17
+11:45 [Info] [Automated Events] Spawning Helicopter
+11:45 [Info] [Automated Events] Next Helicopter event will be ran after 00:57:13
+11:48 [Warning] [Automated Events] The number of CargoShip events has reached the limit of 1
+11:48 [Info] [Automated Events] Next CargoShip event will be ran after 00:44:33
+11:49 [Info] [Automated Events] Next CargoPlane event will be ran after 00:39:37
+11:55 [Info] [ZLevelsRemastered] Nightbonus points disabled
+11:57 [Warning] [Automated Events] The number of Bradley events has reached the limit of 1
+11:57 [Info] [Automated Events] Next Bradley event will be ran after 00:31:43
+11:58 [Info] [FancyDrop] Timed Airdrop skipped, not enough Players
+11:58 [Info] [FancyDrop] Next timed Airdrop in 39 minutes
+12:04 [Info] [Automated Events] Next Helicopter event will be ran after 00:56:19
+12:06 [Info] [Automated Events] Spawning Chinook
+12:06 [Info] [Automated Events] Next Chinook event will be ran after 00:30:02
+12:25 [Info] [ZLevelsRemastered] Nightbonus points enabled
+12:29 [Info] [Automated Events] Spawning Cargo Plane
+12:29 [Info] [Automated Events] Next CargoPlane event will be ran after 00:36:45
+12:29 [Warning] [Automated Events] The number of Bradley events has reached the limit of 1
+12:29 [Info] [Automated Events] Next Bradley event will be ran after 00:35:36
+12:33 [Info] [Automated Events] Spawning Cargo Ship
+12:33 [Info] [Automated Events] Next CargoShip event will be ran after 00:31:03
+12:35 [Info] [Automated Events] Next Chinook event will be ran after 00:42:43
+12:37 [Info] [Automated Events] Next CargoPlane event will be ran after 00:33:43
+12:37 [Info] [FancyDrop] Timed Airdrop skipped, not enough Players
+12:37 [Info] [FancyDrop] Next timed Airdrop in 35 minutes
+12:40 [Warning] Calling 'OnLootSpawn' on 'BetterLoot v3.0.1' took 108ms
+12:55 [Info] [ZLevelsRemastered] Nightbonus points disabled
+13:01 [Info] [Automated Events] Spawning Helicopter
+13:01 [Info] [Automated Events] Next Helicopter event will be ran after 00:57:21
+13:04 [Warning] [Automated Events] The number of CargoShip events has reached the limit of 1
+13:04 [Info] [Automated Events] Next CargoShip event will be ran after 00:30:17
+13:04 [Warning] [Automated Events] The number of Bradley events has reached the limit of 1
+13:04 [Info] [Automated Events] Next Bradley event will be ran after 00:42:05
+13:11 [Info] [Automated Events] Spawning Cargo Plane
+13:11 [Info] [Automated Events] Next CargoPlane event will be ran after 00:34:48
+13:12 [Info] [FancyDrop] Timed Airdrop skipped, not enough Players
+13:12 [Info] [FancyDrop] Next timed Airdrop in 39 minutes
+13:18 [Warning] [Automated Events] The number of Chinook events has reached the limit of 1
+13:18 [Info] [Automated Events] Next Chinook event will be ran after 00:42:19
+13:19 [Info] [Automated Events] Next CargoPlane event will be ran after 00:42:44
+13:20 [Info] [Automated Events] Next Helicopter event will be ran after 00:54:50
+13:25 [Info] [ZLevelsRemastered] Nightbonus points enabled
+13:33 [Info] [Automated Events] Next CargoShip event will be ran after 00:42:59
+13:46 [Warning] [Automated Events] The number of Bradley events has reached the limit of 1
+13:46 [Info] [Automated Events] Next Bradley event will be ran after 00:41:05
+13:51 [Info] [FancyDrop] Timed Airdrop skipped, not enough Players
+13:51 [Info] [FancyDrop] Next timed Airdrop in 39 minutes
+13:55 [Info] [ZLevelsRemastered] Nightbonus points disabled
+14:00 [Info] [Automated Events] Spawning Chinook
+14:00 [Info] [Automated Events] Next Chinook event will be ran after 00:34:48
+14:01 [Warning] Calling 'OnLootSpawn' on 'BetterLoot v3.0.1' took 103ms
+14:01 [Info] [Automated Events] Spawning Cargo Plane
+14:01 [Info] [Automated Events] Next CargoPlane event will be ran after 00:37:34
+14:09 [Info] [Automated Events] Next CargoPlane event will be ran after 00:34:38
+14:14 [Info] [Automated Events] Spawning Helicopter
+14:14 [Info] [Automated Events] Next Helicopter event will be ran after 00:54:18
+14:16 [Warning] [Automated Events] The number of CargoShip events has reached the limit of 1
+14:16 [Info] [Automated Events] Next CargoShip event will be ran after 00:34:59
+14:25 [Info] [ZLevelsRemastered] Nightbonus points enabled
+14:27 [Warning] [Automated Events] The number of Bradley events has reached the limit of 1
+14:27 [Info] [Automated Events] Next Bradley event will be ran after 00:31:46
+14:28 [Info] [Automated Events] Next Chinook event will be ran after 00:33:43
+14:30 [Info] [FancyDrop] Timed Airdrop skipped, not enough Players
+14:30 [Info] [FancyDrop] Next timed Airdrop in 47 minutes
+14:33 [Info] [Automated Events] Next Helicopter event will be ran after 00:56:48
+14:44 [Info] [Automated Events] Spawning Cargo Plane
+14:44 [Info] [Automated Events] Next CargoPlane event will be ran after 00:35:33
+14:51 [Info] [Automated Events] Spawning Cargo Ship
+14:51 [Info] [Automated Events] Next CargoShip event will be ran after 00:33:26
+14:52 [Info] [Automated Events] Next CargoPlane event will be ran after 00:40:40
+14:55 [Info] [ZLevelsRemastered] Nightbonus points disabled
+14:59 [Warning] [Automated Events] The number of Bradley events has reached the limit of 1
+14:59 [Info] [Automated Events] Next Bradley event will be ran after 00:40:14
+15:02 [Info] [Automated Events] Spawning Chinook
+15:02 [Info] [Automated Events] Next Chinook event will be ran after 00:40:24
+15:17 [Info] [FancyDrop] Timed Airdrop skipped, not enough Players
+15:17 [Info] [FancyDrop] Next timed Airdrop in 44 minutes
+15:23 [Warning] Calling 'OnEntityTakeDamage' on 'DeathNotes v6.3.5' took 101ms
+15:24 [Info] [Automated Events] Next Chinook event will be ran after 00:32:37
+15:24 [Warning] [Automated Events] The number of CargoShip events has reached the limit of 1
+15:24 [Info] [Automated Events] Next CargoShip event will be ran after 00:39:23
+15:25 [Info] [ZLevelsRemastered] Nightbonus points enabled
+15:30 [Info] [Automated Events] Spawning Helicopter
+15:30 [Info] [Automated Events] Next Helicopter event will be ran after 00:58:57
+15:33 [Info] [Automated Events] Spawning FancyDrop Cargo Plane
+15:33 [Info] [FancyDrop] Random Airdrop of type 'regular' incoming at: (1423, 25, -541) grid area: AE24
+15:33 [Info] [Automated Events] Next CargoPlane event will be ran after 00:35:57
+15:38 [Info] [ZLevelsRemastered] Nightbonus points disabled
+15:39 [Warning] [Automated Events] The number of Bradley events has reached the limit of 1
+15:39 [Info] [Automated Events] Next Bradley event will be ran after 00:34:26
+15:49 [Info] [Automated Events] Next Helicopter event will be ran after 00:48:43
+15:51 [Info] [Automated Events] Next CargoShip event will be ran after 00:40:59
+15:56 [Info] [Death Notes] PricedHam475 shot a Wolf using their Python Revolver over a distance of 0 meters.
+15:56 [Warning] [Automated Events] The number of Chinook events has reached the limit of 1
+15:56 [Info] [Automated Events] Next Chinook event will be ran after 00:36:50
+16:01 [Info] [FancyDrop] Timed Airdrop skipped, not enough Players
+16:01 [Info] [FancyDrop] Next timed Airdrop in 48 minutes
+16:04 [Info] [Death Notes] PricedHam475 killed a Wolf using their Salvaged Axe.
+16:06 [Info] [ZLevelsRemastered] Nightbonus points enabled
+16:08 [Info] [ZLevelsRemastered] Nightbonus points disabled
+16:09 [Info] [Automated Events] Spawning FancyDrop Cargo Plane
+16:09 [Info] [FancyDrop] Random Airdrop of type 'regular' incoming at: (1074, 38, 402) grid area: AC17
+16:09 [Info] [Automated Events] Next CargoPlane event will be ran after 00:39:51
+16:14 [Warning] [Automated Events] The number of Bradley events has reached the limit of 1
+16:14 [Info] [Automated Events] Next Bradley event will be ran after 00:39:00
+16:32 [Info] [Automated Events] Spawning Cargo Ship
+16:32 [Info] [Automated Events] Next CargoShip event will be ran after 00:40:56
+16:33 [Info] [Automated Events] Spawning Chinook
+16:33 [Info] [Automated Events] Next Chinook event will be ran after 00:34:22
+16:36 [Info] [ZLevelsRemastered] Nightbonus points enabled
+16:37 [Info] [Death Notes] Corona.Virus did not want to be a part of the Scientist's experiments.
+16:38 [Info] [ZLevelsRemastered] Nightbonus points disabled
+16:38 [Info] [Death Notes] Corona.Virus did not want to be a part of the Scientist's experiments.
+16:38 [Info] [Automated Events] Spawning Helicopter
+16:38 [Info] [Automated Events] Next Helicopter event will be ran after 00:58:35
+16:38 [Info] [Death Notes] Corona.Virus did not want to be a part of the Scientist's experiments.
+16:38 [Info] [Death Notes] Corona.Virus did not want to be a part of the Scientist's experiments.
+16:38 [Info] [Death Notes] Corona.Virus did not want to be a part of the Scientist's experiments.
+16:39 [Warning] Calling 'CanAcceptItem' on 'Backpacks v3.2.1' took 102ms
+16:39 [Info] [Death Notes] Corona.Virus did not want to be a part of the Scientist's experiments.
+16:39 [Info] [Death Notes] Corona.Virus did not want to be a part of the Scientist's experiments.
+16:39 [Info] [Death Notes] Corona.Virus did not want to be a part of the Scientist's experiments.
+16:40 [Info] [Death Notes] Corona.Virus did not want to be a part of the Scientist's experiments.
+16:40 [Info] [Death Notes] Corona.Virus did not want to be a part of the Scientist's experiments.
+16:40 [Info] [Death Notes] Corona.Virus did not want to be a part of the Scientist's experiments.
+16:40 [Info] [Death Notes] Corona.Virus did not want to be a part of the Scientist's experiments.
+16:41 [Info] [Death Notes] Corona.Virus did not want to be a part of the Scientist's experiments.
+16:44 [Info] [Death Notes] Corona.Virus had no chance against the Helicopter.
+16:44 [Warning] 'Backpacks v3.2.1' is using deprecated hook 'OnPlayerCorpse', which will stop working on Thursday, 01 July 2021. Please ask the author to update to 'OnPlayerCorpseSpawned(BasePlayer player, BaseCorpse corpse)'
+16:45 [Warning] Calling 'CanAcceptItem' on 'Backpacks v3.2.1' took 101ms
+16:49 [Info] [Automated Events] Spawning Cargo Plane
+16:49 [Info] [Automated Events] Next CargoPlane event will be ran after 00:42:30
+16:49 [Info] [FancyDrop] Timed Airdrop skipped, not enough Players
+16:49 [Info] [FancyDrop] Next timed Airdrop in 45 minutes
+16:50 [Info] [Death Notes] Corona.Virus did not want to be a part of the Scientist's experiments.
+16:50 [Info] [Death Notes] Corona.Virus did not want to be a part of the Scientist's experiments.
+16:53 [Warning] [Automated Events] The number of Bradley events has reached the limit of 1
+16:53 [Info] [Automated Events] Next Bradley event will be ran after 00:36:22
+16:55 [Warning] Calling 'CanAcceptItem' on 'Backpacks v3.2.1' took 103ms
+16:57 [Info] [Automated Events] Next CargoPlane event will be ran after 00:38:22
+16:57 [Info] [Automated Events] Next Helicopter event will be ran after 00:56:55
+16:59 [Info] [Automated Events] Next Chinook event will be ran after 00:38:49
+17:06 [Info] [ZLevelsRemastered] Nightbonus points enabled
+17:12 [Warning] Calling 'CanAcceptItem' on 'Backpacks v3.2.1' took 102ms
+17:13 [Warning] [Automated Events] The number of CargoShip events has reached the limit of 1
+17:13 [Info] [Automated Events] Next CargoShip event will be ran after 00:37:06
+17:29 [Warning] [Automated Events] The number of Bradley events has reached the limit of 1
+17:29 [Info] [Automated Events] Next Bradley event will be ran after 00:32:59
+17:32 [Info] [Automated Events] Next CargoShip event will be ran after 00:40:45
+17:34 [Info] [FancyDrop] Timed Airdrop skipped, not enough Players
+17:34 [Info] [FancyDrop] Next timed Airdrop in 38 minutes
+17:35 [Info] [Automated Events] Spawning FancyDrop Cargo Plane
+17:35 [Info] [FancyDrop] Random Airdrop of type 'regular' incoming at: (-1152, 58, 449) grid area: M17
+17:35 [Info] [Automated Events] Next CargoPlane event will be ran after 00:44:31
+17:36 [Info] [ZLevelsRemastered] Nightbonus points disabled
+17:38 [Info] [Automated Events] Spawning Chinook
+17:38 [Info] [Automated Events] Next Chinook event will be ran after 00:40:34
+17:50 [Warning] Calling 'CanAcceptItem' on 'Backpacks v3.2.1' took 106ms
+17:54 [Info] [Automated Events] Spawning Helicopter
+17:54 [Info] [Automated Events] Next Helicopter event will be ran after 00:59:45
+18:02 [Warning] [Automated Events] The number of Bradley events has reached the limit of 1
+18:02 [Info] [Automated Events] Next Bradley event will be ran after 00:38:18
+18:04 [Info] [Automated Events] Next Chinook event will be ran after 00:34:13
+18:06 [Info] [ZLevelsRemastered] Nightbonus points enabled
+18:12 [Info] [FancyDrop] Timed Airdrop skipped, not enough Players
+18:12 [Info] [FancyDrop] Next timed Airdrop in 48 minutes
+18:13 [Info] [Automated Events] Next Helicopter event will be ran after 00:55:00
+18:13 [Info] [Automated Events] Spawning Cargo Ship
+18:13 [Info] [Automated Events] Next CargoShip event will be ran after 00:36:29
+18:20 [Info] [Automated Events] Spawning FancyDrop Cargo Plane
+18:20 [Info] [FancyDrop] Random Airdrop of type 'regular' incoming at: (-1854, 53, 876) grid area: H14
+18:20 [Info] [Automated Events] Next CargoPlane event will be ran after 00:39:40
+18:36 [Info] [ZLevelsRemastered] Nightbonus points disabled
+18:39 [Info] [Automated Events] Spawning Chinook
+18:39 [Info] [Automated Events] Next Chinook event will be ran after 00:42:38
+18:41 [Warning] [Automated Events] The number of Bradley events has reached the limit of 1
+18:41 [Info] [Automated Events] Next Bradley event will be ran after 00:31:25
+18:49 [Warning] [Automated Events] The number of CargoShip events has reached the limit of 1
+18:49 [Info] [Automated Events] Next CargoShip event will be ran after 00:30:08
+18:54 [Warning] Calling 'OnTick' on 'FancyDrop v2.9.2' took 101ms
+18:59 [Info] [Automated Events] Spawning Cargo Plane
+18:59 [Info] [Automated Events] Next CargoPlane event will be ran after 00:44:37
+19:00 [Info] [FancyDrop] Timed Airdrop skipped, not enough Players
+19:00 [Info] [FancyDrop] Next timed Airdrop in 43 minutes
+19:03 [Info] [Automated Events] Next Chinook event will be ran after 00:33:57
+19:06 [Info] [ZLevelsRemastered] Nightbonus points enabled
+19:07 [Info] [Automated Events] Next CargoPlane event will be ran after 00:42:34
+19:08 [Info] [Automated Events] Spawning Helicopter
+19:08 [Info] [Automated Events] Next Helicopter event will be ran after 00:46:31
+19:12 [Warning] [Automated Events] The number of Bradley events has reached the limit of 1
+19:12 [Info] [Automated Events] Next Bradley event will be ran after 00:30:31
+19:13 [Info] [Automated Events] Next CargoShip event will be ran after 00:33:45
+19:27 [Info] [Automated Events] Next Helicopter event will be ran after 00:55:50
+19:36 [Info] [ZLevelsRemastered] Nightbonus points disabled
+19:37 [Info] [Automated Events] Spawning Chinook
+19:37 [Info] [Automated Events] Next Chinook event will be ran after 00:41:01
+19:42 [Warning] [Automated Events] The number of Bradley events has reached the limit of 1
+19:42 [Info] [Automated Events] Next Bradley event will be ran after 00:34:42
+19:43 [Info] [FancyDrop] Timed Airdrop skipped, not enough Players
+19:43 [Info] [FancyDrop] Next timed Airdrop in 47 minutes
+19:47 [Warning] [Automated Events] The number of CargoShip events has reached the limit of 1
+19:47 [Info] [Automated Events] Next CargoShip event will be ran after 00:30:29
+19:50 [Info] [Automated Events] Spawning Cargo Plane
+19:50 [Info] [Automated Events] Next CargoPlane event will be ran after 00:41:34
+19:58 [Info] [Automated Events] Next CargoPlane event will be ran after 00:32:03
+20:06 [Info] [ZLevelsRemastered] Nightbonus points enabled
+20:08 [Info] [Automated Events] Next Chinook event will be ran after 00:34:00
+20:17 [Warning] [Automated Events] The number of Bradley events has reached the limit of 1
+20:17 [Info] [Automated Events] Next Bradley event will be ran after 00:44:44
+20:17 [Warning] [Automated Events] The number of CargoShip events has reached the limit of 1
+20:17 [Info] [Automated Events] Next CargoShip event will be ran after 00:42:23
+20:23 [Info] [Automated Events] Spawning Helicopter
+20:23 [Info] [Automated Events] Next Helicopter event will be ran after 00:48:05
+20:30 [Info] [FancyDrop] Timed Airdrop skipped, not enough Players
+20:30 [Info] [FancyDrop] Next timed Airdrop in 37 minutes
+20:30 [Info] [Automated Events] Spawning Cargo Plane
+20:30 [Info] [Automated Events] Next CargoPlane event will be ran after 00:33:28
+20:36 [Info] [ZLevelsRemastered] Nightbonus points disabled
+20:39 [Info] [Automated Events] Next CargoPlane event will be ran after 00:37:08
+20:42 [Info] [Automated Events] Spawning Chinook
+20:42 [Info] [Automated Events] Next Chinook event will be ran after 00:35:27
+20:42 [Info] [Automated Events] Next Helicopter event will be ran after 00:55:44
+21:00 [Info] [Automated Events] Spawning Cargo Ship
+21:00 [Info] [Automated Events] Next CargoShip event will be ran after 00:36:29
+21:02 [Warning] [Automated Events] The number of Bradley events has reached the limit of 1
+21:02 [Info] [Automated Events] Next Bradley event will be ran after 00:32:56
+21:06 [Info] [ZLevelsRemastered] Nightbonus points enabled
+21:07 [Info] [FancyDrop] Timed Airdrop skipped, not enough Players
+21:07 [Info] [FancyDrop] Next timed Airdrop in 39 minutes
+21:12 [Info] [Automated Events] Next Chinook event will be ran after 00:30:04
+21:16 [Info] [Automated Events] Spawning FancyDrop Cargo Plane
+21:16 [Info] [FancyDrop] Random Airdrop of type 'regular' incoming at: (302, 13, -1488) grid area: W30
+21:16 [Info] [Automated Events] Next CargoPlane event will be ran after 00:35:44
+21:35 [Warning] [Automated Events] The number of Bradley events has reached the limit of 1
+21:35 [Info] [Automated Events] Next Bradley event will be ran after 00:36:45
+21:36 [Warning] [Automated Events] The number of CargoShip events has reached the limit of 1
+21:36 [Info] [Automated Events] Next CargoShip event will be ran after 00:40:14
+21:36 [Info] [ZLevelsRemastered] Nightbonus points disabled
+21:37 [Info] [Automated Events] Spawning Helicopter
+21:37 [Info] [Automated Events] Next Helicopter event will be ran after 00:57:03
+21:42 [Warning] [Automated Events] The number of Chinook events has reached the limit of 1
+21:42 [Info] [Automated Events] Next Chinook event will be ran after 00:43:39
+21:46 [Info] [FancyDrop] Timed Airdrop skipped, not enough Players
+21:46 [Info] [FancyDrop] Next timed Airdrop in 30 minutes
+21:52 [Info] [Automated Events] Spawning Cargo Plane
+21:52 [Info] [Automated Events] Next CargoPlane event will be ran after 00:41:22
+21:56 [Info] [Automated Events] Next Helicopter event will be ran after 00:52:49
+21:59 [Info] [Automated Events] Next CargoPlane event will be ran after 00:33:43
+22:00 [Info] [Automated Events] Next CargoShip event will be ran after 00:40:44
+22:06 [Info] [ZLevelsRemastered] Nightbonus points enabled
+22:12 [Warning] [Automated Events] The number of Bradley events has reached the limit of 1
+22:12 [Info] [Automated Events] Next Bradley event will be ran after 00:36:20
+22:16 [Info] [FancyDrop] Timed Airdrop skipped, not enough Players
+22:16 [Info] [FancyDrop] Next timed Airdrop in 32 minutes
+22:26 [Info] [Automated Events] Spawning Chinook
+22:26 [Info] [Automated Events] Next Chinook event will be ran after 00:33:51
+22:33 [Info] [Automated Events] Spawning Cargo Plane
+22:33 [Info] [Automated Events] Next CargoPlane event will be ran after 00:41:45
+22:36 [Info] [ZLevelsRemastered] Nightbonus points disabled
+22:41 [Warning] [Automated Events] The number of CargoShip events has reached the limit of 1
+22:41 [Info] [Automated Events] Next CargoShip event will be ran after 00:32:43
+22:41 [Info] [Automated Events] Next CargoPlane event will be ran after 00:33:36
+22:46 [Warning] Calling 'OnTick' on 'FancyDrop v2.9.2' took 101ms
+22:48 [Warning] [Automated Events] The number of Bradley events has reached the limit of 1
+22:48 [Info] [Automated Events] Next Bradley event will be ran after 00:37:10
+22:48 [Info] [FancyDrop] Timed Airdrop skipped, not enough Players
+22:48 [Info] [FancyDrop] Next timed Airdrop in 33 minutes
+22:49 [Info] [Automated Events] Spawning Helicopter
+22:49 [Info] [Automated Events] Next Helicopter event will be ran after 00:55:41
+22:58 [Info] [Automated Events] Next Chinook event will be ran after 00:44:40
+23:06 [Info] [ZLevelsRemastered] Nightbonus points enabled
+23:08 [Info] [Automated Events] Next Helicopter event will be ran after 00:46:18
+23:13 [Info] [Automated Events] Spawning Cargo Ship
+23:13 [Info] [Automated Events] Next CargoShip event will be ran after 00:41:03
+23:14 [Info] [Automated Events] Spawning Cargo Plane
+23:14 [Info] [Automated Events] Next CargoPlane event will be ran after 00:33:04
+23:21 [Info] [FancyDrop] Timed Airdrop skipped, not enough Players
+23:21 [Info] [FancyDrop] Next timed Airdrop in 35 minutes
+23:22 [Info] [Automated Events] Next CargoPlane event will be ran after 00:43:53
+23:25 [Warning] [Automated Events] The number of Bradley events has reached the limit of 1
+23:25 [Info] [Automated Events] Next Bradley event will be ran after 00:34:22
+23:36 [Info] [ZLevelsRemastered] Nightbonus points disabled
+23:42 [Info] [Automated Events] Spawning Chinook
+23:42 [Info] [Automated Events] Next Chinook event will be ran after 00:32:30
+23:54 [Warning] [Automated Events] The number of CargoShip events has reached the limit of 1
+23:54 [Info] [Automated Events] Next CargoShip event will be ran after 00:33:20
+23:55 [Info] [Automated Events] Spawning Helicopter
+23:55 [Info] [Automated Events] Next Helicopter event will be ran after 00:48:51
+23:56 [Warning] Calling 'OnEntityTakeDamage' on 'FancyDrop v2.9.2' took 102ms
+23:56 [Info] [FancyDrop] Timed Airdrop skipped, not enough Players
+23:56 [Info] [FancyDrop] Next timed Airdrop in 46 minutes
+23:59 [Warning] [Automated Events] The number of Bradley events has reached the limit of 1
+23:59 [Info] [Automated Events] Next Bradley event will be ran after 00:39:18

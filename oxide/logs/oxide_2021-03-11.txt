@@ -1,0 +1,1405 @@
+12:57 [Info] Loading Oxide Core v2.0.3991...
+12:57 [Info] Loading extensions...
+12:57 [Info] Loaded extension CSharp v2.0.4041 by Oxide Team and Contributors
+12:57 [Info] Loaded extension MySql v2.0.3760 by Oxide Team and Contributors
+12:57 [Info] Loaded extension Rust v2.0.4944 by Oxide Team and Contributors
+12:57 [Info] Loaded extension SQLite v2.0.3762 by Oxide Team and Contributors
+12:57 [Info] Loaded extension Unity v2.0.3772 by Oxide Team and Contributors
+12:57 [Info] Latest compiler MD5: 8ce6d27e7718e3d164766bba8833537a
+12:57 [Info] Local compiler MD5: 0
+12:57 [Info] Compiler MD5 hash did not match, downloading latest
+12:57 [Info] Downloading Compiler.x86_x64 for .cs (C#) plugin compilation
+12:57 [Info] Local MD5 hash did not match remote MD5 hash for Compiler.x86_x64, attempting download again
+12:57 [Info] Latest compiler MD5: 8ce6d27e7718e3d164766bba8833537a
+12:57 [Info] Local compiler MD5: 8ce6d27e7718e3d164766bba8833537a
+12:57 [Info] Using Covalence provider for game 'Rust'
+12:57 [Info] Loading plugins...
+12:57 [Info] Loaded plugin Rust v2.0.4944 by Oxide Team and Contributors
+12:57 [Info] Loaded plugin Unity v2.0.3772 by Oxide Team and Contributors
+12:58 [Info] IP address from command-line: 104.238.229.191
+12:59 [Info] Backpacks and AutomatedEvents were compiled successfully in 1920ms
+12:59 [Info] Loaded plugin Backpacks v3.2.1 by LaserHydra
+12:59 [Warning] [Automated Events] Creating a new configuration file
+12:59 [Info] Loaded plugin Automated Events v1.0.6 by k1lly0u/mspeedie/Arainrr
+12:59 [Info] BetterLoot, BetterChat and BetterCharcoal were compiled successfully in 265ms
+12:59 [Info] [BetterLoot] Using '21' active of '23' supported containertypes
+12:59 [Info] [BetterLoot] Exported 683 items to 'NamesList'
+12:59 [Info] [BetterLoot] Updating internals ...
+12:59 [Info] Loaded plugin BetterLoot v3.0.1 by Default
+12:59 [Info] Loaded plugin Better Chat v5.2.5 by LaserHydra
+12:59 [Info] Loaded plugin BetterCharcoal v1.0.2 by Jake_Rich
+12:59 [Info] [BetterLoot] Removed 2 stacked LootContainer
+12:59 [Info] [BetterLoot] Populated '502' supported containers.
+12:59 [Info] BuildingGrades, Clans and BGrade were compiled successfully in 302ms
+12:59 [Info] Loaded plugin Building Grades v0.5.1 by Default
+12:59 [Info] Loaded plugin Clans v0.1.55 by k1lly0u
+12:59 [Warning] [BGrade] Generating default configuration file...
+12:59 [Warning] [BGrade] Updated configuration file with new/changed values.
+12:59 [Info] Loaded plugin BGrade v1.1.3 by Ryan / Rustoria.co
+12:59 [Info] ClanTeam, Clans and ClanTags were compiled successfully in 468ms
+12:59 [Info] Unloaded plugin Clans v0.1.55 by k1lly0u
+12:59 [Warning] [DEBUG] ClanTeam plugin is waiting for requirements to be loaded: Clans
+12:59 [Error] Error while compiling: CopyPaste.cs(888,18): error CS1061: Type `Signage' does not contain a definition for `textureID' and no extension method `textureID' of type `Signage' could be found. Are you missing an assembly reference?
+12:59 [Info] Loaded plugin Clans v0.1.55 by k1lly0u
+12:59 [Info] Loaded plugin Clan Team v1.0.5 by deivismac
+12:59 [Info] Loaded plugin Clan Tags v0.8.0 by GreenArrow
+12:59 [Info] EasyAirdrop, DisableColdDamage and DeathNotes were compiled successfully in 212ms
+12:59 [Info] [Easy Airdrop] Generating new config file...
+12:59 [Info] Loaded plugin Easy Airdrop v3.2.5 by LaserHydra
+12:59 [Info] Loaded plugin Disable Cold Damage v1.0.3 by Talha
+12:59 [Warning] [Death Notes] Generating new configuration file...
+12:59 [Info] Loaded plugin Death Notes v6.3.5 by LaserHydra
+12:59 [Info] GatherManager, FurnaceSplitter and FancyDrop were compiled successfully in 318ms
+12:59 [Warning] [Gathering Manager] New configuration file created.
+12:59 [Warning] [Gathering Manager] Configuration file updated.
+12:59 [Info] Loaded plugin Gathering Manager v2.2.75 by Mughisi
+12:59 [Warning] [Furnace Splitter] Creating default config for FurnaceSplitter.
+12:59 [Info] Loaded plugin Furnace Splitter v2.2.7 by FastBurst
+12:59 [Info] [FancyDrop] Map Highest Point: (500m) | Plane flying height: (~500m)
+12:59 [Info] [FancyDrop] Timed Airdrop activated with '2' players between '30' and '50' minutes
+12:59 [Info] [FancyDrop] Builtin Airdrop removed
+12:59 [Info] [FancyDrop] Next timed Airdrop in 31 minutes
+12:59 [Info] Loaded plugin FancyDrop v2.9.2 by FastBurst
+12:59 [Error] Exception while calling NextTick callback (ArgumentException: An item with the same key has already been added. Key: GunRoll_Sub_Medium)
+  at System.Collections.Generic.Dictionary`2[TKey,TValue].TryInsert (TKey key, TValue value, System.Collections.Generic.InsertionBehavior behavior) [0x000c1] in <fb001e01371b4adca20013e0ac763896>:0 
+  at System.Collections.Generic.Dictionary`2[TKey,TValue].Add (TKey key, TValue value) [0x00000] in <fb001e01371b4adca20013e0ac763896>:0 
+  at Oxide.Plugins.FancyDrop.ExportLootSpawn (Oxide.Plugins.FancyDrop+ExportData expData, LootSpawn lootSpawn, System.Int32 level) [0x000c1] in <6b64ad8f974845318cc3dfe8fc2282a8>:0 
+  at Oxide.Plugins.FancyDrop.ExportLootSpawn (Oxide.Plugins.FancyDrop+ExportData expData, LootSpawn lootSpawn, System.Int32 level) [0x000ce] in <6b64ad8f974845318cc3dfe8fc2282a8>:0 
+  at Oxide.Plugins.FancyDrop.SetupLoot () [0x000a7] in <6b64ad8f974845318cc3dfe8fc2282a8>:0 
+  at Oxide.Plugins.FancyDrop.<OnServerInitialized>m__0 () [0x00000] in <6b64ad8f974845318cc3dfe8fc2282a8>:0 
+  at Oxide.Core.OxideMod.OnFrame (System.Single delta) [0x00051] in <c2afd8354b8b4f3ca451cf5a1aa111c3>:0 
+13:00 [Info] Kits, InventoryViewer and InstantCraft were compiled successfully in 309ms
+13:00 [Info] Loaded plugin Kits v3.3.1 by Reneb
+13:00 [Info] Loaded plugin Inventory Viewer v3.0.3 by Mughisi
+13:00 [Info] Loaded plugin Instant Craft v2.1.5 by Orange
+13:00 [Info] MagicBradleyPanel, MagicCargoShipPanel and MagicAirdropPanel were compiled successfully in 210ms
+13:00 [Warning] [Magic Bradley Panel] Loading Default Config
+13:00 [Error] [Magic Bradley Panel] Missing plugin dependency MagicPanel: https://umod.org/plugins/magic-panel
+13:00 [Info] Loaded plugin Magic Bradley Panel v1.0.1 by MJSU
+13:00 [Warning] [Magic Cargo Ship Panel] Loading Default Config
+13:00 [Error] [Magic Cargo Ship Panel] Missing plugin dependency MagicPanel: https://umod.org/plugins/magic-panel
+13:00 [Info] Loaded plugin Magic Cargo Ship Panel v1.0.1 by MJSU
+13:00 [Warning] [Magic Airdrop Panel] Loading Default Config
+13:00 [Error] [Magic Airdrop Panel] Missing plugin dependency MagicPanel: https://umod.org/plugins/magic-panel
+13:00 [Info] Loaded plugin Magic Airdrop Panel v1.0.1 by MJSU
+13:00 [Info] MagicPlayersPanel, MagicPanel and MagicHeliPanel were compiled successfully in 298ms
+13:00 [Warning] [Magic Players Panel] Loading Default Config
+13:00 [Error] [Magic Players Panel] Missing plugin dependency MagicPanel: https://umod.org/plugins/magic-panel
+13:00 [Info] Loaded plugin Magic Players Panel v1.0.2 by MJSU
+13:00 [Warning] [Magic Panel] Loading Default Config
+13:00 [Info] Loaded plugin Magic Panel v1.0.6 by MJSU
+13:00 [Warning] [Magic Heli Panel] Loading Default Config
+13:00 [Info] Loaded plugin Magic Heli Panel v1.0.2 by MJSU
+13:00 [Info] NoWorkbench, NoEscape and MagicSleepersPanel were compiled successfully in 274ms
+13:00 [Info] Loaded plugin NoWorkbench v0.1.51 by k1lly0u
+13:00 [Info] Loaded plugin No Escape v2.1.31 by Calytic
+13:00 [Warning] [Magic Sleepers Panel] Loading Default Config
+13:00 [Info] Loaded plugin Magic Sleepers Panel v1.0.2 by MJSU
+13:00 [Info] RecyclerSpeed, QuickSmelt and NTeleportation were compiled successfully in 294ms
+13:00 [Info] Loaded plugin Recycler Speed v1.0.4 by yetzt
+13:00 [Info] Loaded plugin Quick Smelt v5.1.3 by Iv Misticos
+13:00 [Info] [NTeleportation] Loaded default configuration.
+13:00 [Info] [NTeleportation] Rust was upgraded or map changed - homes, town, outpost and bandit may be invalid!
+13:00 [Info] Loaded plugin NTeleportation v1.4.2 by nivex
+13:00 [Info] SkipNightVote, SAMSiteAuth and RemoverTool were compiled successfully in 271ms
+13:00 [Info] Loaded plugin SkipNightVote v0.1.4 by k1lly0u
+13:00 [Info] Loaded plugin SAMSiteAuth v2.3.3 by haggbart
+13:00 [Warning] [Remover Tool] Creating a new configuration file
+13:00 [Info] Loaded plugin Remover Tool v4.3.22 by Reneb/Fuji/Arainrr
+13:01 [Info] StackSizeController, TownTeleport and StackMultiplier were compiled successfully in 256ms
+13:01 [Info] [Stack Size Controller] Generating a new config file...
+13:01 [Info] [Stack Size Controller] Added item category: 'Attire' to the config.
+13:01 [Info] [Stack Size Controller] Added item category: 'Misc' to the config.
+13:01 [Info] [Stack Size Controller] Added item category: 'Items' to the config.
+13:01 [Info] [Stack Size Controller] Added item category: 'Construction' to the config.
+13:01 [Info] [Stack Size Controller] Added item category: 'Component' to the config.
+13:01 [Info] [Stack Size Controller] Added item category: 'Traps' to the config.
+13:01 [Info] [Stack Size Controller] Added item category: 'Electrical' to the config.
+13:01 [Info] [Stack Size Controller] Added item category: 'Fun' to the config.
+13:01 [Info] [Stack Size Controller] Added item category: 'Food' to the config.
+13:01 [Info] [Stack Size Controller] Added item category: 'Resources' to the config.
+13:01 [Info] [Stack Size Controller] Added item category: 'Tool' to the config.
+13:01 [Info] [Stack Size Controller] Added item category: 'Medical' to the config.
+13:01 [Info] Loaded plugin Stack Size Controller v2.0.4 by Canopy Sheep
+13:01 [Info] Loaded plugin TownTeleport v1.10.1 by mvrb
+13:01 [Warning] [Stack Multiplier] A new configuration file is being generated.
+13:01 [Info] Loaded plugin Stack Multiplier v1.0.3 by Ryz0r
+13:01 [Info] UpgradePermissions and Trade were compiled successfully in 306ms
+13:01 [Info] Loaded plugin Upgrade Permissions v2.0.0 by Wulf
+13:01 [Warning] [Trade] Unable to call hook directly: LoadDefaultConfig
+13:01 [Info] Loaded plugin Trade v1.2.42 by Calytic
+13:04 [Info] Loading Oxide Core v2.0.3991...
+13:04 [Info] Loading extensions...
+13:04 [Info] Loaded extension CSharp v2.0.4041 by Oxide Team and Contributors
+13:04 [Info] Loaded extension MySql v2.0.3760 by Oxide Team and Contributors
+13:04 [Info] Loaded extension Rust v2.0.4944 by Oxide Team and Contributors
+13:04 [Info] Loaded extension SQLite v2.0.3762 by Oxide Team and Contributors
+13:04 [Info] Loaded extension Unity v2.0.3772 by Oxide Team and Contributors
+13:04 [Info] Latest compiler MD5: 8ce6d27e7718e3d164766bba8833537a
+13:04 [Info] Local compiler MD5: 8ce6d27e7718e3d164766bba8833537a
+13:04 [Info] Using Covalence provider for game 'Rust'
+13:04 [Info] Loading plugins...
+13:04 [Info] Loaded plugin Rust v2.0.4944 by Oxide Team and Contributors
+13:04 [Info] Loaded plugin Unity v2.0.3772 by Oxide Team and Contributors
+13:04 [Info] AutomatedEvents, AutomaticAuthorization, BGrade, Backpacks, BetterCharcoal, BetterChat, BetterLoot, BuildingGrades, ClanTags, ClanTeam, Clans, DeathNotes, DisableColdDamage, EasyAirdrop, FancyDrop, FurnaceSplitter, GatherManager, InstantCraft, InventoryViewer, Kits, MagicAirdropPanel, MagicBradleyPanel, MagicCargoShipPanel, MagicHeliPanel, MagicPanel, MagicPlayersPanel, MagicSleepersPanel, NTeleportation, NoEscape, NoWorkbench, QuickSmelt, RecyclerSpeed, RemoverTool, SAMSiteAuth, SkipNightVote, StackMultiplier, StackSizeController, TownTeleport, Trade and UpgradePermissions were compiled successfully in 0ms
+13:04 [Warning] [DEBUG] ClanTeam plugin is waiting for requirements to be loaded: Clans
+13:04 [Error] Error while compiling: CopyPaste.cs(888,18): error CS1061: Type `Signage' does not contain a definition for `textureID' and no extension method `textureID' of type `Signage' could be found. Are you missing an assembly reference?
+13:04 [Info] Loaded plugin Automated Events v1.0.6 by k1lly0u/mspeedie/Arainrr
+13:04 [Info] Loaded plugin Automatic Authorization v1.2.2 by k1lly0u/Arainrr
+13:04 [Info] Loaded plugin BGrade v1.1.3 by Ryan / Rustoria.co
+13:04 [Info] Loaded plugin Backpacks v3.2.1 by LaserHydra
+13:04 [Info] Loaded plugin BetterCharcoal v1.0.2 by Jake_Rich
+13:04 [Info] Loaded plugin Better Chat v5.2.5 by LaserHydra
+13:04 [Info] Loaded plugin BetterLoot v3.0.1 by Default
+13:04 [Info] Loaded plugin Building Grades v0.5.1 by Default
+13:04 [Info] Loaded plugin Clan Tags v0.8.0 by GreenArrow
+13:04 [Info] Loaded plugin Clans v0.1.55 by k1lly0u
+13:04 [Info] Loaded plugin Clan Team v1.0.5 by deivismac
+13:04 [Info] Loaded plugin Death Notes v6.3.5 by LaserHydra
+13:04 [Info] Loaded plugin Disable Cold Damage v1.0.3 by Talha
+13:04 [Info] [Easy Airdrop] Generating new config file...
+13:04 [Info] Loaded plugin Easy Airdrop v3.2.5 by LaserHydra
+13:04 [Info] Loaded plugin FancyDrop v2.9.2 by FastBurst
+13:04 [Info] Loaded plugin Furnace Splitter v2.2.7 by FastBurst
+13:04 [Info] Loaded plugin Gathering Manager v2.2.75 by Mughisi
+13:04 [Info] Loaded plugin Instant Craft v2.1.5 by Orange
+13:04 [Info] Loaded plugin Inventory Viewer v3.0.3 by Mughisi
+13:04 [Info] Loaded plugin Kits v3.3.1 by Reneb
+13:04 [Info] Loaded plugin Magic Airdrop Panel v1.0.1 by MJSU
+13:04 [Info] Loaded plugin Magic Bradley Panel v1.0.1 by MJSU
+13:04 [Info] Loaded plugin Magic Cargo Ship Panel v1.0.1 by MJSU
+13:04 [Info] Loaded plugin Magic Heli Panel v1.0.2 by MJSU
+13:04 [Info] Loaded plugin Magic Panel v1.0.6 by MJSU
+13:04 [Info] Loaded plugin Magic Players Panel v1.0.2 by MJSU
+13:04 [Info] Loaded plugin Magic Sleepers Panel v1.0.2 by MJSU
+13:04 [Info] Loaded plugin NTeleportation v1.4.2 by nivex
+13:04 [Info] Loaded plugin No Escape v2.1.31 by Calytic
+13:04 [Info] Loaded plugin NoWorkbench v0.1.51 by k1lly0u
+13:04 [Info] Loaded plugin Quick Smelt v5.1.3 by Iv Misticos
+13:04 [Info] Loaded plugin Recycler Speed v1.0.4 by yetzt
+13:04 [Info] Loaded plugin Remover Tool v4.3.22 by Reneb/Fuji/Arainrr
+13:04 [Info] Loaded plugin SAMSiteAuth v2.3.3 by haggbart
+13:04 [Info] Loaded plugin SkipNightVote v0.1.4 by k1lly0u
+13:04 [Warning] [Stack Multiplier] A new configuration file is being generated.
+13:04 [Info] Loaded plugin Stack Multiplier v1.0.3 by Ryz0r
+13:04 [Info] Loaded plugin Stack Size Controller v2.0.4 by Canopy Sheep
+13:04 [Info] Loaded plugin TownTeleport v1.10.1 by mvrb
+13:04 [Info] Loaded plugin Trade v1.2.42 by Calytic
+13:04 [Info] Loaded plugin Upgrade Permissions v2.0.0 by Wulf
+13:05 [Info] IP address from command-line: 104.238.229.191
+13:05 [Error] [Automated Events] There is no Bradley Spawner on your server, so the Bradley event is disabled
+13:05 [Info] [BetterLoot] Using '21' active of '23' supported containertypes
+13:05 [Info] [BetterLoot] Updating internals ...
+13:05 [Info] [FancyDrop] Map Highest Point: (500m) | Plane flying height: (~500m)
+13:05 [Info] [FancyDrop] Timed Airdrop activated with '2' players between '30' and '50' minutes
+13:05 [Info] [FancyDrop] Builtin Airdrop removed
+13:05 [Info] [FancyDrop] Next timed Airdrop in 45 minutes
+13:05 [Info] [NTeleportation] Rust was upgraded or map changed - clearing homes, town, outpost and bandit!
+13:05 [Info] [BetterLoot] No stacked LootContainer found.
+13:05 [Info] [BetterLoot] Populated '200' supported containers.
+13:05 [Error] Exception while calling NextTick callback (ArgumentException: An item with the same key has already been added. Key: GunRoll_Sub_Medium)
+  at System.Collections.Generic.Dictionary`2[TKey,TValue].TryInsert (TKey key, TValue value, System.Collections.Generic.InsertionBehavior behavior) [0x000c1] in <fb001e01371b4adca20013e0ac763896>:0 
+  at System.Collections.Generic.Dictionary`2[TKey,TValue].Add (TKey key, TValue value) [0x00000] in <fb001e01371b4adca20013e0ac763896>:0 
+  at Oxide.Plugins.FancyDrop.ExportLootSpawn (Oxide.Plugins.FancyDrop+ExportData expData, LootSpawn lootSpawn, System.Int32 level) [0x000c1] in <7692c9d393dc42d9acbbe5ac6d73b8b2>:0 
+  at Oxide.Plugins.FancyDrop.ExportLootSpawn (Oxide.Plugins.FancyDrop+ExportData expData, LootSpawn lootSpawn, System.Int32 level) [0x000ce] in <7692c9d393dc42d9acbbe5ac6d73b8b2>:0 
+  at Oxide.Plugins.FancyDrop.SetupLoot () [0x000a7] in <7692c9d393dc42d9acbbe5ac6d73b8b2>:0 
+  at Oxide.Plugins.FancyDrop.<OnServerInitialized>m__0 () [0x00000] in <7692c9d393dc42d9acbbe5ac6d73b8b2>:0 
+  at Oxide.Core.OxideMod.OnFrame (System.Single delta) [0x00051] in <c2afd8354b8b4f3ca451cf5a1aa111c3>:0 
+13:05 [Info] [Automated Events] Next Helicopter event will be ran after 00:53:25
+13:05 [Info] [Automated Events] Next Chinook event will be ran after 00:30:03
+13:05 [Info] [Automated Events] Next CargoShip event will be ran after 00:42:35
+13:05 [Info] [Automated Events] Next CargoPlane event will be ran after 00:44:55
+13:11 [Info] Listing 41 plugins:
+  01 "Automated Events" (1.0.6) by k1lly0u/mspeedie/Arainrr (0.01s) - AutomatedEvents.cs
+  02 "Automatic Authorization" (1.2.2) by k1lly0u/Arainrr (0.02s) - AutomaticAuthorization.cs
+  03 "BGrade" (1.1.3) by Ryan / Rustoria.co (0.00s) - BGrade.cs
+  04 "Backpacks" (3.2.1) by LaserHydra (0.01s) - Backpacks.cs
+  05 "BetterCharcoal" (1.0.2) by Jake_Rich (0.00s) - BetterCharcoal.cs
+  06 "Better Chat" (5.2.5) by LaserHydra (0.00s) - BetterChat.cs
+  07 "BetterLoot" (3.0.1) by Default (0.09s) - BetterLoot.cs
+  08 "Building Grades" (0.5.1) by Default (0.00s) - BuildingGrades.cs
+  09 "Clan Tags" (0.8.0) by GreenArrow (0.00s) - ClanTags.cs
+  10 "Clans" (0.1.55) by k1lly0u (0.01s) - Clans.cs
+  11 "Clan Team" (1.0.5) by deivismac (0.00s) - ClanTeam.cs
+  12 "Death Notes" (6.3.5) by LaserHydra (0.00s) - DeathNotes.cs
+  13 "Disable Cold Damage" (1.0.3) by Talha (0.00s) - DisableColdDamage.cs
+  14 "Easy Airdrop" (3.2.5) by LaserHydra (0.00s) - EasyAirdrop.cs
+  15 "FancyDrop" (2.9.2) by FastBurst (0.07s) - FancyDrop.cs
+  16 "Furnace Splitter" (2.2.7) by FastBurst (0.01s) - FurnaceSplitter.cs
+  17 "Gathering Manager" (2.2.75) by Mughisi (0.04s) - GatherManager.cs
+  18 "Instant Craft" (2.1.5) by Orange (0.00s) - InstantCraft.cs
+  19 "Inventory Viewer" (3.0.3) by Mughisi (0.00s) - InventoryViewer.cs
+  20 "Kits" (3.3.1) by Reneb (0.00s) - Kits.cs
+  21 "Magic Airdrop Panel" (1.0.1) by MJSU (0.02s) - MagicAirdropPanel.cs
+  22 "Magic Bradley Panel" (1.0.1) by MJSU (0.01s) - MagicBradleyPanel.cs
+  23 "Magic Cargo Ship Panel" (1.0.1) by MJSU (0.01s) - MagicCargoShipPanel.cs
+  24 "Magic Heli Panel" (1.0.2) by MJSU (0.01s) - MagicHeliPanel.cs
+  25 "Magic Panel" (1.0.6) by MJSU (0.01s) - MagicPanel.cs
+  26 "Magic Players Panel" (1.0.2) by MJSU (0.00s) - MagicPlayersPanel.cs
+  27 "Magic Sleepers Panel" (1.0.2) by MJSU (0.00s) - MagicSleepersPanel.cs
+  28 "NTeleportation" (1.4.2) by nivex (0.05s) - NTeleportation.cs
+  29 "No Escape" (2.1.31) by Calytic (0.01s) - NoEscape.cs
+  30 "NoWorkbench" (0.1.51) by k1lly0u (0.00s) - NoWorkbench.cs
+  31 "Quick Smelt" (5.1.3) by Iv Misticos (0.09s) - QuickSmelt.cs
+  32 "Recycler Speed" (1.0.4) by yetzt (0.00s) - RecyclerSpeed.cs
+  33 "Remover Tool" (4.3.22) by Reneb/Fuji/Arainrr (0.02s) - RemoverTool.cs
+  34 "SAMSiteAuth" (2.3.3) by haggbart (0.00s) - SAMSiteAuth.cs
+  35 "SkipNightVote" (0.1.4) by k1lly0u (0.01s) - SkipNightVote.cs
+  36 "Stack Multiplier" (1.0.3) by Ryz0r (0.00s) - StackMultiplier.cs
+  37 "Stack Size Controller" (2.0.4) by Canopy Sheep (0.01s) - StackSizeController.cs
+  38 "TownTeleport" (1.10.1) by mvrb (0.05s) - TownTeleport.cs
+  39 "Trade" (1.2.42) by Calytic (0.00s) - Trade.cs
+  40 "Upgrade Permissions" (2.0.0) by Wulf (0.00s) - UpgradePermissions.cs
+  41 CopyPaste - Failed to compile: CopyPaste.cs(888,18): error CS1061: Type `Signage' does not contain a definition for `textureID' and no extension method `textureID' of type `Signage' could be found. Are you missing an assembly reference?
+13:20 [Info] Usage: oxide.group <add|set> <name> [title] [rank]
+13:20 [Info] Usage: oxide.group <parent> <name> <parentName>
+13:20 [Info] Usage: oxide.group <remove> <name>
+13:21 [Info] Group 'Player' created
+13:23 [Info] Permissions:
+oxide.plugins, oxide.load, oxide.reload, oxide.unload, oxide.grant, oxide.group, oxide.revoke, oxide.show, oxide.usergroup, automatedevents.allowed, automatedevents.next, automaticauthorization.use, bgrade.1, bgrade.2, bgrade.3, bgrade.4, bgrade.nores, bgrade.all, backpacks.use, backpacks.fetch, backpacks.admin, backpacks.keepondeath, backpacks.use.1, backpacks.use.2, backpacks.use.3, backpacks.use.4, backpacks.use.5, backpacks.use.6, backpacks.use.7, bettercharcoal.allowed, betterchat.admin, deathnotes.cansee, disablecolddamage.use, easyairdrop.call, easyairdrop.call.player, easyairdrop.call.position, easyairdrop.call.mass, furnacesplitter.use, instantcraft.use, inventoryviewer.allowed, nteleportation.deletehome, nteleportation.home, nteleportation.homehomes, nteleportation.importhomes, nteleportation.radiushome, nteleportation.tp, nteleportation.tpb, nteleportation.tpr, nteleportation.tpconsole, nteleportation.tphome, nteleportation.tptown, nteleportation.tpt, nteleportation.tpoutpost, nteleportation.tpbandit, nteleportation.tpn, nteleportation.tpl, nteleportation.tpremove, nteleportation.tpsave, nteleportation.wipehomes, nteleportation.crafthome, nteleportation.crafttown, nteleportation.craftoutpost, nteleportation.craftbandit, nteleportation.crafttpr, nteleportation.vip, recyclerspeed.use, removertool.all, removertool.admin, removertool.normal, removertool.target, removertool.override, removertool.external, removertool.structure, skipnightvote.admin, stackmultiplier.use, townteleport.outpost, townteleport.bandit, townteleport.nocooldown, trade.use, trade.accept, upgradepermissions.twigs, upgradepermissions.wood, upgradepermissions.stone, upgradepermissions.metal, upgradepermissions.toptier, upgradepermissions.count, upgradepermissions.none, buildinggrades.cangrade, buildinggrades.nocost, buildinggrades.down, clantags.admin, clantags.default, kits.admin, kits.consolegive, noescape.disable, noescape.raid.removeblock, noescape.combat.removeblock, noescape.raid.tpblock, noescape.combat.tpblock, noescape.raid.bankblock, noescape.combat.bankblock, noescape.raid.tradeblock, noescape.combat.tradeblock, noescape.raid.recycleblock, noescape.combat.recycleblock, noescape.raid.shopblock, noescape.combat.shopblock, noescape.raid.bgradeblock, noescape.combat.bgradeblock, noescape.raid.buildblock, noescape.combat.buildblock, noescape.raid.repairblock, noescape.combat.repairblock, noescape.raid.upgradeblock, noescape.combat.upgradeblock, noescape.raid.vendblock, noescape.combat.vendblock, noescape.raid.kitblock, noescape.combat.kitblock, noescape.raid.assignbedblock, noescape.combat.assignbedblock, noescape.raid.craftblock, noescape.combat.craftblock, noescape.raid.mailboxblock, noescape.combat.mailboxblock, noescape.raid.backpackblock, noescape.combat.backpackblock, quicksmelt.use, stacksizecontroller.canchangestacksize
+13:23 [Info] [Death Notes] BigSmoke shot a Bear using their Hunting Bow over a distance of 10.8 meters.
+13:23 [Info] Group 'Player' granted permission 'bgrade.1'
+13:23 [Info] Group 'Player' granted permission 'bgrade.2'
+13:23 [Info] Group 'Player' granted permission 'bgrade.3'
+13:23 [Info] Group 'Player' granted permission 'bgrade.4'
+13:23 [Info] Group 'Player' granted permission 'bgrade.all'
+13:24 [Info] Group 'Player' granted permission 'backpacks.use'
+13:24 [Info] Group 'Player' granted permission 'bettercharcoal.allowed'
+13:24 [Info] Group 'Player' granted permission 'deathnotes.cansee'
+13:24 [Info] Usage: oxide.grant <group|user> <name|id> <permission>
+13:24 [Info] Group 'Player' granted permission 'disablecolddamage.use'
+13:24 [Info] Group 'Player' already has permission 'disablecolddamage.use'
+13:25 [Info] Group 'Player' granted permission 'furnacesplitter.use'
+13:25 [Info] Group 'Player' granted permission 'instantcraft.use'
+13:25 [Info] Permission 'nteleportation.deletehome,' doesn't exist
+13:26 [Info] Group 'Player' granted permission 'nteleportation.deletehome'
+13:26 [Info] Group 'Player' granted permission 'nteleportation.home'
+13:26 [Info] Group 'Player' granted permission 'nteleportation.homehomes'
+13:26 [Info] Group 'Player' granted permission 'nteleportation.tpb'
+13:27 [Info] [Death Notes] BigSmoke shot a Wolf using their Hunting Bow over a distance of 15.8 meters.
+13:27 [Info] Group 'Player' granted permission 'nteleportation.tpr'
+13:27 [Info] Group 'Player' granted permission 'nteleportation.tphome'
+13:27 [Info] Group 'Player' granted permission 'nteleportation.tpoutpost'
+13:27 [Info] Group 'Player' granted permission 'nteleportation.tpbandit'
+13:28 [Info] Group 'Player' does not have permission 'nteleportation.tp'
+13:28 [Info] Group 'Player' revoked permission 'nteleportation.tpb'
+13:28 [Info] Group 'Player' does not have permission 'nteleportation.craftoutpost'
+13:28 [Info] Group 'Player' does not have permission 'nteleportation.craftbandit'
+13:28 [Info] Group 'Player' does not have permission 'nteleportation.craftbandit'
+13:29 [Info] Group 'Player' does not have permission 'nteleportation.crafttpr'
+13:29 [Info] Group 'Player' does not have permission 'recyclerspeed.use'
+13:29 [Info] Group 'Player' does not have permission 'removertool.normal'
+13:30 [Info] Group 'Player' does not have permission 'stackmultiplier.use'
+13:30 [Info] Player 'BigSmoke(76561198285596771)' added to group: Player
+13:31 [Info] Usage: oxide.usergroup <add|remove> <username> <groupname>
+13:31 [Info] Player 'DevL(76561198154580978)' added to group: Player
+13:31 [Info] [Better Chat] [Global] [Player] DevL: .
+13:31 [Info] [Better Chat] [Global] [Player] BigSmoke: .
+13:31 [Info] Group 'Player' does not have permission 'buildinggrades.cangrade'
+13:32 [Info] Group 'Player' does not have permission 'upgradepermissions.toptier'
+13:32 [Info] Group 'Player' does not have permission 'removertool.normal'
+13:32 [Info] Group 'Player' granted permission 'removertool.normal'
+13:33 [Info] Group 'Player' granted permission 'nteleportation.craftoutpost'
+13:33 [Info] Group 'Player' granted permission 'nteleportation.craftbandit'
+13:33 [Info] Group 'Player' granted permission 'nteleportation.crafttpr'
+13:34 [Info] Group 'Player' granted permission 'recyclerspeed.use'
+13:34 [Info] Group 'Player' already has permission 'removertool.normal'
+13:34 [Info] Group 'Player' granted permission 'stackmultiplier.use'
+13:34 [Info] Permissions:
+oxide.plugins, oxide.load, oxide.reload, oxide.unload, oxide.grant, oxide.group, oxide.revoke, oxide.show, oxide.usergroup, automatedevents.allowed, automatedevents.next, automaticauthorization.use, bgrade.1, bgrade.2, bgrade.3, bgrade.4, bgrade.nores, bgrade.all, backpacks.use, backpacks.fetch, backpacks.admin, backpacks.keepondeath, backpacks.use.1, backpacks.use.2, backpacks.use.3, backpacks.use.4, backpacks.use.5, backpacks.use.6, backpacks.use.7, bettercharcoal.allowed, betterchat.admin, deathnotes.cansee, disablecolddamage.use, easyairdrop.call, easyairdrop.call.player, easyairdrop.call.position, easyairdrop.call.mass, furnacesplitter.use, instantcraft.use, inventoryviewer.allowed, nteleportation.deletehome, nteleportation.home, nteleportation.homehomes, nteleportation.importhomes, nteleportation.radiushome, nteleportation.tp, nteleportation.tpb, nteleportation.tpr, nteleportation.tpconsole, nteleportation.tphome, nteleportation.tptown, nteleportation.tpt, nteleportation.tpoutpost, nteleportation.tpbandit, nteleportation.tpn, nteleportation.tpl, nteleportation.tpremove, nteleportation.tpsave, nteleportation.wipehomes, nteleportation.crafthome, nteleportation.crafttown, nteleportation.craftoutpost, nteleportation.craftbandit, nteleportation.crafttpr, nteleportation.vip, recyclerspeed.use, removertool.all, removertool.admin, removertool.normal, removertool.target, removertool.override, removertool.external, removertool.structure, skipnightvote.admin, stackmultiplier.use, townteleport.outpost, townteleport.bandit, townteleport.nocooldown, trade.use, trade.accept, upgradepermissions.twigs, upgradepermissions.wood, upgradepermissions.stone, upgradepermissions.metal, upgradepermissions.toptier, upgradepermissions.count, upgradepermissions.none, buildinggrades.cangrade, buildinggrades.nocost, buildinggrades.down, clantags.admin, clantags.default, kits.admin, kits.consolegive, noescape.disable, noescape.raid.removeblock, noescape.combat.removeblock, noescape.raid.tpblock, noescape.combat.tpblock, noescape.raid.bankblock, noescape.combat.bankblock, noescape.raid.tradeblock, noescape.combat.tradeblock, noescape.raid.recycleblock, noescape.combat.recycleblock, noescape.raid.shopblock, noescape.combat.shopblock, noescape.raid.bgradeblock, noescape.combat.bgradeblock, noescape.raid.buildblock, noescape.combat.buildblock, noescape.raid.repairblock, noescape.combat.repairblock, noescape.raid.upgradeblock, noescape.combat.upgradeblock, noescape.raid.vendblock, noescape.combat.vendblock, noescape.raid.kitblock, noescape.combat.kitblock, noescape.raid.assignbedblock, noescape.combat.assignbedblock, noescape.raid.craftblock, noescape.combat.craftblock, noescape.raid.mailboxblock, noescape.combat.mailboxblock, noescape.raid.backpackblock, noescape.combat.backpackblock, quicksmelt.use, stacksizecontroller.canchangestacksize
+13:35 [Info] [Automated Events] Spawning Chinook
+13:35 [Info] [Automated Events] Next Chinook event will be ran after 00:40:56
+13:36 [Info] Group 'Player' granted permission 'upgradepermissions.twigs'
+13:36 [Info] Group 'Player' granted permission 'upgradepermissions.wood'
+13:36 [Info] Group 'Player' granted permission 'upgradepermissions.stone'
+13:36 [Info] Group 'Player' granted permission 'upgradepermissions.metal'
+13:36 [Info] Group 'Player' granted permission 'upgradepermissions.toptier'
+13:37 [Info] Group 'Player' granted permission 'quicksmelt.use'
+13:37 [Info] Usage: oxide.grant <group|user> <name|id> <permission>
+13:37 [Info] Usage: oxide.grant <group|user> <name|id> <permission>
+13:37 [Info] Player 'DevL (76561198154580978)' granted permission 'oxide.*'
+13:38 [Info] Player 'DevL' does not have permission 'oxide.*'
+13:39 [Info] [Better Chat] [Global] [Player] DevL: .
+13:39 [Info] Groups:
+default, admin, player
+13:40 [Info] Permission 'admin' doesn't exist
+13:40 [Info] Usage: oxide.usergroup <add|remove> <username> <groupname>
+13:40 [Info] Player 'DevL(76561198154580978)' added to group: admin
+13:40 [Info] [Better Chat] [Global] [Player] DevL: .
+13:43 [Info] Unloaded plugin Automated Events v1.0.6 by k1lly0u/mspeedie/Arainrr
+13:43 [Info] Unloaded plugin Automatic Authorization v1.2.2 by k1lly0u/Arainrr
+13:43 [Info] Unloaded plugin BGrade v1.1.3 by Ryan / Rustoria.co
+13:43 [Info] Unloaded plugin Backpacks v3.2.1 by LaserHydra
+13:43 [Info] Unloaded plugin BetterCharcoal v1.0.2 by Jake_Rich
+13:43 [Info] Unloaded plugin Better Chat v5.2.5 by LaserHydra
+13:43 [Info] Unloaded plugin BetterLoot v3.0.1 by Default
+13:43 [Info] Unloaded plugin Building Grades v0.5.1 by Default
+13:43 [Info] Unloaded plugin Clan Tags v0.8.0 by GreenArrow
+13:43 [Info] Unloaded plugin Clan Team v1.0.5 by deivismac
+13:43 [Info] Unloaded plugin Clans v0.1.55 by k1lly0u
+13:43 [Info] Unloaded plugin Death Notes v6.3.5 by LaserHydra
+13:43 [Info] Unloaded plugin Disable Cold Damage v1.0.3 by Talha
+13:43 [Info] Unloaded plugin Easy Airdrop v3.2.5 by LaserHydra
+13:43 [Warning] Calling 'Unload' on 'FancyDrop v2.9.2' took 107ms
+13:43 [Info] Unloaded plugin FancyDrop v2.9.2 by FastBurst
+13:43 [Info] Unloaded plugin Furnace Splitter v2.2.7 by FastBurst
+13:43 [Info] Unloaded plugin Gathering Manager v2.2.75 by Mughisi
+13:43 [Info] Unloaded plugin Instant Craft v2.1.5 by Orange
+13:43 [Info] Unloaded plugin Inventory Viewer v3.0.3 by Mughisi
+13:43 [Info] Unloaded plugin Kits v3.3.1 by Reneb
+13:43 [Info] Unloaded plugin Magic Airdrop Panel v1.0.1 by MJSU
+13:43 [Info] Unloaded plugin Magic Bradley Panel v1.0.1 by MJSU
+13:43 [Info] Unloaded plugin Magic Cargo Ship Panel v1.0.1 by MJSU
+13:43 [Info] Unloaded plugin Magic Heli Panel v1.0.2 by MJSU
+13:43 [Info] Unloaded plugin Magic Panel v1.0.6 by MJSU
+13:43 [Info] Unloaded plugin Magic Players Panel v1.0.2 by MJSU
+13:43 [Info] Unloaded plugin Magic Sleepers Panel v1.0.2 by MJSU
+13:43 [Info] Unloaded plugin NTeleportation v1.4.2 by nivex
+13:43 [Info] Unloaded plugin No Escape v2.1.31 by Calytic
+13:43 [Info] Unloaded plugin NoWorkbench v0.1.51 by k1lly0u
+13:43 [Info] Unloaded plugin Quick Smelt v5.1.3 by Iv Misticos
+13:43 [Info] Unloaded plugin Recycler Speed v1.0.4 by yetzt
+13:43 [Info] Unloaded plugin Remover Tool v4.3.22 by Reneb/Fuji/Arainrr
+13:43 [Info] Unloaded plugin SAMSiteAuth v2.3.3 by haggbart
+13:43 [Info] Unloaded plugin SkipNightVote v0.1.4 by k1lly0u
+13:43 [Info] Unloaded plugin Stack Multiplier v1.0.3 by Ryz0r
+13:43 [Info] Unloaded plugin Stack Size Controller v2.0.4 by Canopy Sheep
+13:43 [Info] Unloaded plugin TownTeleport v1.10.1 by mvrb
+13:43 [Info] Unloaded plugin Trade v1.2.42 by Calytic
+13:43 [Info] Unloaded plugin Upgrade Permissions v2.0.0 by Wulf
+13:43 [Info] Loading Oxide Core v2.0.3991...
+13:43 [Info] Loading extensions...
+13:43 [Info] Loaded extension CSharp v2.0.4041 by Oxide Team and Contributors
+13:43 [Info] Loaded extension MySql v2.0.3760 by Oxide Team and Contributors
+13:43 [Info] Loaded extension Rust v2.0.4944 by Oxide Team and Contributors
+13:43 [Info] Loaded extension SQLite v2.0.3762 by Oxide Team and Contributors
+13:43 [Info] Loaded extension Unity v2.0.3772 by Oxide Team and Contributors
+13:43 [Info] Latest compiler MD5: 8ce6d27e7718e3d164766bba8833537a
+13:43 [Info] Local compiler MD5: 8ce6d27e7718e3d164766bba8833537a
+13:43 [Info] Using Covalence provider for game 'Rust'
+13:43 [Info] Loading plugins...
+13:43 [Info] Loaded plugin Rust v2.0.4944 by Oxide Team and Contributors
+13:43 [Info] Loaded plugin Unity v2.0.3772 by Oxide Team and Contributors
+13:43 [Info] AutomatedEvents, AutomaticAuthorization, BGrade, Backpacks, BetterCharcoal, BetterChat, BetterLoot, BuildingGrades, ClanTags, ClanTeam, Clans, DeathNotes, DisableColdDamage, EasyAirdrop, FancyDrop, FurnaceSplitter, GatherManager, InstantCraft, InventoryViewer, Kits, MagicAirdropPanel, MagicBradleyPanel, MagicCargoShipPanel, MagicHeliPanel, MagicPanel, MagicPlayersPanel, MagicSleepersPanel, NTeleportation, NoEscape, NoWorkbench, QuickSmelt, RecyclerSpeed, RemoverTool, SAMSiteAuth, SkipNightVote, StackMultiplier, StackSizeController, TownTeleport, Trade and UpgradePermissions were compiled successfully in 0ms
+13:43 [Warning] [DEBUG] ClanTeam plugin is waiting for requirements to be loaded: Clans
+13:43 [Error] Error while compiling: CopyPaste.cs(888,18): error CS1061: Type `Signage' does not contain a definition for `textureID' and no extension method `textureID' of type `Signage' could be found. Are you missing an assembly reference?
+13:43 [Info] Loaded plugin Automated Events v1.0.6 by k1lly0u/mspeedie/Arainrr
+13:43 [Info] Loaded plugin Automatic Authorization v1.2.2 by k1lly0u/Arainrr
+13:43 [Info] Loaded plugin BGrade v1.1.3 by Ryan / Rustoria.co
+13:43 [Info] Loaded plugin Backpacks v3.2.1 by LaserHydra
+13:43 [Info] Loaded plugin BetterCharcoal v1.0.2 by Jake_Rich
+13:43 [Info] Loaded plugin Better Chat v5.2.5 by LaserHydra
+13:43 [Info] Loaded plugin BetterLoot v3.0.1 by Default
+13:43 [Info] Loaded plugin Building Grades v0.5.1 by Default
+13:43 [Info] Loaded plugin Clan Tags v0.8.0 by GreenArrow
+13:43 [Info] Loaded plugin Clans v0.1.55 by k1lly0u
+13:43 [Info] Loaded plugin Clan Team v1.0.5 by deivismac
+13:43 [Info] Loaded plugin Death Notes v6.3.5 by LaserHydra
+13:43 [Info] Loaded plugin Disable Cold Damage v1.0.3 by Talha
+13:43 [Info] Loaded plugin Easy Airdrop v3.2.5 by LaserHydra
+13:43 [Info] Loaded plugin FancyDrop v2.9.2 by FastBurst
+13:43 [Info] Loaded plugin Furnace Splitter v2.2.7 by FastBurst
+13:43 [Info] Loaded plugin Gathering Manager v2.2.75 by Mughisi
+13:43 [Info] Loaded plugin Instant Craft v2.1.5 by Orange
+13:43 [Info] Loaded plugin Inventory Viewer v3.0.3 by Mughisi
+13:43 [Info] Loaded plugin Kits v3.3.1 by Reneb
+13:43 [Info] Loaded plugin Magic Airdrop Panel v1.0.1 by MJSU
+13:43 [Info] Loaded plugin Magic Bradley Panel v1.0.1 by MJSU
+13:43 [Info] Loaded plugin Magic Cargo Ship Panel v1.0.1 by MJSU
+13:43 [Info] Loaded plugin Magic Heli Panel v1.0.2 by MJSU
+13:43 [Info] Loaded plugin Magic Panel v1.0.6 by MJSU
+13:43 [Info] Loaded plugin Magic Players Panel v1.0.2 by MJSU
+13:43 [Info] Loaded plugin Magic Sleepers Panel v1.0.2 by MJSU
+13:43 [Info] Loaded plugin NTeleportation v1.4.2 by nivex
+13:43 [Info] Loaded plugin No Escape v2.1.31 by Calytic
+13:43 [Info] Loaded plugin NoWorkbench v0.1.51 by k1lly0u
+13:43 [Info] Loaded plugin Quick Smelt v5.1.3 by Iv Misticos
+13:43 [Info] Loaded plugin Recycler Speed v1.0.4 by yetzt
+13:43 [Info] Loaded plugin Remover Tool v4.3.22 by Reneb/Fuji/Arainrr
+13:43 [Info] Loaded plugin SAMSiteAuth v2.3.3 by haggbart
+13:43 [Info] Loaded plugin SkipNightVote v0.1.4 by k1lly0u
+13:43 [Info] Loaded plugin Stack Multiplier v1.0.3 by Ryz0r
+13:43 [Info] Loaded plugin Stack Size Controller v2.0.4 by Canopy Sheep
+13:43 [Info] Loaded plugin TownTeleport v1.10.1 by mvrb
+13:43 [Info] Loaded plugin Trade v1.2.42 by Calytic
+13:43 [Info] Loaded plugin Upgrade Permissions v2.0.0 by Wulf
+13:44 [Info] IP address from command-line: 104.238.229.191
+13:44 [Error] [Automated Events] There is no Bradley Spawner on your server, so the Bradley event is disabled
+13:44 [Info] [BetterLoot] Using '21' active of '23' supported containertypes
+13:44 [Info] [BetterLoot] Updating internals ...
+13:44 [Info] [FancyDrop] Map Highest Point: (500m) | Plane flying height: (~500m)
+13:44 [Info] [FancyDrop] Timed Airdrop activated with '2' players between '30' and '50' minutes
+13:44 [Info] [FancyDrop] Builtin Airdrop removed
+13:44 [Info] [FancyDrop] Next timed Airdrop in 36 minutes
+13:44 [Info] [BetterLoot] No stacked LootContainer found.
+13:44 [Info] [BetterLoot] Populated '202' supported containers.
+13:44 [Error] Exception while calling NextTick callback (ArgumentException: An item with the same key has already been added. Key: GunRoll_Sub_Medium)
+  at System.Collections.Generic.Dictionary`2[TKey,TValue].TryInsert (TKey key, TValue value, System.Collections.Generic.InsertionBehavior behavior) [0x000c1] in <fb001e01371b4adca20013e0ac763896>:0 
+  at System.Collections.Generic.Dictionary`2[TKey,TValue].Add (TKey key, TValue value) [0x00000] in <fb001e01371b4adca20013e0ac763896>:0 
+  at Oxide.Plugins.FancyDrop.ExportLootSpawn (Oxide.Plugins.FancyDrop+ExportData expData, LootSpawn lootSpawn, System.Int32 level) [0x000c1] in <56913feec2df4737bcc7c4ab2a6e7966>:0 
+  at Oxide.Plugins.FancyDrop.ExportLootSpawn (Oxide.Plugins.FancyDrop+ExportData expData, LootSpawn lootSpawn, System.Int32 level) [0x000ce] in <56913feec2df4737bcc7c4ab2a6e7966>:0 
+  at Oxide.Plugins.FancyDrop.SetupLoot () [0x000a7] in <56913feec2df4737bcc7c4ab2a6e7966>:0 
+  at Oxide.Plugins.FancyDrop.<OnServerInitialized>m__0 () [0x00000] in <56913feec2df4737bcc7c4ab2a6e7966>:0 
+  at Oxide.Core.OxideMod.OnFrame (System.Single delta) [0x00051] in <c2afd8354b8b4f3ca451cf5a1aa111c3>:0 
+13:44 [Info] [Automated Events] Next Helicopter event will be ran after 00:45:02
+13:44 [Info] [Automated Events] Next Chinook event will be ran after 00:33:37
+13:44 [Info] [Automated Events] Next CargoShip event will be ran after 00:41:20
+13:44 [Info] [Automated Events] Next CargoPlane event will be ran after 00:42:28
+13:57 [Info] Unloaded plugin Automated Events v1.0.6 by k1lly0u/mspeedie/Arainrr
+13:57 [Info] Unloaded plugin Automatic Authorization v1.2.2 by k1lly0u/Arainrr
+13:57 [Info] Unloaded plugin BGrade v1.1.3 by Ryan / Rustoria.co
+13:57 [Info] Unloaded plugin Backpacks v3.2.1 by LaserHydra
+13:57 [Info] Unloaded plugin BetterCharcoal v1.0.2 by Jake_Rich
+13:57 [Info] Unloaded plugin Better Chat v5.2.5 by LaserHydra
+13:57 [Info] Unloaded plugin BetterLoot v3.0.1 by Default
+13:57 [Info] Unloaded plugin Building Grades v0.5.1 by Default
+13:57 [Info] Unloaded plugin Clan Tags v0.8.0 by GreenArrow
+13:57 [Info] Unloaded plugin Clan Team v1.0.5 by deivismac
+13:57 [Info] Unloaded plugin Clans v0.1.55 by k1lly0u
+13:57 [Info] Unloaded plugin Death Notes v6.3.5 by LaserHydra
+13:57 [Info] Unloaded plugin Disable Cold Damage v1.0.3 by Talha
+13:57 [Info] Unloaded plugin Easy Airdrop v3.2.5 by LaserHydra
+13:57 [Info] Unloaded plugin FancyDrop v2.9.2 by FastBurst
+13:57 [Info] Unloaded plugin Furnace Splitter v2.2.7 by FastBurst
+13:57 [Info] Unloaded plugin Gathering Manager v2.2.75 by Mughisi
+13:57 [Info] Unloaded plugin Instant Craft v2.1.5 by Orange
+13:57 [Info] Unloaded plugin Inventory Viewer v3.0.3 by Mughisi
+13:57 [Info] Unloaded plugin Kits v3.3.1 by Reneb
+13:57 [Info] Unloaded plugin Magic Airdrop Panel v1.0.1 by MJSU
+13:57 [Info] Unloaded plugin Magic Bradley Panel v1.0.1 by MJSU
+13:57 [Info] Unloaded plugin Magic Cargo Ship Panel v1.0.1 by MJSU
+13:57 [Info] Unloaded plugin Magic Heli Panel v1.0.2 by MJSU
+13:57 [Info] Unloaded plugin Magic Panel v1.0.6 by MJSU
+13:57 [Info] Unloaded plugin Magic Players Panel v1.0.2 by MJSU
+13:57 [Info] Unloaded plugin Magic Sleepers Panel v1.0.2 by MJSU
+13:57 [Info] Unloaded plugin NTeleportation v1.4.2 by nivex
+13:57 [Warning] Calling 'Unload' on 'NoEscape v2.1.31' took 104ms
+13:57 [Info] Unloaded plugin No Escape v2.1.31 by Calytic
+13:57 [Info] Unloaded plugin NoWorkbench v0.1.51 by k1lly0u
+13:57 [Info] Unloaded plugin Quick Smelt v5.1.3 by Iv Misticos
+13:57 [Info] Unloaded plugin Recycler Speed v1.0.4 by yetzt
+13:57 [Info] Unloaded plugin Remover Tool v4.3.22 by Reneb/Fuji/Arainrr
+13:57 [Info] Unloaded plugin SAMSiteAuth v2.3.3 by haggbart
+13:57 [Info] Unloaded plugin SkipNightVote v0.1.4 by k1lly0u
+13:57 [Info] Unloaded plugin Stack Multiplier v1.0.3 by Ryz0r
+13:57 [Info] Unloaded plugin Stack Size Controller v2.0.4 by Canopy Sheep
+13:57 [Info] Unloaded plugin TownTeleport v1.10.1 by mvrb
+13:57 [Info] Unloaded plugin Trade v1.2.42 by Calytic
+13:57 [Info] Unloaded plugin Upgrade Permissions v2.0.0 by Wulf
+13:58 [Info] Loading Oxide Core v2.0.3991...
+13:58 [Info] Loading extensions...
+13:58 [Info] Loaded extension CSharp v2.0.4041 by Oxide Team and Contributors
+13:58 [Info] Loaded extension MySql v2.0.3760 by Oxide Team and Contributors
+13:58 [Info] Loaded extension Rust v2.0.4944 by Oxide Team and Contributors
+13:58 [Info] Loaded extension SQLite v2.0.3762 by Oxide Team and Contributors
+13:58 [Info] Loaded extension Unity v2.0.3772 by Oxide Team and Contributors
+13:58 [Info] Latest compiler MD5: 8ce6d27e7718e3d164766bba8833537a
+13:58 [Info] Local compiler MD5: 8ce6d27e7718e3d164766bba8833537a
+13:58 [Info] Using Covalence provider for game 'Rust'
+13:58 [Info] Loading plugins...
+13:58 [Info] Loaded plugin Rust v2.0.4944 by Oxide Team and Contributors
+13:58 [Info] Loaded plugin Unity v2.0.3772 by Oxide Team and Contributors
+13:58 [Info] AutomatedEvents, AutomaticAuthorization, BGrade, Backpacks, BetterCharcoal, BetterChat, BetterLoot, BuildingGrades, ClanTags, ClanTeam, Clans, DeathNotes, DisableColdDamage, EasyAirdrop, FancyDrop, FurnaceSplitter, GatherManager, InstantCraft, InventoryViewer, Kits, MagicAirdropPanel, MagicBradleyPanel, MagicCargoShipPanel, MagicHeliPanel, MagicPanel, MagicPlayersPanel, MagicSleepersPanel, NTeleportation, NoEscape, NoWorkbench, QuickSmelt, RecyclerSpeed, RemoverTool, SAMSiteAuth, SkipNightVote, StackMultiplier, StackSizeController, TownTeleport, Trade and UpgradePermissions were compiled successfully in 0ms
+13:58 [Warning] [DEBUG] ClanTeam plugin is waiting for requirements to be loaded: Clans
+13:58 [Error] Error while compiling: CopyPaste.cs(888,18): error CS1061: Type `Signage' does not contain a definition for `textureID' and no extension method `textureID' of type `Signage' could be found. Are you missing an assembly reference?
+13:58 [Info] Loaded plugin Automated Events v1.0.6 by k1lly0u/mspeedie/Arainrr
+13:58 [Info] Loaded plugin Automatic Authorization v1.2.2 by k1lly0u/Arainrr
+13:58 [Info] Loaded plugin BGrade v1.1.3 by Ryan / Rustoria.co
+13:58 [Info] Loaded plugin Backpacks v3.2.1 by LaserHydra
+13:58 [Info] Loaded plugin BetterCharcoal v1.0.2 by Jake_Rich
+13:58 [Info] Loaded plugin Better Chat v5.2.5 by LaserHydra
+13:58 [Info] Loaded plugin BetterLoot v3.0.1 by Default
+13:58 [Info] Loaded plugin Building Grades v0.5.1 by Default
+13:58 [Info] Loaded plugin Clan Tags v0.8.0 by GreenArrow
+13:58 [Info] Loaded plugin Clans v0.1.55 by k1lly0u
+13:58 [Info] Loaded plugin Clan Team v1.0.5 by deivismac
+13:58 [Info] Loaded plugin Death Notes v6.3.5 by LaserHydra
+13:58 [Info] Loaded plugin Disable Cold Damage v1.0.3 by Talha
+13:58 [Info] Loaded plugin Easy Airdrop v3.2.5 by LaserHydra
+13:58 [Info] Loaded plugin FancyDrop v2.9.2 by FastBurst
+13:58 [Info] Loaded plugin Furnace Splitter v2.2.7 by FastBurst
+13:58 [Info] Loaded plugin Gathering Manager v2.2.75 by Mughisi
+13:58 [Info] Loaded plugin Instant Craft v2.1.5 by Orange
+13:58 [Info] Loaded plugin Inventory Viewer v3.0.3 by Mughisi
+13:58 [Info] Loaded plugin Kits v3.3.1 by Reneb
+13:58 [Info] Loaded plugin Magic Airdrop Panel v1.0.1 by MJSU
+13:58 [Info] Loaded plugin Magic Bradley Panel v1.0.1 by MJSU
+13:58 [Info] Loaded plugin Magic Cargo Ship Panel v1.0.1 by MJSU
+13:58 [Info] Loaded plugin Magic Heli Panel v1.0.2 by MJSU
+13:58 [Info] Loaded plugin Magic Panel v1.0.6 by MJSU
+13:58 [Info] Loaded plugin Magic Players Panel v1.0.2 by MJSU
+13:58 [Info] Loaded plugin Magic Sleepers Panel v1.0.2 by MJSU
+13:58 [Info] Loaded plugin NTeleportation v1.4.2 by nivex
+13:58 [Info] Loaded plugin No Escape v2.1.31 by Calytic
+13:58 [Info] Loaded plugin NoWorkbench v0.1.51 by k1lly0u
+13:58 [Info] Loaded plugin Quick Smelt v5.1.3 by Iv Misticos
+13:58 [Info] Loaded plugin Recycler Speed v1.0.4 by yetzt
+13:58 [Info] Loaded plugin Remover Tool v4.3.22 by Reneb/Fuji/Arainrr
+13:58 [Info] Loaded plugin SAMSiteAuth v2.3.3 by haggbart
+13:58 [Info] Loaded plugin SkipNightVote v0.1.4 by k1lly0u
+13:58 [Info] Loaded plugin Stack Multiplier v1.0.3 by Ryz0r
+13:58 [Info] Loaded plugin Stack Size Controller v2.0.4 by Canopy Sheep
+13:58 [Info] Loaded plugin TownTeleport v1.10.1 by mvrb
+13:58 [Info] Loaded plugin Trade v1.2.42 by Calytic
+13:58 [Info] Loaded plugin Upgrade Permissions v2.0.0 by Wulf
+13:59 [Info] IP address from command-line: 104.238.229.191
+13:59 [Error] [Automated Events] There is no Bradley Spawner on your server, so the Bradley event is disabled
+13:59 [Info] [BetterLoot] Using '21' active of '23' supported containertypes
+13:59 [Info] [BetterLoot] Updating internals ...
+13:59 [Info] [FancyDrop] Map Highest Point: (500m) | Plane flying height: (~500m)
+13:59 [Info] [FancyDrop] Timed Airdrop activated with '2' players between '30' and '50' minutes
+13:59 [Info] [FancyDrop] Builtin Airdrop removed
+13:59 [Info] [FancyDrop] Next timed Airdrop in 41 minutes
+13:59 [Info] [BetterLoot] No stacked LootContainer found.
+13:59 [Info] [BetterLoot] Populated '202' supported containers.
+13:59 [Error] Exception while calling NextTick callback (ArgumentException: An item with the same key has already been added. Key: GunRoll_Sub_Medium)
+  at System.Collections.Generic.Dictionary`2[TKey,TValue].TryInsert (TKey key, TValue value, System.Collections.Generic.InsertionBehavior behavior) [0x000c1] in <fb001e01371b4adca20013e0ac763896>:0 
+  at System.Collections.Generic.Dictionary`2[TKey,TValue].Add (TKey key, TValue value) [0x00000] in <fb001e01371b4adca20013e0ac763896>:0 
+  at Oxide.Plugins.FancyDrop.ExportLootSpawn (Oxide.Plugins.FancyDrop+ExportData expData, LootSpawn lootSpawn, System.Int32 level) [0x000c1] in <1043a1117d944e6ea6db2775aaf2bc11>:0 
+  at Oxide.Plugins.FancyDrop.ExportLootSpawn (Oxide.Plugins.FancyDrop+ExportData expData, LootSpawn lootSpawn, System.Int32 level) [0x000ce] in <1043a1117d944e6ea6db2775aaf2bc11>:0 
+  at Oxide.Plugins.FancyDrop.SetupLoot () [0x000a7] in <1043a1117d944e6ea6db2775aaf2bc11>:0 
+  at Oxide.Plugins.FancyDrop.<OnServerInitialized>m__0 () [0x00000] in <1043a1117d944e6ea6db2775aaf2bc11>:0 
+  at Oxide.Core.OxideMod.OnFrame (System.Single delta) [0x00051] in <c2afd8354b8b4f3ca451cf5a1aa111c3>:0 
+13:59 [Info] [Automated Events] Next Helicopter event will be ran after 00:51:53
+13:59 [Info] [Automated Events] Next Chinook event will be ran after 00:34:59
+13:59 [Info] [Automated Events] Next CargoShip event will be ran after 00:42:27
+13:59 [Info] [Automated Events] Next CargoPlane event will be ran after 00:34:23
+14:00 [Error] Could not load plugin 'betterloor' (no plugin found with that file name)
+14:00 [Error] Could not load plugin 'betterloot' (no plugin found with that file name)
+14:01 [Info] BetterLoot was compiled successfully in 1868ms
+14:01 [Info] Unloaded plugin BetterLoot v3.0.1 by Default
+14:01 [Info] [BetterLoot] Using '20' active of '23' supported containertypes
+14:01 [Info] [BetterLoot] Updating internals ...
+14:01 [Info] Loaded plugin BetterLoot v3.0.1 by Default
+14:01 [Info] [BetterLoot] Removed 2 stacked LootContainer
+14:01 [Info] [BetterLoot] Populated '568' supported containers.
+14:04 [Info] [NTeleportation] DevL teleported to BigSmoke.
+14:05 [Info] Listing 41 plugins:
+  01 "Automated Events" (1.0.6) by k1lly0u/mspeedie/Arainrr (0.02s) - AutomatedEvents.cs
+  02 "Automatic Authorization" (1.2.2) by k1lly0u/Arainrr (0.03s) - AutomaticAuthorization.cs
+  03 "BGrade" (1.1.3) by Ryan / Rustoria.co (0.00s) - BGrade.cs
+  04 "Backpacks" (3.2.1) by LaserHydra (0.02s) - Backpacks.cs
+  05 "BetterCharcoal" (1.0.2) by Jake_Rich (0.00s) - BetterCharcoal.cs
+  06 "Better Chat" (5.2.5) by LaserHydra (0.00s) - BetterChat.cs
+  07 "BetterLoot" (3.0.1) by Default (0.03s) - BetterLoot.cs
+  08 "Building Grades" (0.5.1) by Default (0.00s) - BuildingGrades.cs
+  09 "Clan Tags" (0.8.0) by GreenArrow (0.00s) - ClanTags.cs
+  10 "Clans" (0.1.55) by k1lly0u (0.01s) - Clans.cs
+  11 "Clan Team" (1.0.5) by deivismac (0.00s) - ClanTeam.cs
+  12 "Death Notes" (6.3.5) by LaserHydra (0.01s) - DeathNotes.cs
+  13 "Disable Cold Damage" (1.0.3) by Talha (0.01s) - DisableColdDamage.cs
+  14 "Easy Airdrop" (3.2.5) by LaserHydra (0.00s) - EasyAirdrop.cs
+  15 "FancyDrop" (2.9.2) by FastBurst (0.07s) - FancyDrop.cs
+  16 "Furnace Splitter" (2.2.7) by FastBurst (0.04s) - FurnaceSplitter.cs
+  17 "Gathering Manager" (2.2.75) by Mughisi (0.05s) - GatherManager.cs
+  18 "Instant Craft" (2.1.5) by Orange (0.00s) - InstantCraft.cs
+  19 "Inventory Viewer" (3.0.3) by Mughisi (0.00s) - InventoryViewer.cs
+  20 "Kits" (3.3.1) by Reneb (0.00s) - Kits.cs
+  21 "Magic Airdrop Panel" (1.0.1) by MJSU (0.02s) - MagicAirdropPanel.cs
+  22 "Magic Bradley Panel" (1.0.1) by MJSU (0.01s) - MagicBradleyPanel.cs
+  23 "Magic Cargo Ship Panel" (1.0.1) by MJSU (0.01s) - MagicCargoShipPanel.cs
+  24 "Magic Heli Panel" (1.0.2) by MJSU (0.01s) - MagicHeliPanel.cs
+  25 "Magic Panel" (1.0.6) by MJSU (0.02s) - MagicPanel.cs
+  26 "Magic Players Panel" (1.0.2) by MJSU (0.00s) - MagicPlayersPanel.cs
+  27 "Magic Sleepers Panel" (1.0.2) by MJSU (0.00s) - MagicSleepersPanel.cs
+  28 "NTeleportation" (1.4.2) by nivex (0.08s) - NTeleportation.cs
+  29 "No Escape" (2.1.31) by Calytic (0.02s) - NoEscape.cs
+  30 "NoWorkbench" (0.1.51) by k1lly0u (0.02s) - NoWorkbench.cs
+  31 "Quick Smelt" (5.1.3) by Iv Misticos (0.11s) - QuickSmelt.cs
+  32 "Recycler Speed" (1.0.4) by yetzt (0.00s) - RecyclerSpeed.cs
+  33 "Remover Tool" (4.3.22) by Reneb/Fuji/Arainrr (0.02s) - RemoverTool.cs
+  34 "SAMSiteAuth" (2.3.3) by haggbart (0.00s) - SAMSiteAuth.cs
+  35 "SkipNightVote" (0.1.4) by k1lly0u (0.01s) - SkipNightVote.cs
+  36 "Stack Multiplier" (1.0.3) by Ryz0r (0.00s) - StackMultiplier.cs
+  37 "Stack Size Controller" (2.0.4) by Canopy Sheep (0.02s) - StackSizeController.cs
+  38 "TownTeleport" (1.10.1) by mvrb (0.06s) - TownTeleport.cs
+  39 "Trade" (1.2.42) by Calytic (0.00s) - Trade.cs
+  40 "Upgrade Permissions" (2.0.0) by Wulf (0.00s) - UpgradePermissions.cs
+  41 CopyPaste - Failed to compile: CopyPaste.cs(888,18): error CS1061: Type `Signage' does not contain a definition for `textureID' and no extension method `textureID' of type `Signage' could be found. Are you missing an assembly reference?
+14:05 [Info] Permissions:
+oxide.plugins, oxide.load, oxide.reload, oxide.unload, oxide.grant, oxide.group, oxide.revoke, oxide.show, oxide.usergroup, automatedevents.allowed, automatedevents.next, automaticauthorization.use, bgrade.1, bgrade.2, bgrade.3, bgrade.4, bgrade.nores, bgrade.all, backpacks.use, backpacks.fetch, backpacks.admin, backpacks.keepondeath, backpacks.use.1, backpacks.use.2, backpacks.use.3, backpacks.use.4, backpacks.use.5, backpacks.use.6, backpacks.use.7, bettercharcoal.allowed, betterchat.admin, deathnotes.cansee, disablecolddamage.use, easyairdrop.call, easyairdrop.call.player, easyairdrop.call.position, easyairdrop.call.mass, furnacesplitter.use, instantcraft.use, inventoryviewer.allowed, nteleportation.deletehome, nteleportation.home, nteleportation.homehomes, nteleportation.importhomes, nteleportation.radiushome, nteleportation.tp, nteleportation.tpb, nteleportation.tpr, nteleportation.tpconsole, nteleportation.tphome, nteleportation.tptown, nteleportation.tpt, nteleportation.tpoutpost, nteleportation.tpbandit, nteleportation.tpn, nteleportation.tpl, nteleportation.tpremove, nteleportation.tpsave, nteleportation.wipehomes, nteleportation.crafthome, nteleportation.crafttown, nteleportation.craftoutpost, nteleportation.craftbandit, nteleportation.crafttpr, nteleportation.vip, recyclerspeed.use, removertool.all, removertool.admin, removertool.normal, removertool.target, removertool.override, removertool.external, removertool.structure, skipnightvote.admin, stackmultiplier.use, townteleport.outpost, townteleport.bandit, townteleport.nocooldown, trade.use, trade.accept, upgradepermissions.twigs, upgradepermissions.wood, upgradepermissions.stone, upgradepermissions.metal, upgradepermissions.toptier, upgradepermissions.count, upgradepermissions.none, buildinggrades.cangrade, buildinggrades.nocost, buildinggrades.down, clantags.admin, clantags.default, kits.admin, kits.consolegive, noescape.disable, noescape.raid.removeblock, noescape.combat.removeblock, noescape.raid.tpblock, noescape.combat.tpblock, noescape.raid.bankblock, noescape.combat.bankblock, noescape.raid.tradeblock, noescape.combat.tradeblock, noescape.raid.recycleblock, noescape.combat.recycleblock, noescape.raid.shopblock, noescape.combat.shopblock, noescape.raid.bgradeblock, noescape.combat.bgradeblock, noescape.raid.buildblock, noescape.combat.buildblock, noescape.raid.repairblock, noescape.combat.repairblock, noescape.raid.upgradeblock, noescape.combat.upgradeblock, noescape.raid.vendblock, noescape.combat.vendblock, noescape.raid.kitblock, noescape.combat.kitblock, noescape.raid.assignbedblock, noescape.combat.assignbedblock, noescape.raid.craftblock, noescape.combat.craftblock, noescape.raid.mailboxblock, noescape.combat.mailboxblock, noescape.raid.backpackblock, noescape.combat.backpackblock, quicksmelt.use, stacksizecontroller.canchangestacksize
+14:07 [Info] [Death Notes] BigSmoke shot a Bear using their Hunting Bow over a distance of 21.7 meters.
+14:11 [Info] Group 'player' already has permission 'stackmultiplier.use'
+14:14 [Error] Could not load plugin 'stacksizecontroller' (no plugin found with that file name)
+14:14 [Error] Could not load plugin 'stacksizecontroller' (no plugin found with that file name)
+14:14 [Info] Listing 41 plugins:
+  01 "Automated Events" (1.0.6) by k1lly0u/mspeedie/Arainrr (0.02s) - AutomatedEvents.cs
+  02 "Automatic Authorization" (1.2.2) by k1lly0u/Arainrr (0.03s) - AutomaticAuthorization.cs
+  03 "BGrade" (1.1.3) by Ryan / Rustoria.co (0.00s) - BGrade.cs
+  04 "Backpacks" (3.2.1) by LaserHydra (0.03s) - Backpacks.cs
+  05 "BetterCharcoal" (1.0.2) by Jake_Rich (0.00s) - BetterCharcoal.cs
+  06 "Better Chat" (5.2.5) by LaserHydra (0.00s) - BetterChat.cs
+  07 "BetterLoot" (3.0.1) by Default (0.04s) - BetterLoot.cs
+  08 "Building Grades" (0.5.1) by Default (0.00s) - BuildingGrades.cs
+  09 "Clan Tags" (0.8.0) by GreenArrow (0.00s) - ClanTags.cs
+  10 "Clans" (0.1.55) by k1lly0u (0.01s) - Clans.cs
+  11 "Clan Team" (1.0.5) by deivismac (0.00s) - ClanTeam.cs
+  12 "Death Notes" (6.3.5) by LaserHydra (0.02s) - DeathNotes.cs
+  13 "Disable Cold Damage" (1.0.3) by Talha (0.04s) - DisableColdDamage.cs
+  14 "Easy Airdrop" (3.2.5) by LaserHydra (0.00s) - EasyAirdrop.cs
+  15 "FancyDrop" (2.9.2) by FastBurst (0.10s) - FancyDrop.cs
+  16 "Furnace Splitter" (2.2.7) by FastBurst (0.06s) - FurnaceSplitter.cs
+  17 "Gathering Manager" (2.2.75) by Mughisi (0.05s) - GatherManager.cs
+  18 "Instant Craft" (2.1.5) by Orange (0.00s) - InstantCraft.cs
+  19 "Inventory Viewer" (3.0.3) by Mughisi (0.00s) - InventoryViewer.cs
+  20 "Kits" (3.3.1) by Reneb (0.00s) - Kits.cs
+  21 "Magic Airdrop Panel" (1.0.1) by MJSU (0.02s) - MagicAirdropPanel.cs
+  22 "Magic Bradley Panel" (1.0.1) by MJSU (0.01s) - MagicBradleyPanel.cs
+  23 "Magic Cargo Ship Panel" (1.0.1) by MJSU (0.01s) - MagicCargoShipPanel.cs
+  24 "Magic Heli Panel" (1.0.2) by MJSU (0.01s) - MagicHeliPanel.cs
+  25 "Magic Panel" (1.0.6) by MJSU (0.02s) - MagicPanel.cs
+  26 "Magic Players Panel" (1.0.2) by MJSU (0.00s) - MagicPlayersPanel.cs
+  27 "Magic Sleepers Panel" (1.0.2) by MJSU (0.00s) - MagicSleepersPanel.cs
+  28 "NTeleportation" (1.4.2) by nivex (0.10s) - NTeleportation.cs
+  29 "No Escape" (2.1.31) by Calytic (0.03s) - NoEscape.cs
+  30 "NoWorkbench" (0.1.51) by k1lly0u (0.02s) - NoWorkbench.cs
+  31 "Quick Smelt" (5.1.3) by Iv Misticos (0.11s) - QuickSmelt.cs
+  32 "Recycler Speed" (1.0.4) by yetzt (0.00s) - RecyclerSpeed.cs
+  33 "Remover Tool" (4.3.22) by Reneb/Fuji/Arainrr (0.02s) - RemoverTool.cs
+  34 "SAMSiteAuth" (2.3.3) by haggbart (0.00s) - SAMSiteAuth.cs
+  35 "SkipNightVote" (0.1.4) by k1lly0u (0.02s) - SkipNightVote.cs
+  36 "Stack Multiplier" (1.0.3) by Ryz0r (0.00s) - StackMultiplier.cs
+  37 "Stack Size Controller" (2.0.4) by Canopy Sheep (0.02s) - StackSizeController.cs
+  38 "TownTeleport" (1.10.1) by mvrb (0.06s) - TownTeleport.cs
+  39 "Trade" (1.2.42) by Calytic (0.00s) - Trade.cs
+  40 "Upgrade Permissions" (2.0.0) by Wulf (0.00s) - UpgradePermissions.cs
+  41 CopyPaste - Failed to compile: CopyPaste.cs(888,18): error CS1061: Type `Signage' does not contain a definition for `textureID' and no extension method `textureID' of type `Signage' could be found. Are you missing an assembly reference?
+14:15 [Info] StackSizeController was compiled successfully in 1851ms
+14:15 [Info] Unloaded plugin Stack Size Controller v2.0.4 by Canopy Sheep
+14:15 [Info] Loaded plugin Stack Size Controller v2.0.4 by Canopy Sheep
+14:16 [Info] Unloaded plugin Stack Size Controller v2.0.4 by Canopy Sheep
+14:16 [Info] Loaded plugin Stack Size Controller v2.0.4 by Canopy Sheep
+14:19 [Info] Stack size set was blocked for items in config: hammer.
+14:19 [Info] The current stack size is 100x.
+14:19 [Info] [Death Notes] DevL did not did not follow the rules in a safezone and was killed by a Scientist Sentry.
+14:19 [Warning] 'Backpacks v3.2.1' is using deprecated hook 'OnPlayerCorpse', which will stop working on Thursday, 01 July 2021. Please ask the author to update to 'OnPlayerCorpseSpawned(BasePlayer player, BaseCorpse corpse)'
+14:33 [Info] [Automated Events] Spawning FancyDrop Cargo Plane
+14:33 [Info] [FancyDrop] Random Airdrop of type 'regular' incoming at: (389, 11, -384) grid area: J9
+14:33 [Info] [Automated Events] Next CargoPlane event will be ran after 00:30:05
+14:34 [Info] [Automated Events] Spawning Chinook
+14:34 [Info] [Automated Events] Next Chinook event will be ran after 00:39:46
+14:36 [Info] [FancyDrop] DevL (76561198154580978) looted the Drop at: (389, 12, -383) grid area: J9
+14:36 [Info] [Death Notes] DevL killed a Bear using their Snowball Gun.
+14:37 [Info] [Death Notes] DevL killed a Wolf using their .
+14:37 [Info] [Death Notes] DevL killed a Bear using their Snowball Gun.
+14:37 [Info] [Death Notes] DevL killed a Stag using their Snowball Gun.
+14:37 [Info] [Death Notes] DevL killed a Stag using their Snowball Gun.
+14:39 [Info] [Death Notes] DevL killed a Bear using their Snowball Gun.
+14:40 [Info] [FancyDrop] Timed Airdrop skipped, not enough Players
+14:40 [Info] [FancyDrop] Next timed Airdrop in 40 minutes
+14:41 [Info] [Automated Events] Spawning Cargo Ship
+14:41 [Info] [Automated Events] Next CargoShip event will be ran after 00:35:04
+14:46 [Info] [Automated Events] Next Chinook event will be ran after 00:41:12
+14:51 [Info] [Automated Events] Spawning Helicopter
+14:51 [Info] [Automated Events] Next Helicopter event will be ran after 00:48:01
+15:03 [Info] [Automated Events] Spawning Cargo Plane
+15:03 [Info] [Automated Events] Next CargoPlane event will be ran after 00:44:58
+15:06 [Info] [Automated Events] Next CargoPlane event will be ran after 00:32:23
+15:10 [Info] [Automated Events] Next Helicopter event will be ran after 00:51:57
+15:16 [Warning] [Automated Events] The number of CargoShip events has reached the limit of 1
+15:16 [Info] [Automated Events] Next CargoShip event will be ran after 00:44:51
+15:20 [Info] [FancyDrop] Random Airdrop of type 'regular' incoming at: (541, 2, -597) grid area: K11
+15:20 [Info] [FancyDrop] Timed Airdrop initiated with command 'ad.random'
+15:20 [Info] [FancyDrop] Next timed Airdrop in 44 minutes
+15:21 [Info] [Death Notes] BigSmoke shot a Boar using their Hunting Bow over a distance of 22.3 meters.
+15:28 [Info] [Automated Events] Spawning Chinook
+15:28 [Info] [Automated Events] Next Chinook event will be ran after 00:36:55
+15:38 [Info] [Automated Events] Next Chinook event will be ran after 00:35:11
+15:38 [Info] [Automated Events] Spawning Cargo Plane
+15:38 [Info] [Automated Events] Next CargoPlane event will be ran after 00:44:54
+15:40 [Error] Could not load plugin 'BetterLoor' (no plugin found with that file name)
+15:40 [Info] Unloaded plugin BetterLoot v3.0.1 by Default
+15:40 [Info] [BetterLoot] Using '20' active of '23' supported containertypes
+15:40 [Info] [BetterLoot] Updating internals ...
+15:40 [Info] Loaded plugin BetterLoot v3.0.1 by Default
+15:40 [Info] [BetterLoot] Removed 5 stacked LootContainer
+15:40 [Info] [BetterLoot] Populated '1460' supported containers.
+15:41 [Info] [Automated Events] Next CargoPlane event will be ran after 00:43:08
+15:41 [Info] Listing 41 plugins:
+  01 "Automated Events" (1.0.6) by k1lly0u/mspeedie/Arainrr (0.14s) - AutomatedEvents.cs
+  02 "Automatic Authorization" (1.2.2) by k1lly0u/Arainrr (0.10s) - AutomaticAuthorization.cs
+  03 "BGrade" (1.1.3) by Ryan / Rustoria.co (0.01s) - BGrade.cs
+  04 "Backpacks" (3.2.1) by LaserHydra (0.18s) - Backpacks.cs
+  05 "BetterCharcoal" (1.0.2) by Jake_Rich (0.00s) - BetterCharcoal.cs
+  06 "Better Chat" (5.2.5) by LaserHydra (0.00s) - BetterChat.cs
+  07 "BetterLoot" (3.0.1) by Default (0.01s) - BetterLoot.cs
+  08 "Building Grades" (0.5.1) by Default (0.01s) - BuildingGrades.cs
+  09 "Clan Tags" (0.8.0) by GreenArrow (0.00s) - ClanTags.cs
+  10 "Clans" (0.1.55) by k1lly0u (0.01s) - Clans.cs
+  11 "Clan Team" (1.0.5) by deivismac (0.00s) - ClanTeam.cs
+  12 "Death Notes" (6.3.5) by LaserHydra (0.16s) - DeathNotes.cs
+  13 "Disable Cold Damage" (1.0.3) by Talha (0.20s) - DisableColdDamage.cs
+  14 "Easy Airdrop" (3.2.5) by LaserHydra (0.00s) - EasyAirdrop.cs
+  15 "FancyDrop" (2.9.2) by FastBurst (0.46s) - FancyDrop.cs
+  16 "Furnace Splitter" (2.2.7) by FastBurst (0.22s) - FurnaceSplitter.cs
+  17 "Gathering Manager" (2.2.75) by Mughisi (0.05s) - GatherManager.cs
+  18 "Instant Craft" (2.1.5) by Orange (0.01s) - InstantCraft.cs
+  19 "Inventory Viewer" (3.0.3) by Mughisi (0.00s) - InventoryViewer.cs
+  20 "Kits" (3.3.1) by Reneb (0.02s) - Kits.cs
+  21 "Magic Airdrop Panel" (1.0.1) by MJSU (0.03s) - MagicAirdropPanel.cs
+  22 "Magic Bradley Panel" (1.0.1) by MJSU (0.01s) - MagicBradleyPanel.cs
+  23 "Magic Cargo Ship Panel" (1.0.1) by MJSU (0.02s) - MagicCargoShipPanel.cs
+  24 "Magic Heli Panel" (1.0.2) by MJSU (0.02s) - MagicHeliPanel.cs
+  25 "Magic Panel" (1.0.6) by MJSU (0.02s) - MagicPanel.cs
+  26 "Magic Players Panel" (1.0.2) by MJSU (0.00s) - MagicPlayersPanel.cs
+  27 "Magic Sleepers Panel" (1.0.2) by MJSU (0.00s) - MagicSleepersPanel.cs
+  28 "NTeleportation" (1.4.2) by nivex (0.10s) - NTeleportation.cs
+  29 "No Escape" (2.1.31) by Calytic (0.16s) - NoEscape.cs
+  30 "NoWorkbench" (0.1.51) by k1lly0u (0.03s) - NoWorkbench.cs
+  31 "Quick Smelt" (5.1.3) by Iv Misticos (0.15s) - QuickSmelt.cs
+  32 "Recycler Speed" (1.0.4) by yetzt (0.00s) - RecyclerSpeed.cs
+  33 "Remover Tool" (4.3.22) by Reneb/Fuji/Arainrr (0.03s) - RemoverTool.cs
+  34 "SAMSiteAuth" (2.3.3) by haggbart (0.00s) - SAMSiteAuth.cs
+  35 "SkipNightVote" (0.1.4) by k1lly0u (0.02s) - SkipNightVote.cs
+  36 "Stack Multiplier" (1.0.3) by Ryz0r (0.01s) - StackMultiplier.cs
+  37 "Stack Size Controller" (2.0.4) by Canopy Sheep (0.05s) - StackSizeController.cs
+  38 "TownTeleport" (1.10.1) by mvrb (0.16s) - TownTeleport.cs
+  39 "Trade" (1.2.42) by Calytic (0.00s) - Trade.cs
+  40 "Upgrade Permissions" (2.0.0) by Wulf (0.00s) - UpgradePermissions.cs
+  41 CopyPaste - Failed to compile: CopyPaste.cs(888,18): error CS1061: Type `Signage' does not contain a definition for `textureID' and no extension method `textureID' of type `Signage' could be found. Are you missing an assembly reference?
+15:41 [Info] [Automated Events] Next CargoShip event will be ran after 00:40:46
+15:42 [Info] [AutomatedEvents]:  'Server Console' attempting to run automated event: Helicopter
+15:42 [Info] [Automated Events] Spawning Helicopter
+15:42 [Info] [AutomatedEvents]:  'apc' is an unknown event type
+15:42 [Info] [AutomatedEvents]:  'Server Console' attempting to run automated event: Bradley
+15:42 [Error] [Automated Events] There is no Bradley Spawner on your server, so you cannot spawn a Bradley
+15:43 [Info] [AutomatedEvents]:  'cargo' is an unknown event type
+15:43 [Info] [AutomatedEvents]:  'Server Console' attempting to run automated event: Cargo Ship
+15:43 [Info] [Automated Events] Spawning Cargo Ship
+15:45 [Info] [FancyDrop] BigSmoke (76561198285596771) looted the Drop at: (-531, 3, 213) grid area: D5
+15:45 [Info] [Death Notes] The Helicopter was finally shot down.
+15:45 [Info] [Automated Events] Next Helicopter event will be ran after 00:50:02
+16:00 [Info] [Death Notes] BigSmoke did not want to be a part of the Scientist's experiments.
+16:01 [Info] [Death Notes] BigSmoke did not want to be a part of the Scientist's experiments.
+16:04 [Info] [FancyDrop] Random Airdrop of type 'regular' incoming at: (300, 1, -166) grid area: I8
+16:04 [Info] [FancyDrop] Timed Airdrop initiated with command 'ad.random'
+16:04 [Info] [FancyDrop] Next timed Airdrop in 44 minutes
+16:06 [Info] [Death Notes] BigSmoke shot a Stag using their MP5A4 over a distance of 18.6 meters.
+16:07 [Info] [Death Notes] BigSmoke shot a Boar using their MP5A4 over a distance of 40.8 meters.
+16:07 [Info] [FancyDrop] BigSmoke (76561198285596771) looted the Drop at: (300, 1, -167) grid area: I8
+16:13 [Info] [Automated Events] Spawning Chinook
+16:13 [Info] [Automated Events] Next Chinook event will be ran after 00:33:06
+16:22 [Warning] [Automated Events] The number of CargoShip events has reached the limit of 1
+16:22 [Info] [Automated Events] Next CargoShip event will be ran after 00:32:09
+16:24 [Info] [Automated Events] Spawning Cargo Plane
+16:24 [Info] [Automated Events] Next CargoPlane event will be ran after 00:35:45
+16:26 [Info] [Automated Events] Next Chinook event will be ran after 00:32:19
+16:27 [Info] [Automated Events] Next CargoPlane event will be ran after 00:41:35
+16:29 [Info] RecyclerSpeed was compiled successfully in 1800ms
+16:29 [Info] Unloaded plugin Recycler Speed v1.0.4 by yetzt
+16:29 [Info] Loaded plugin Recycler Speed v1.0.4 by yetzt
+16:33 [Info] Loading Oxide Core v2.0.3991...
+16:33 [Info] Loading extensions...
+16:33 [Info] Loaded extension CSharp v2.0.4041 by Oxide Team and Contributors
+16:33 [Info] Loaded extension MySql v2.0.3760 by Oxide Team and Contributors
+16:33 [Info] Loaded extension Rust v2.0.4944 by Oxide Team and Contributors
+16:33 [Info] Loaded extension SQLite v2.0.3762 by Oxide Team and Contributors
+16:33 [Info] Loaded extension Unity v2.0.3772 by Oxide Team and Contributors
+16:33 [Info] Latest compiler MD5: 8ce6d27e7718e3d164766bba8833537a
+16:33 [Info] Local compiler MD5: 8ce6d27e7718e3d164766bba8833537a
+16:33 [Info] Using Covalence provider for game 'Rust'
+16:33 [Info] Loading plugins...
+16:33 [Info] Loaded plugin Rust v2.0.4944 by Oxide Team and Contributors
+16:33 [Info] Loaded plugin Unity v2.0.3772 by Oxide Team and Contributors
+16:33 [Info] AutomatedEvents, AutomaticAuthorization, BGrade, Backpacks, BetterCharcoal, BetterChat, BetterLoot, BuildingGrades, ClanTags, ClanTeam, Clans, DeathNotes, DisableColdDamage, EasyAirdrop, FancyDrop, FurnaceSplitter, GatherManager, InstantCraft, InventoryViewer, Kits, MagicAirdropPanel, MagicBradleyPanel, MagicCargoShipPanel, MagicHeliPanel, MagicPanel, MagicPlayersPanel, MagicSleepersPanel, NTeleportation, NoEscape, NoWorkbench, QuickSmelt, RecyclerSpeed, RemoverTool, SAMSiteAuth, SkipNightVote, StackMultiplier, StackSizeController, TownTeleport, Trade and UpgradePermissions were compiled successfully in 0ms
+16:33 [Warning] [DEBUG] ClanTeam plugin is waiting for requirements to be loaded: Clans
+16:33 [Error] Error while compiling: CopyPaste.cs(888,18): error CS1061: Type `Signage' does not contain a definition for `textureID' and no extension method `textureID' of type `Signage' could be found. Are you missing an assembly reference?
+16:33 [Info] Loaded plugin Automated Events v1.0.6 by k1lly0u/mspeedie/Arainrr
+16:33 [Info] Loaded plugin Automatic Authorization v1.2.2 by k1lly0u/Arainrr
+16:33 [Info] Loaded plugin BGrade v1.1.3 by Ryan / Rustoria.co
+16:33 [Info] Loaded plugin Backpacks v3.2.1 by LaserHydra
+16:33 [Info] Loaded plugin BetterCharcoal v1.0.2 by Jake_Rich
+16:33 [Info] Loaded plugin Better Chat v5.2.5 by LaserHydra
+16:33 [Info] Loaded plugin BetterLoot v3.0.1 by Default
+16:33 [Info] Loaded plugin Building Grades v0.5.1 by Default
+16:33 [Info] Loaded plugin Clan Tags v0.8.0 by GreenArrow
+16:33 [Info] Loaded plugin Clans v0.1.55 by k1lly0u
+16:33 [Info] Loaded plugin Clan Team v1.0.5 by deivismac
+16:33 [Info] Loaded plugin Death Notes v6.3.5 by LaserHydra
+16:33 [Info] Loaded plugin Disable Cold Damage v1.0.3 by Talha
+16:33 [Info] Loaded plugin Easy Airdrop v3.2.5 by LaserHydra
+16:33 [Info] Loaded plugin FancyDrop v2.9.2 by FastBurst
+16:33 [Info] Loaded plugin Furnace Splitter v2.2.7 by FastBurst
+16:33 [Info] Loaded plugin Gathering Manager v2.2.75 by Mughisi
+16:33 [Info] Loaded plugin Instant Craft v2.1.5 by Orange
+16:33 [Info] Loaded plugin Inventory Viewer v3.0.3 by Mughisi
+16:33 [Info] Loaded plugin Kits v3.3.1 by Reneb
+16:33 [Info] Loaded plugin Magic Airdrop Panel v1.0.1 by MJSU
+16:33 [Info] Loaded plugin Magic Bradley Panel v1.0.1 by MJSU
+16:33 [Info] Loaded plugin Magic Cargo Ship Panel v1.0.1 by MJSU
+16:33 [Info] Loaded plugin Magic Heli Panel v1.0.2 by MJSU
+16:33 [Info] Loaded plugin Magic Panel v1.0.6 by MJSU
+16:33 [Info] Loaded plugin Magic Players Panel v1.0.2 by MJSU
+16:33 [Info] Loaded plugin Magic Sleepers Panel v1.0.2 by MJSU
+16:33 [Info] Loaded plugin NTeleportation v1.4.2 by nivex
+16:33 [Info] Loaded plugin No Escape v2.1.31 by Calytic
+16:33 [Info] Loaded plugin NoWorkbench v0.1.51 by k1lly0u
+16:33 [Info] Loaded plugin Quick Smelt v5.1.3 by Iv Misticos
+16:33 [Info] Loaded plugin Recycler Speed v1.0.4 by yetzt
+16:33 [Info] Loaded plugin Remover Tool v4.3.22 by Reneb/Fuji/Arainrr
+16:33 [Info] Loaded plugin SAMSiteAuth v2.3.3 by haggbart
+16:33 [Info] Loaded plugin SkipNightVote v0.1.4 by k1lly0u
+16:33 [Info] Loaded plugin Stack Multiplier v1.0.3 by Ryz0r
+16:33 [Info] Loaded plugin Stack Size Controller v2.0.4 by Canopy Sheep
+16:33 [Info] Loaded plugin TownTeleport v1.10.1 by mvrb
+16:33 [Info] Loaded plugin Trade v1.2.42 by Calytic
+16:33 [Info] Loaded plugin Upgrade Permissions v2.0.0 by Wulf
+16:34 [Info] IP address from command-line: 104.238.229.191
+16:34 [Error] [Automated Events] There is no Bradley Spawner on your server, so the Bradley event is disabled
+16:34 [Info] [BetterLoot] Using '20' active of '23' supported containertypes
+16:34 [Info] [BetterLoot] Updating internals ...
+16:34 [Info] [FancyDrop] Map Highest Point: (500m) | Plane flying height: (~500m)
+16:34 [Info] [FancyDrop] Timed Airdrop activated with '2' players between '30' and '50' minutes
+16:34 [Info] [FancyDrop] Builtin Airdrop removed
+16:34 [Info] [FancyDrop] Next timed Airdrop in 33 minutes
+16:34 [Info] [NTeleportation] Rust was upgraded or map changed - clearing homes, town, outpost and bandit!
+16:34 [Info] [BetterLoot] Removed 6 stacked LootContainer
+16:34 [Info] [BetterLoot] Populated '544' supported containers.
+16:34 [Error] Exception while calling NextTick callback (ArgumentException: An item with the same key has already been added. Key: GunRoll_Sub_Medium)
+  at System.Collections.Generic.Dictionary`2[TKey,TValue].TryInsert (TKey key, TValue value, System.Collections.Generic.InsertionBehavior behavior) [0x000c1] in <fb001e01371b4adca20013e0ac763896>:0 
+  at System.Collections.Generic.Dictionary`2[TKey,TValue].Add (TKey key, TValue value) [0x00000] in <fb001e01371b4adca20013e0ac763896>:0 
+  at Oxide.Plugins.FancyDrop.ExportLootSpawn (Oxide.Plugins.FancyDrop+ExportData expData, LootSpawn lootSpawn, System.Int32 level) [0x000c1] in <34a60b319b7a49e3979b7f8171c29518>:0 
+  at Oxide.Plugins.FancyDrop.ExportLootSpawn (Oxide.Plugins.FancyDrop+ExportData expData, LootSpawn lootSpawn, System.Int32 level) [0x000ce] in <34a60b319b7a49e3979b7f8171c29518>:0 
+  at Oxide.Plugins.FancyDrop.SetupLoot () [0x000a7] in <34a60b319b7a49e3979b7f8171c29518>:0 
+  at Oxide.Plugins.FancyDrop.<OnServerInitialized>m__0 () [0x00000] in <34a60b319b7a49e3979b7f8171c29518>:0 
+  at Oxide.Core.OxideMod.OnFrame (System.Single delta) [0x00051] in <c2afd8354b8b4f3ca451cf5a1aa111c3>:0 
+16:34 [Info] [Automated Events] Next Helicopter event will be ran after 00:48:19
+16:34 [Info] [Automated Events] Next Chinook event will be ran after 00:34:51
+16:34 [Info] [Automated Events] Next CargoShip event will be ran after 00:31:31
+16:34 [Info] [Automated Events] Next CargoPlane event will be ran after 00:37:07
+16:39 [Info] Loading Oxide Core v2.0.3991...
+16:39 [Info] Loading extensions...
+16:39 [Info] Loaded extension CSharp v2.0.4041 by Oxide Team and Contributors
+16:39 [Info] Loaded extension MySql v2.0.3760 by Oxide Team and Contributors
+16:39 [Info] Loaded extension Rust v2.0.4944 by Oxide Team and Contributors
+16:39 [Info] Loaded extension SQLite v2.0.3762 by Oxide Team and Contributors
+16:39 [Info] Loaded extension Unity v2.0.3772 by Oxide Team and Contributors
+16:39 [Info] Latest compiler MD5: 8ce6d27e7718e3d164766bba8833537a
+16:39 [Info] Local compiler MD5: 8ce6d27e7718e3d164766bba8833537a
+16:39 [Info] Using Covalence provider for game 'Rust'
+16:39 [Info] Loading plugins...
+16:39 [Info] Loaded plugin Rust v2.0.4944 by Oxide Team and Contributors
+16:39 [Info] Loaded plugin Unity v2.0.3772 by Oxide Team and Contributors
+16:39 [Info] AutomatedEvents, AutomaticAuthorization, BGrade, Backpacks, BetterCharcoal, BetterChat, BetterLoot, BuildingGrades, ClanTags, ClanTeam, Clans, DeathNotes, DisableColdDamage, EasyAirdrop, FancyDrop, FurnaceSplitter, GatherManager, InstantCraft, InventoryViewer, Kits, MagicAirdropPanel, MagicBradleyPanel, MagicCargoShipPanel, MagicHeliPanel, MagicPanel, MagicPlayersPanel, MagicSleepersPanel, NTeleportation, NoEscape, NoWorkbench, QuickSmelt, RecyclerSpeed, RemoverTool, SAMSiteAuth, SkipNightVote, StackMultiplier, StackSizeController, TownTeleport, Trade and UpgradePermissions were compiled successfully in 0ms
+16:39 [Warning] [DEBUG] ClanTeam plugin is waiting for requirements to be loaded: Clans
+16:39 [Error] Error while compiling: CopyPaste.cs(888,18): error CS1061: Type `Signage' does not contain a definition for `textureID' and no extension method `textureID' of type `Signage' could be found. Are you missing an assembly reference?
+16:39 [Info] Loaded plugin Automated Events v1.0.6 by k1lly0u/mspeedie/Arainrr
+16:39 [Info] Loaded plugin Automatic Authorization v1.2.2 by k1lly0u/Arainrr
+16:39 [Info] Loaded plugin BGrade v1.1.3 by Ryan / Rustoria.co
+16:39 [Info] Loaded plugin Backpacks v3.2.1 by LaserHydra
+16:39 [Info] Loaded plugin BetterCharcoal v1.0.2 by Jake_Rich
+16:39 [Info] Loaded plugin Better Chat v5.2.5 by LaserHydra
+16:39 [Info] Loaded plugin BetterLoot v3.0.1 by Default
+16:39 [Info] Loaded plugin Building Grades v0.5.1 by Default
+16:39 [Info] Loaded plugin Clan Tags v0.8.0 by GreenArrow
+16:39 [Info] Loaded plugin Clans v0.1.55 by k1lly0u
+16:39 [Info] Loaded plugin Clan Team v1.0.5 by deivismac
+16:39 [Info] Loaded plugin Death Notes v6.3.5 by LaserHydra
+16:39 [Info] Loaded plugin Disable Cold Damage v1.0.3 by Talha
+16:39 [Info] Loaded plugin Easy Airdrop v3.2.5 by LaserHydra
+16:39 [Info] Loaded plugin FancyDrop v2.9.2 by FastBurst
+16:39 [Info] Loaded plugin Furnace Splitter v2.2.7 by FastBurst
+16:39 [Info] Loaded plugin Gathering Manager v2.2.75 by Mughisi
+16:39 [Info] Loaded plugin Instant Craft v2.1.5 by Orange
+16:39 [Info] Loaded plugin Inventory Viewer v3.0.3 by Mughisi
+16:39 [Info] Loaded plugin Kits v3.3.1 by Reneb
+16:39 [Info] Loaded plugin Magic Airdrop Panel v1.0.1 by MJSU
+16:39 [Info] Loaded plugin Magic Bradley Panel v1.0.1 by MJSU
+16:39 [Info] Loaded plugin Magic Cargo Ship Panel v1.0.1 by MJSU
+16:39 [Info] Loaded plugin Magic Heli Panel v1.0.2 by MJSU
+16:39 [Info] Loaded plugin Magic Panel v1.0.6 by MJSU
+16:39 [Info] Loaded plugin Magic Players Panel v1.0.2 by MJSU
+16:39 [Info] Loaded plugin Magic Sleepers Panel v1.0.2 by MJSU
+16:39 [Info] Loaded plugin NTeleportation v1.4.2 by nivex
+16:39 [Info] Loaded plugin No Escape v2.1.31 by Calytic
+16:39 [Info] Loaded plugin NoWorkbench v0.1.51 by k1lly0u
+16:39 [Info] Loaded plugin Quick Smelt v5.1.3 by Iv Misticos
+16:39 [Info] Loaded plugin Recycler Speed v1.0.4 by yetzt
+16:39 [Info] Loaded plugin Remover Tool v4.3.22 by Reneb/Fuji/Arainrr
+16:39 [Info] Loaded plugin SAMSiteAuth v2.3.3 by haggbart
+16:39 [Info] Loaded plugin SkipNightVote v0.1.4 by k1lly0u
+16:39 [Info] Loaded plugin Stack Multiplier v1.0.3 by Ryz0r
+16:39 [Info] Loaded plugin Stack Size Controller v2.0.4 by Canopy Sheep
+16:39 [Info] Loaded plugin TownTeleport v1.10.1 by mvrb
+16:39 [Info] Loaded plugin Trade v1.2.42 by Calytic
+16:39 [Info] Loaded plugin Upgrade Permissions v2.0.0 by Wulf
+16:40 [Info] IP address from command-line: 104.238.229.191
+16:40 [Error] [Automated Events] There is no Bradley Spawner on your server, so the Bradley event is disabled
+16:40 [Info] [BetterLoot] Using '20' active of '23' supported containertypes
+16:40 [Info] [BetterLoot] Updating internals ...
+16:40 [Info] [FancyDrop] Map Highest Point: (500m) | Plane flying height: (~500m)
+16:40 [Info] [FancyDrop] Timed Airdrop activated with '2' players between '30' and '50' minutes
+16:40 [Info] [FancyDrop] Builtin Airdrop removed
+16:40 [Info] [FancyDrop] Next timed Airdrop in 30 minutes
+16:40 [Info] [NTeleportation] Rust was upgraded or map changed - clearing homes, town, outpost and bandit!
+16:40 [Info] [BetterLoot] Removed 6 stacked LootContainer
+16:40 [Info] [BetterLoot] Populated '534' supported containers.
+16:40 [Error] Exception while calling NextTick callback (ArgumentException: An item with the same key has already been added. Key: GunRoll_Sub_Medium)
+  at System.Collections.Generic.Dictionary`2[TKey,TValue].TryInsert (TKey key, TValue value, System.Collections.Generic.InsertionBehavior behavior) [0x000c1] in <fb001e01371b4adca20013e0ac763896>:0 
+  at System.Collections.Generic.Dictionary`2[TKey,TValue].Add (TKey key, TValue value) [0x00000] in <fb001e01371b4adca20013e0ac763896>:0 
+  at Oxide.Plugins.FancyDrop.ExportLootSpawn (Oxide.Plugins.FancyDrop+ExportData expData, LootSpawn lootSpawn, System.Int32 level) [0x000c1] in <75f8c0a44d4e4fd9b4171af6adafaf23>:0 
+  at Oxide.Plugins.FancyDrop.ExportLootSpawn (Oxide.Plugins.FancyDrop+ExportData expData, LootSpawn lootSpawn, System.Int32 level) [0x000ce] in <75f8c0a44d4e4fd9b4171af6adafaf23>:0 
+  at Oxide.Plugins.FancyDrop.SetupLoot () [0x000a7] in <75f8c0a44d4e4fd9b4171af6adafaf23>:0 
+  at Oxide.Plugins.FancyDrop.<OnServerInitialized>m__0 () [0x00000] in <75f8c0a44d4e4fd9b4171af6adafaf23>:0 
+  at Oxide.Core.OxideMod.OnFrame (System.Single delta) [0x00051] in <c2afd8354b8b4f3ca451cf5a1aa111c3>:0 
+16:40 [Info] [Automated Events] Next Helicopter event will be ran after 00:50:12
+16:40 [Info] [Automated Events] Next Chinook event will be ran after 00:30:12
+16:40 [Info] [Automated Events] Next CargoShip event will be ran after 00:32:52
+16:40 [Info] [Automated Events] Next CargoPlane event will be ran after 00:41:29
+16:53 [Info] Loading Oxide Core v2.0.3991...
+16:53 [Info] Loading extensions...
+16:53 [Info] Loaded extension CSharp v2.0.4041 by Oxide Team and Contributors
+16:53 [Info] Loaded extension MySql v2.0.3760 by Oxide Team and Contributors
+16:53 [Info] Loaded extension Rust v2.0.4944 by Oxide Team and Contributors
+16:53 [Info] Loaded extension SQLite v2.0.3762 by Oxide Team and Contributors
+16:53 [Info] Loaded extension Unity v2.0.3772 by Oxide Team and Contributors
+16:53 [Info] Latest compiler MD5: 8ce6d27e7718e3d164766bba8833537a
+16:53 [Info] Local compiler MD5: 8ce6d27e7718e3d164766bba8833537a
+16:53 [Info] Using Covalence provider for game 'Rust'
+16:53 [Info] Loading plugins...
+16:53 [Info] Loaded plugin Rust v2.0.4944 by Oxide Team and Contributors
+16:53 [Info] Loaded plugin Unity v2.0.3772 by Oxide Team and Contributors
+16:54 [Info] AutomatedEvents, AutomaticAuthorization, BGrade, Backpacks, BetterCharcoal, BetterChat, BetterLoot, BuildingGrades, ClanTags, ClanTeam, Clans, DeathNotes, DisableColdDamage, EasyAirdrop, FancyDrop, FurnaceSplitter, GatherManager, InstantCraft, InventoryViewer, Kits, MagicAirdropPanel, MagicBradleyPanel, MagicCargoShipPanel, MagicHeliPanel, MagicPanel, MagicPlayersPanel, MagicSleepersPanel, NTeleportation, NoEscape, QuickSmelt, RecyclerSpeed, RemoverTool, SAMSiteAuth, SkipNightVote, StackMultiplier, StackSizeController, TownTeleport, Trade and UpgradePermissions were compiled successfully in 0ms
+16:54 [Warning] [DEBUG] ClanTeam plugin is waiting for requirements to be loaded: Clans
+16:54 [Error] Error while compiling: CopyPaste.cs(888,18): error CS1061: Type `Signage' does not contain a definition for `textureID' and no extension method `textureID' of type `Signage' could be found. Are you missing an assembly reference?
+16:54 [Info] Loaded plugin Automated Events v1.0.6 by k1lly0u/mspeedie/Arainrr
+16:54 [Info] Loaded plugin Automatic Authorization v1.2.2 by k1lly0u/Arainrr
+16:54 [Info] Loaded plugin BGrade v1.1.3 by Ryan / Rustoria.co
+16:54 [Info] Loaded plugin Backpacks v3.2.1 by LaserHydra
+16:54 [Info] Loaded plugin BetterCharcoal v1.0.2 by Jake_Rich
+16:54 [Info] Loaded plugin Better Chat v5.2.5 by LaserHydra
+16:54 [Info] Loaded plugin BetterLoot v3.0.1 by Default
+16:54 [Info] Loaded plugin Building Grades v0.5.1 by Default
+16:54 [Info] Loaded plugin Clan Tags v0.8.0 by GreenArrow
+16:54 [Info] Loaded plugin Clans v0.1.55 by k1lly0u
+16:54 [Info] Loaded plugin Clan Team v1.0.5 by deivismac
+16:54 [Info] Loaded plugin Death Notes v6.3.5 by LaserHydra
+16:54 [Info] Loaded plugin Disable Cold Damage v1.0.3 by Talha
+16:54 [Info] Loaded plugin Easy Airdrop v3.2.5 by LaserHydra
+16:54 [Info] Loaded plugin FancyDrop v2.9.2 by FastBurst
+16:54 [Info] Loaded plugin Furnace Splitter v2.2.7 by FastBurst
+16:54 [Info] Loaded plugin Gathering Manager v2.2.75 by Mughisi
+16:54 [Info] Loaded plugin Instant Craft v2.1.5 by Orange
+16:54 [Info] Loaded plugin Inventory Viewer v3.0.3 by Mughisi
+16:54 [Info] Loaded plugin Kits v3.3.1 by Reneb
+16:54 [Info] Loaded plugin Magic Airdrop Panel v1.0.1 by MJSU
+16:54 [Info] Loaded plugin Magic Bradley Panel v1.0.1 by MJSU
+16:54 [Info] Loaded plugin Magic Cargo Ship Panel v1.0.1 by MJSU
+16:54 [Info] Loaded plugin Magic Heli Panel v1.0.2 by MJSU
+16:54 [Info] Loaded plugin Magic Panel v1.0.6 by MJSU
+16:54 [Info] Loaded plugin Magic Players Panel v1.0.2 by MJSU
+16:54 [Info] Loaded plugin Magic Sleepers Panel v1.0.2 by MJSU
+16:54 [Info] Loaded plugin NTeleportation v1.4.2 by nivex
+16:54 [Info] Loaded plugin No Escape v2.1.31 by Calytic
+16:54 [Info] Loaded plugin Quick Smelt v5.1.3 by Iv Misticos
+16:54 [Info] Loaded plugin Recycler Speed v1.0.4 by yetzt
+16:54 [Info] Loaded plugin Remover Tool v4.3.22 by Reneb/Fuji/Arainrr
+16:54 [Info] Loaded plugin SAMSiteAuth v2.3.3 by haggbart
+16:54 [Info] Loaded plugin SkipNightVote v0.1.4 by k1lly0u
+16:54 [Info] Loaded plugin Stack Multiplier v1.0.3 by Ryz0r
+16:54 [Info] Loaded plugin Stack Size Controller v2.0.4 by Canopy Sheep
+16:54 [Info] Loaded plugin TownTeleport v1.10.1 by mvrb
+16:54 [Info] Loaded plugin Trade v1.2.42 by Calytic
+16:54 [Info] Loaded plugin Upgrade Permissions v2.0.0 by Wulf
+16:56 [Info] IP address from command-line: 104.238.229.191
+16:56 [Info] [BetterLoot] Using '20' active of '23' supported containertypes
+16:56 [Info] [BetterLoot] Updating internals ...
+16:56 [Info] [FancyDrop] Map Highest Point: (500m) | Plane flying height: (~500m)
+16:56 [Info] [FancyDrop] Timed Airdrop activated with '2' players between '30' and '50' minutes
+16:56 [Info] [FancyDrop] Builtin Airdrop removed
+16:56 [Info] [FancyDrop] Next timed Airdrop in 36 minutes
+16:56 [Warning] Calling 'OnServerInitialized' on 'FancyDrop v2.9.2' took 106ms
+16:56 [Warning] Calling 'OnServerInitialized' on 'GatherManager v2.2.75' took 102ms
+16:56 [Info] [NTeleportation] Rust was upgraded or map changed - clearing homes, town, outpost and bandit!
+16:56 [Warning] Calling 'OnServerInitialized' on 'NTeleportation v1.4.2' took 116ms
+16:56 [Warning] Calling 'OnServerInitialized' on 'QuickSmelt v5.1.3' took 105ms
+16:56 [Warning] Calling 'OnServerInitialized' on 'TownTeleport v1.10.1' took 105ms
+16:56 [Info] [BetterLoot] Removed 7 stacked LootContainer
+16:56 [Info] [BetterLoot] Populated '2062' supported containers.
+16:56 [Error] Exception while calling NextTick callback (ArgumentException: An item with the same key has already been added. Key: GunRoll_Sub_Medium)
+  at System.Collections.Generic.Dictionary`2[TKey,TValue].TryInsert (TKey key, TValue value, System.Collections.Generic.InsertionBehavior behavior) [0x000c1] in <fb001e01371b4adca20013e0ac763896>:0 
+  at System.Collections.Generic.Dictionary`2[TKey,TValue].Add (TKey key, TValue value) [0x00000] in <fb001e01371b4adca20013e0ac763896>:0 
+  at Oxide.Plugins.FancyDrop.ExportLootSpawn (Oxide.Plugins.FancyDrop+ExportData expData, LootSpawn lootSpawn, System.Int32 level) [0x000c1] in <0c92f794cd504622aaef3891296102f7>:0 
+  at Oxide.Plugins.FancyDrop.ExportLootSpawn (Oxide.Plugins.FancyDrop+ExportData expData, LootSpawn lootSpawn, System.Int32 level) [0x000ce] in <0c92f794cd504622aaef3891296102f7>:0 
+  at Oxide.Plugins.FancyDrop.SetupLoot () [0x000a7] in <0c92f794cd504622aaef3891296102f7>:0 
+  at Oxide.Plugins.FancyDrop.<OnServerInitialized>m__0 () [0x00000] in <0c92f794cd504622aaef3891296102f7>:0 
+  at Oxide.Core.OxideMod.OnFrame (System.Single delta) [0x00051] in <c2afd8354b8b4f3ca451cf5a1aa111c3>:0 
+16:56 [Info] [Automated Events] Next Helicopter event will be ran after 00:52:24
+16:56 [Info] [Automated Events] Next Chinook event will be ran after 00:37:08
+16:56 [Info] [Automated Events] Next CargoShip event will be ran after 00:40:12
+16:56 [Info] [Automated Events] Next CargoPlane event will be ran after 00:33:19
+16:56 [Info] [Automated Events] Next Bradley event will be ran after 00:41:55
+17:01 [Info] Group 'Operator' created
+17:02 [Info] [Better Chat] [Global] [Player] DevL: .
+17:02 [Info] [Better Chat] [Global] [Player] BigSmoke: .
+17:04 [Info] Group 'admin' deleted
+17:04 [Info] Group 'operator' deleted
+17:04 [Info] Successfully added group 'operator'.
+17:04 [Info] namecolor is not a valid field. Type 'chat group set' to list all existing fields.
+17:05 [Info] Changed TitleColor to red for group 'operator'.
+17:05 [Info] DevL was added to group 'operator'.
+17:05 [Info] [Better Chat] [Global] [Player] [operator] DevL: .
+17:06 [Info] Stack size set was blocked for items in config: hammer.
+17:06 [Info] The current stack size is 100x.
+17:30 [Info] [Automated Events] Spawning Cargo Plane
+17:30 [Info] [Automated Events] Next CargoPlane event will be ran after 00:42:54
+17:32 [Info] [FancyDrop] Random Airdrop of type 'regular' incoming at: (75, 15, 1144) grid area: O5
+17:32 [Info] [FancyDrop] Timed Airdrop initiated with command 'ad.random'
+17:32 [Info] [FancyDrop] Next timed Airdrop in 42 minutes
+17:32 [Info] [Death Notes] Cold.Soup couldn't run away from the Bear.
+17:32 [Warning] 'Backpacks v3.2.1' is using deprecated hook 'OnPlayerCorpse', which will stop working on Thursday, 01 July 2021. Please ask the author to update to 'OnPlayerCorpseSpawned(BasePlayer player, BaseCorpse corpse)'
+17:33 [Error] Could not load plugin 'kits' (no plugin found with that file name)
+17:33 [Info] Listing 40 plugins:
+  01 "Automated Events" (1.0.6) by k1lly0u/mspeedie/Arainrr (0.06s) - AutomatedEvents.cs
+  02 "Automatic Authorization" (1.2.2) by k1lly0u/Arainrr (0.12s) - AutomaticAuthorization.cs
+  03 "BGrade" (1.1.3) by Ryan / Rustoria.co (0.02s) - BGrade.cs
+  04 "Backpacks" (3.2.1) by LaserHydra (0.16s) - Backpacks.cs
+  05 "BetterCharcoal" (1.0.2) by Jake_Rich (0.00s) - BetterCharcoal.cs
+  06 "Better Chat" (5.2.5) by LaserHydra (0.02s) - BetterChat.cs
+  07 "BetterLoot" (3.0.1) by Default (0.44s) - BetterLoot.cs
+  08 "Building Grades" (0.5.1) by Default (0.01s) - BuildingGrades.cs
+  09 "Clan Tags" (0.8.0) by GreenArrow (0.00s) - ClanTags.cs
+  10 "Clans" (0.1.55) by k1lly0u (0.01s) - Clans.cs
+  11 "Clan Team" (1.0.5) by deivismac (0.00s) - ClanTeam.cs
+  12 "Death Notes" (6.3.5) by LaserHydra (0.07s) - DeathNotes.cs
+  13 "Disable Cold Damage" (1.0.3) by Talha (0.10s) - DisableColdDamage.cs
+  14 "Easy Airdrop" (3.2.5) by LaserHydra (0.00s) - EasyAirdrop.cs
+  15 "FancyDrop" (2.9.2) by FastBurst (0.27s) - FancyDrop.cs
+  16 "Furnace Splitter" (2.2.7) by FastBurst (0.09s) - FurnaceSplitter.cs
+  17 "Gathering Manager" (2.2.75) by Mughisi (0.11s) - GatherManager.cs
+  18 "Instant Craft" (2.1.5) by Orange (0.01s) - InstantCraft.cs
+  19 "Inventory Viewer" (3.0.3) by Mughisi (0.01s) - InventoryViewer.cs
+  20 "Kits" (3.3.1) by Reneb (0.13s) - Kits.cs
+  21 "Magic Airdrop Panel" (1.0.1) by MJSU (0.07s) - MagicAirdropPanel.cs
+  22 "Magic Bradley Panel" (1.0.1) by MJSU (0.03s) - MagicBradleyPanel.cs
+  23 "Magic Cargo Ship Panel" (1.0.1) by MJSU (0.03s) - MagicCargoShipPanel.cs
+  24 "Magic Heli Panel" (1.0.2) by MJSU (0.03s) - MagicHeliPanel.cs
+  25 "Magic Panel" (1.0.6) by MJSU (0.02s) - MagicPanel.cs
+  26 "Magic Players Panel" (1.0.2) by MJSU (0.00s) - MagicPlayersPanel.cs
+  27 "Magic Sleepers Panel" (1.0.2) by MJSU (0.00s) - MagicSleepersPanel.cs
+  28 "NTeleportation" (1.4.2) by nivex (0.12s) - NTeleportation.cs
+  29 "No Escape" (2.1.31) by Calytic (0.07s) - NoEscape.cs
+  30 "Quick Smelt" (5.1.3) by Iv Misticos (0.40s) - QuickSmelt.cs
+  31 "Recycler Speed" (1.0.4) by yetzt (0.00s) - RecyclerSpeed.cs
+  32 "Remover Tool" (4.3.22) by Reneb/Fuji/Arainrr (0.02s) - RemoverTool.cs
+  33 "SAMSiteAuth" (2.3.3) by haggbart (0.04s) - SAMSiteAuth.cs
+  34 "SkipNightVote" (0.1.4) by k1lly0u (0.02s) - SkipNightVote.cs
+  35 "Stack Multiplier" (1.0.3) by Ryz0r (0.00s) - StackMultiplier.cs
+  36 "Stack Size Controller" (2.0.4) by Canopy Sheep (0.03s) - StackSizeController.cs
+  37 "TownTeleport" (1.10.1) by mvrb (0.15s) - TownTeleport.cs
+  38 "Trade" (1.2.42) by Calytic (0.00s) - Trade.cs
+  39 "Upgrade Permissions" (2.0.0) by Wulf (0.00s) - UpgradePermissions.cs
+  40 CopyPaste - Failed to compile: CopyPaste.cs(888,18): error CS1061: Type `Signage' does not contain a definition for `textureID' and no extension method `textureID' of type `Signage' could be found. Are you missing an assembly reference?
+17:33 [Info] Kits was compiled successfully in 2023ms
+17:33 [Info] Unloaded plugin Kits v3.3.1 by Reneb
+17:33 [Info] Loaded plugin Kits v3.3.1 by Reneb
+17:33 [Info] [Automated Events] Spawning Chinook
+17:33 [Info] [Automated Events] Next Chinook event will be ran after 00:37:28
+17:35 [Info] [Automated Events] Next CargoPlane event will be ran after 00:40:45
+17:36 [Info] [Automated Events] Spawning Cargo Ship
+17:36 [Info] [Automated Events] Next CargoShip event will be ran after 00:37:52
+17:38 [Info] [Better Chat] [Global] [Player] Cold.Soup: .
+17:38 [Info] [Better Chat] [Global] [Player] [operator] DevL: .
+17:38 [Warning] [Automated Events] The number of Bradley events has reached the limit of 1
+17:38 [Info] [Automated Events] Next Bradley event will be ran after 00:32:48
+17:41 [Info] Group 'player' parent changed to 'default'
+17:42 [Info] Player 'Cold.Soup(76561198271966403)' added to group: player
+17:43 [Info] Group 'default' parent was not changed
+17:45 [Error] Failed to call hook 'GroupCommand' on plugin 'RustCore v2.0.4944' (FormatException: Input string was not in a correct format.)
+  at Oxide.Core.Plugins.CSPlugin.OnCallHook (System.String name, System.Object[] args) [0x000fb] in <c2afd8354b8b4f3ca451cf5a1aa111c3>:0 
+  at Oxide.Core.Plugins.Plugin.CallHook (System.String hook, System.Object[] args) [0x00060] in <c2afd8354b8b4f3ca451cf5a1aa111c3>:0 
+17:46 [Info] Group 'default' parent was not changed
+17:49 [Info] [Automated Events] Spawning Helicopter
+17:49 [Info] [Automated Events] Next Helicopter event will be ran after 00:56:57
+17:56 [Info] [Automated Events] Next Chinook event will be ran after 00:41:45
+17:56 [Info] Group 'player' players:
+76561198154580978 (DevL), 76561198285596771 (BigSmoke), 76561198271966403 (Cold.Soup)
+
+Group 'player' permissions:
+bgrade.1, bgrade.2, bgrade.3, bgrade.4, bgrade.all, backpacks.use, bettercharcoal.allowed, deathnotes.cansee, disablecolddamage.use, furnacesplitter.use, instantcraft.use, nteleportation.deletehome, nteleportation.home, nteleportation.homehomes, removertool.normal, nteleportation.tpr, nteleportation.tphome, nteleportation.tpoutpost, nteleportation.tpbandit, nteleportation.craftoutpost, nteleportation.craftbandit, nteleportation.crafttpr, recyclerspeed.use, stackmultiplier.use, upgradepermissions.twigs, upgradepermissions.wood, upgradepermissions.stone, upgradepermissions.metal, upgradepermissions.toptier, quicksmelt.use
+Parent group 'default' permissions:
+
+17:56 [Info] Permission 'bgrade.1, bgrade.2, bgrade.3, bgrade.4, bgrade.all, backpacks.use, bettercharcoal.allowed, deathnotes.cansee, disablecolddamage.use, furnacesplitter.use, instantcraft.use, nteleportation.deletehome, nteleportation.home, nteleportation.homehomes, removertool.normal, nteleportation.tpr, nteleportation.tphome, nteleportation.tpoutpost, nteleportation.tpbandit, nteleportation.craftoutpost, nteleportation.craftbandit, nteleportation.crafttpr, recyclerspeed.use, stackmultiplier.use, upgradepermissions.twigs, upgradepermissions.wood, upgradepermissions.stone, upgradepermissions.metal, upgradepermissions.toptier, quicksmelt.use' doesn't exist
+18:05 [Info] Permission 'bgrade.1,' doesn't exist
+18:05 [Info] Group 'default' granted permission 'bgrade.1'
+18:06 [Info] Usage: oxide.grant <group|user> <name|id> <permission>
+18:06 [Info] Group 'default' granted permission 'bgrade.all'
+18:06 [Info] Group 'default' granted permission 'bettercharcoal.allowed'
+18:06 [Info] Group 'default' granted permission 'backpacks.use'
+18:06 [Info] Group 'default' granted permission 'deathnotes.cansee'
+18:07 [Info] Group 'default' granted permission 'disablecolddamage.use'
+18:07 [Info] Group 'default' granted permission 'furnacesplitter.use'
+18:07 [Info] Group 'default' granted permission 'instantcraft.use'
+18:07 [Info] Group 'default' granted permission 'nteleportation.deletehome'
+18:07 [Info] Group 'default' granted permission 'nteleportation.home'
+18:08 [Info] Group 'default' granted permission 'nteleportation.homehomes'
+18:08 [Info] [Automated Events] Next Helicopter event will be ran after 00:47:07
+18:08 [Info] Group 'default' granted permission 'removertool.normal'
+18:08 [Info] Group 'default' granted permission 'nteleportation.tpr'
+18:08 [Info] Group 'default' granted permission 'nteleportation.tphome'
+18:08 [Info] Group 'default' granted permission 'nteleportation.tpoutpost'
+18:08 [Info] Group 'default' granted permission 'nteleportation.tpbandit'
+18:09 [Info] Group 'default' granted permission 'nteleportation.craftoutpost'
+18:09 [Info] Group 'default' granted permission 'nteleportation.craftbandit'
+18:09 [Info] Group 'default' granted permission 'nteleportation.crafttpr'
+18:09 [Info] Group 'default' granted permission 'recyclerspeed.use'
+18:09 [Info] Group 'default' granted permission 'stackmultiplier.use'
+18:10 [Info] Group 'default' granted permission 'upgradepermissions.twigs'
+18:10 [Info] Group 'default' granted permission 'upgradepermissions.wood'
+18:10 [Info] Group 'default' granted permission 'upgradepermissions.stone'
+18:10 [Info] Group 'default' granted permission 'upgradepermissions.metal'
+18:10 [Info] Group 'default' granted permission 'upgradepermissions.toptier'
+18:10 [Info] Group 'default' granted permission 'quicksmelt.use'
+18:10 [Info] Group 'player' deleted
+18:10 [Info] [Better Chat] [Global] [Player] [operator] DevL: .
+18:11 [Info] Syntax: chat group <add|remove|set|list>
+18:11 [Info] Syntax: chat group <add|remove|set|list>
+18:11 [Warning] [Automated Events] The number of Bradley events has reached the limit of 1
+18:11 [Info] [Automated Events] Next Bradley event will be ran after 00:40:45
+18:12 [Info] Changed title to Operator for group 'operator'.
+18:12 [Info] [Better Chat] [Global] [Player] Operator DevL: .
+18:12 [Info] Changed title to [Operator] for group 'operator'.
+18:13 [Info] [Better Chat] [Global] [Player] Cold.Soup: poop
+18:13 [Info] [Better Chat] [Global] [Player] [Operator] DevL: shit
+18:13 [Info] [Better Chat] [Global] [Player] Cold.Soup: onmychest
+18:13 [Info] [Better Chat] [Global] [Player] [Operator] DevL: No.
+18:14 [Info] [FancyDrop] Random Airdrop of type 'regular' incoming at: (-1322, 32, 1142) grid area: E5
+18:14 [Info] [FancyDrop] Timed Airdrop initiated with command 'ad.random'
+18:14 [Info] [FancyDrop] Next timed Airdrop in 30 minutes
+18:14 [Warning] [Automated Events] The number of CargoShip events has reached the limit of 1
+18:14 [Info] [Automated Events] Next CargoShip event will be ran after 00:43:29
+18:16 [Warning] [Automated Events] The number of CargoPlane events has reached the limit of 1
+18:16 [Info] [Automated Events] Next CargoPlane event will be ran after 00:37:03
+18:20 [Info] [NTeleportation] DevL teleported to Cold.Soup.
+18:21 [Info] [Death Notes] DevL shot Cold.Soup using their M249 over a distance of 1.2 meters.
+18:31 [Info] Permissions:
+oxide.plugins, oxide.load, oxide.reload, oxide.unload, oxide.grant, oxide.group, oxide.revoke, oxide.show, oxide.usergroup, automatedevents.allowed, automatedevents.next, automaticauthorization.use, bgrade.1, bgrade.2, bgrade.3, bgrade.4, bgrade.nores, bgrade.all, backpacks.use, backpacks.fetch, backpacks.admin, backpacks.keepondeath, backpacks.use.1, backpacks.use.2, backpacks.use.3, backpacks.use.4, backpacks.use.5, backpacks.use.6, backpacks.use.7, bettercharcoal.allowed, betterchat.admin, deathnotes.cansee, disablecolddamage.use, easyairdrop.call, easyairdrop.call.player, easyairdrop.call.position, easyairdrop.call.mass, furnacesplitter.use, instantcraft.use, inventoryviewer.allowed, nteleportation.deletehome, nteleportation.home, nteleportation.homehomes, nteleportation.importhomes, nteleportation.radiushome, nteleportation.tp, nteleportation.tpb, nteleportation.tpr, nteleportation.tpconsole, nteleportation.tphome, nteleportation.tptown, nteleportation.tpt, nteleportation.tpoutpost, nteleportation.tpbandit, nteleportation.tpn, nteleportation.tpl, nteleportation.tpremove, nteleportation.tpsave, nteleportation.wipehomes, nteleportation.crafthome, nteleportation.crafttown, nteleportation.craftoutpost, nteleportation.craftbandit, nteleportation.crafttpr, nteleportation.vip, recyclerspeed.use, removertool.all, removertool.admin, removertool.normal, removertool.target, removertool.override, removertool.external, removertool.structure, skipnightvote.admin, stackmultiplier.use, townteleport.outpost, townteleport.bandit, townteleport.nocooldown, trade.use, trade.accept, upgradepermissions.twigs, upgradepermissions.wood, upgradepermissions.stone, upgradepermissions.metal, upgradepermissions.toptier, upgradepermissions.count, upgradepermissions.none, buildinggrades.cangrade, buildinggrades.nocost, buildinggrades.down, clantags.admin, clantags.default, kits.admin, kits.consolegive, noescape.disable, noescape.raid.removeblock, noescape.combat.removeblock, noescape.raid.tpblock, noescape.combat.tpblock, noescape.raid.bankblock, noescape.combat.bankblock, noescape.raid.tradeblock, noescape.combat.tradeblock, noescape.raid.recycleblock, noescape.combat.recycleblock, noescape.raid.shopblock, noescape.combat.shopblock, noescape.raid.bgradeblock, noescape.combat.bgradeblock, noescape.raid.buildblock, noescape.combat.buildblock, noescape.raid.repairblock, noescape.combat.repairblock, noescape.raid.upgradeblock, noescape.combat.upgradeblock, noescape.raid.vendblock, noescape.combat.vendblock, noescape.raid.kitblock, noescape.combat.kitblock, noescape.raid.assignbedblock, noescape.combat.assignbedblock, noescape.raid.craftblock, noescape.combat.craftblock, noescape.raid.mailboxblock, noescape.combat.mailboxblock, noescape.raid.backpackblock, noescape.combat.backpackblock, quicksmelt.use, stacksizecontroller.canchangestacksize
+18:32 [Info] Group 'default' granted permission 'automaticauthorization.use'
+18:32 [Info] Usage: oxide.grant <group|user> <name|id> <permission>
+18:32 [Info] Usage: oxide.grant <group|user> <name|id> <permission>
+18:32 [Info] Usage: oxide.grant <group|user> <name|id> <permission>
+18:33 [Info] Group 'default' granted permission 'trade.accept'
+18:33 [Info] Group 'default' granted permission 'trade.use'
+18:33 [Info] Group 'default' granted permission 'buildinggrades.cangrade'
+18:33 [Info] Group 'default' already has permission 'automaticauthorization.use'
+18:36 [Info] [Automated Events] Next CargoShip event will be ran after 00:30:29
+18:37 [Info] [Automated Events] Spawning Chinook
+18:37 [Info] [Automated Events] Next Chinook event will be ran after 00:33:51
+18:44 [Info] [FancyDrop] Random Airdrop of type 'regular' incoming at: (688, 44, -452) grid area: S16
+18:44 [Info] [FancyDrop] Timed Airdrop initiated with command 'ad.random'
+18:44 [Info] [FancyDrop] Next timed Airdrop in 45 minutes
+18:52 [Warning] [Automated Events] The number of Bradley events has reached the limit of 1
+18:52 [Info] [Automated Events] Next Bradley event will be ran after 00:41:50
+18:53 [Info] [Automated Events] Spawning Cargo Plane
+18:53 [Info] [Automated Events] Next CargoPlane event will be ran after 00:41:31
+18:54 [Info] [Automated Events] Next Chinook event will be ran after 00:37:40
+18:55 [Info] [Automated Events] Spawning Helicopter
+18:55 [Info] [Automated Events] Next Helicopter event will be ran after 00:58:22
+18:58 [Info] [Automated Events] Next CargoPlane event will be ran after 00:41:35
+19:07 [Info] [Automated Events] Spawning Cargo Ship
+19:07 [Info] [Automated Events] Next CargoShip event will be ran after 00:42:12
+19:10 [Info] [Better Chat] [Global] [Player] [Operator] DevL: Bigsmoke is a ner
+19:10 [Info] [Better Chat] [Global] [Player] [Operator] DevL: nerd
+19:11 [Info] [Better Chat] [Global] [Player] [Operator] DevL: Crank it
+19:14 [Info] [Automated Events] Next Helicopter event will be ran after 00:49:22
+19:17 [Error] Could not load plugin 'Betterloot' (no plugin found with that file name)
+19:17 [Info] BetterLoot was compiled successfully in 1940ms
+19:17 [Info] Unloaded plugin BetterLoot v3.0.1 by Default
+19:17 [Info] [BetterLoot] Using '20' active of '23' supported containertypes
+19:17 [Info] [BetterLoot] Updating internals ...
+19:17 [Info] Loaded plugin BetterLoot v3.0.1 by Default
+19:17 [Info] [BetterLoot] Removed 9 stacked LootContainer
+19:17 [Info] [BetterLoot] Populated '5238' supported containers.
+19:18 [Info] [Better Chat] [Global] [Player] [Operator] DevL: 8======​>
+19:29 [Info] [FancyDrop] Random Airdrop of type 'regular' incoming at: (827, 61, -726) grid area: T18
+19:29 [Info] [FancyDrop] Timed Airdrop initiated with command 'ad.random'
+19:29 [Info] [FancyDrop] Next timed Airdrop in 43 minutes
+19:31 [Info] [Automated Events] Spawning Chinook
+19:31 [Info] [Automated Events] Next Chinook event will be ran after 00:35:29
+19:34 [Warning] [Automated Events] The number of Bradley events has reached the limit of 1
+19:34 [Info] [Automated Events] Next Bradley event will be ran after 00:43:09
+19:38 [Info] Unloaded plugin BetterLoot v3.0.1 by Default
+19:38 [Info] [BetterLoot] Using '20' active of '23' supported containertypes
+19:38 [Info] [BetterLoot] Updating internals ...
+19:38 [Info] Loaded plugin BetterLoot v3.0.1 by Default
+19:38 [Info] [BetterLoot] Removed 6 stacked LootContainer
+19:38 [Info] [BetterLoot] Populated '5074' supported containers.
+19:40 [Info] [Automated Events] Spawning Cargo Plane
+19:40 [Info] [Automated Events] Next CargoPlane event will be ran after 00:38:38
+19:41 [Info] Unloaded plugin BetterLoot v3.0.1 by Default
+19:41 [Info] [BetterLoot] Using '20' active of '23' supported containertypes
+19:41 [Info] [BetterLoot] Updating internals ...
+19:41 [Info] Loaded plugin BetterLoot v3.0.1 by Default
+19:41 [Info] [BetterLoot] Removed 1 stacked LootContainer
+19:41 [Info] [BetterLoot] Populated '5156' supported containers.
+19:45 [Info] [Automated Events] Next CargoPlane event will be ran after 00:35:05
+19:47 [Info] Unloaded plugin BetterLoot v3.0.1 by Default
+19:47 [Info] [BetterLoot] Using '21' active of '24' supported containertypes
+19:47 [Info] [BetterLoot] Updating internals ...
+19:47 [Info] Loaded plugin BetterLoot v3.0.1 by Default
+19:47 [Info] [BetterLoot] Removed 1 stacked LootContainer
+19:47 [Info] [BetterLoot] Populated '5312' supported containers.
+19:47 [Info] [Automated Events] Next Chinook event will be ran after 00:44:45
+19:49 [Warning] [Automated Events] The number of CargoShip events has reached the limit of 1
+19:49 [Info] [Automated Events] Next CargoShip event will be ran after 00:31:28
+20:03 [Info] [Automated Events] Spawning Helicopter
+20:03 [Info] [Automated Events] Next Helicopter event will be ran after 00:49:52
+20:05 [Info] NTeleportation was compiled successfully in 2173ms
+20:05 [Info] Unloaded plugin NTeleportation v1.4.2 by nivex
+20:05 [Warning] Calling 'OnServerInitialized' on 'NTeleportation v1.4.2' took 128ms
+20:05 [Info] Loaded plugin NTeleportation v1.4.2 by nivex
+20:07 [Info] Unloaded plugin NTeleportation v1.4.2 by nivex
+20:07 [Warning] Calling 'OnServerInitialized' on 'NTeleportation v1.4.2' took 118ms
+20:07 [Info] Loaded plugin NTeleportation v1.4.2 by nivex
+20:07 [Info] [Automated Events] Next CargoShip event will be ran after 00:41:31
+20:12 [Info] Unloaded plugin Automated Events v1.0.6 by k1lly0u/mspeedie/Arainrr
+20:12 [Info] Unloaded plugin Automatic Authorization v1.2.2 by k1lly0u/Arainrr
+20:12 [Warning] Calling 'Unload' on 'BGrade v1.1.3' took 117ms
+20:12 [Info] Unloaded plugin BGrade v1.1.3 by Ryan / Rustoria.co
+20:12 [Info] Unloaded plugin Backpacks v3.2.1 by LaserHydra
+20:12 [Info] Unloaded plugin BetterCharcoal v1.0.2 by Jake_Rich
+20:12 [Info] Unloaded plugin Better Chat v5.2.5 by LaserHydra
+20:12 [Info] Unloaded plugin BetterLoot v3.0.1 by Default
+20:12 [Info] Unloaded plugin Building Grades v0.5.1 by Default
+20:12 [Info] Unloaded plugin Clan Tags v0.8.0 by GreenArrow
+20:12 [Info] Unloaded plugin Clan Team v1.0.5 by deivismac
+20:12 [Info] Unloaded plugin Clans v0.1.55 by k1lly0u
+20:12 [Info] Unloaded plugin Death Notes v6.3.5 by LaserHydra
+20:12 [Info] Unloaded plugin Disable Cold Damage v1.0.3 by Talha
+20:12 [Info] Unloaded plugin Easy Airdrop v3.2.5 by LaserHydra
+20:12 [Warning] Calling 'Unload' on 'FancyDrop v2.9.2' took 238ms
+20:12 [Info] Unloaded plugin FancyDrop v2.9.2 by FastBurst
+20:12 [Info] Unloaded plugin Furnace Splitter v2.2.7 by FastBurst
+20:12 [Warning] Calling 'Unload' on 'GatherManager v2.2.75' took 115ms
+20:12 [Info] Unloaded plugin Gathering Manager v2.2.75 by Mughisi
+20:12 [Info] Unloaded plugin Instant Craft v2.1.5 by Orange
+20:12 [Warning] Calling 'Unload' on 'InventoryViewer v3.0.3' took 116ms
+20:12 [Info] Unloaded plugin Inventory Viewer v3.0.3 by Mughisi
+20:12 [Info] Unloaded plugin Kits v3.3.1 by Reneb
+20:12 [Info] Unloaded plugin Magic Airdrop Panel v1.0.1 by MJSU
+20:12 [Info] Unloaded plugin Magic Bradley Panel v1.0.1 by MJSU
+20:12 [Info] Unloaded plugin Magic Cargo Ship Panel v1.0.1 by MJSU
+20:12 [Info] Unloaded plugin Magic Heli Panel v1.0.2 by MJSU
+20:12 [Info] Unloaded plugin Magic Panel v1.0.6 by MJSU
+20:12 [Info] Unloaded plugin Magic Players Panel v1.0.2 by MJSU
+20:12 [Info] Unloaded plugin Magic Sleepers Panel v1.0.2 by MJSU
+20:12 [Info] Unloaded plugin NTeleportation v1.4.2 by nivex
+20:12 [Warning] Calling 'Unload' on 'NoEscape v2.1.31' took 234ms
+20:12 [Info] Unloaded plugin No Escape v2.1.31 by Calytic
+20:12 [Warning] Calling 'Unload' on 'QuickSmelt v5.1.3' took 122ms
+20:12 [Info] Unloaded plugin Quick Smelt v5.1.3 by Iv Misticos
+20:12 [Info] Unloaded plugin Recycler Speed v1.0.4 by yetzt
+20:12 [Info] Unloaded plugin Remover Tool v4.3.22 by Reneb/Fuji/Arainrr
+20:12 [Info] Unloaded plugin SAMSiteAuth v2.3.3 by haggbart
+20:12 [Info] Unloaded plugin SkipNightVote v0.1.4 by k1lly0u
+20:12 [Info] Unloaded plugin Stack Multiplier v1.0.3 by Ryz0r
+20:12 [Info] Unloaded plugin Stack Size Controller v2.0.4 by Canopy Sheep
+20:12 [Info] Unloaded plugin TownTeleport v1.10.1 by mvrb
+20:12 [Info] Unloaded plugin Trade v1.2.42 by Calytic
+20:12 [Info] Unloaded plugin Upgrade Permissions v2.0.0 by Wulf
+20:12 [Info] Loading Oxide Core v2.0.3991...
+20:12 [Info] Loading extensions...
+20:12 [Info] Loaded extension CSharp v2.0.4041 by Oxide Team and Contributors
+20:12 [Info] Loaded extension MySql v2.0.3760 by Oxide Team and Contributors
+20:12 [Info] Loaded extension Rust v2.0.4944 by Oxide Team and Contributors
+20:12 [Info] Loaded extension SQLite v2.0.3762 by Oxide Team and Contributors
+20:12 [Info] Loaded extension Unity v2.0.3772 by Oxide Team and Contributors
+20:12 [Info] Latest compiler MD5: 8ce6d27e7718e3d164766bba8833537a
+20:12 [Info] Local compiler MD5: 8ce6d27e7718e3d164766bba8833537a
+20:12 [Info] Using Covalence provider for game 'Rust'
+20:12 [Info] Loading plugins...
+20:12 [Info] Loaded plugin Rust v2.0.4944 by Oxide Team and Contributors
+20:12 [Info] Loaded plugin Unity v2.0.3772 by Oxide Team and Contributors
+20:12 [Info] AutomatedEvents, AutomaticAuthorization, BGrade, Backpacks, BetterCharcoal, BetterChat, BetterLoot, BuildingGrades, ClanTags, ClanTeam, Clans, DeathNotes, DisableColdDamage, EasyAirdrop, FancyDrop, FurnaceSplitter, GatherManager, InstantCraft, InventoryViewer, Kits, MagicAirdropPanel, MagicBradleyPanel, MagicCargoShipPanel, MagicHeliPanel, MagicPanel, MagicPlayersPanel, MagicSleepersPanel, NTeleportation, NoEscape, QuickSmelt, RecyclerSpeed, RemoverTool, SAMSiteAuth, SkipNightVote, StackMultiplier, StackSizeController, TownTeleport, Trade and UpgradePermissions were compiled successfully in 0ms
+20:12 [Warning] [DEBUG] ClanTeam plugin is waiting for requirements to be loaded: Clans
+20:12 [Error] Error while compiling: CopyPaste.cs(888,18): error CS1061: Type `Signage' does not contain a definition for `textureID' and no extension method `textureID' of type `Signage' could be found. Are you missing an assembly reference?
+20:12 [Info] Loaded plugin Automated Events v1.0.6 by k1lly0u/mspeedie/Arainrr
+20:12 [Info] Loaded plugin Automatic Authorization v1.2.2 by k1lly0u/Arainrr
+20:12 [Info] Loaded plugin BGrade v1.1.3 by Ryan / Rustoria.co
+20:12 [Info] Loaded plugin Backpacks v3.2.1 by LaserHydra
+20:12 [Info] Loaded plugin BetterCharcoal v1.0.2 by Jake_Rich
+20:12 [Info] Loaded plugin Better Chat v5.2.5 by LaserHydra
+20:12 [Info] Loaded plugin BetterLoot v3.0.1 by Default
+20:12 [Info] Loaded plugin Building Grades v0.5.1 by Default
+20:12 [Info] Loaded plugin Clan Tags v0.8.0 by GreenArrow
+20:12 [Info] Loaded plugin Clans v0.1.55 by k1lly0u
+20:12 [Info] Loaded plugin Clan Team v1.0.5 by deivismac
+20:12 [Info] Loaded plugin Death Notes v6.3.5 by LaserHydra
+20:12 [Info] Loaded plugin Disable Cold Damage v1.0.3 by Talha
+20:12 [Info] Loaded plugin Easy Airdrop v3.2.5 by LaserHydra
+20:12 [Info] Loaded plugin FancyDrop v2.9.2 by FastBurst
+20:12 [Info] Loaded plugin Furnace Splitter v2.2.7 by FastBurst
+20:12 [Info] Loaded plugin Gathering Manager v2.2.75 by Mughisi
+20:12 [Info] Loaded plugin Instant Craft v2.1.5 by Orange
+20:12 [Info] Loaded plugin Inventory Viewer v3.0.3 by Mughisi
+20:12 [Info] Loaded plugin Kits v3.3.1 by Reneb
+20:12 [Info] Loaded plugin Magic Airdrop Panel v1.0.1 by MJSU
+20:12 [Info] Loaded plugin Magic Bradley Panel v1.0.1 by MJSU
+20:12 [Info] Loaded plugin Magic Cargo Ship Panel v1.0.1 by MJSU
+20:12 [Info] Loaded plugin Magic Heli Panel v1.0.2 by MJSU
+20:12 [Info] Loaded plugin Magic Panel v1.0.6 by MJSU
+20:12 [Info] Loaded plugin Magic Players Panel v1.0.2 by MJSU
+20:12 [Info] Loaded plugin Magic Sleepers Panel v1.0.2 by MJSU
+20:12 [Info] Loaded plugin NTeleportation v1.4.2 by nivex
+20:12 [Info] Loaded plugin No Escape v2.1.31 by Calytic
+20:12 [Info] Loaded plugin Quick Smelt v5.1.3 by Iv Misticos
+20:12 [Info] Loaded plugin Recycler Speed v1.0.4 by yetzt
+20:12 [Info] Loaded plugin Remover Tool v4.3.22 by Reneb/Fuji/Arainrr
+20:12 [Info] Loaded plugin SAMSiteAuth v2.3.3 by haggbart
+20:12 [Info] Loaded plugin SkipNightVote v0.1.4 by k1lly0u
+20:12 [Info] Loaded plugin Stack Multiplier v1.0.3 by Ryz0r
+20:12 [Info] Loaded plugin Stack Size Controller v2.0.4 by Canopy Sheep
+20:12 [Info] Loaded plugin TownTeleport v1.10.1 by mvrb
+20:12 [Info] Loaded plugin Trade v1.2.42 by Calytic
+20:12 [Info] Loaded plugin Upgrade Permissions v2.0.0 by Wulf
+20:14 [Info] IP address from command-line: 104.238.229.191
+20:14 [Info] [BetterLoot] Using '21' active of '24' supported containertypes
+20:14 [Info] [BetterLoot] Updating internals ...
+20:14 [Info] [FancyDrop] Map Highest Point: (500m) | Plane flying height: (~500m)
+20:14 [Info] [FancyDrop] Timed Airdrop activated with '2' players between '30' and '50' minutes
+20:14 [Info] [FancyDrop] Builtin Airdrop removed
+20:14 [Info] [FancyDrop] Next timed Airdrop in 33 minutes
+20:14 [Warning] Calling 'OnServerInitialized' on 'NTeleportation v1.4.2' took 108ms
+20:14 [Warning] Calling 'OnServerInitialized' on 'QuickSmelt v5.1.3' took 102ms
+20:14 [Warning] Calling 'OnServerInitialized' on 'TownTeleport v1.10.1' took 106ms
+20:14 [Info] [BetterLoot] No stacked LootContainer found.
+20:14 [Info] [BetterLoot] Populated '806' supported containers.
+20:14 [Error] Exception while calling NextTick callback (ArgumentException: An item with the same key has already been added. Key: GunRoll_Sub_Medium)
+  at System.Collections.Generic.Dictionary`2[TKey,TValue].TryInsert (TKey key, TValue value, System.Collections.Generic.InsertionBehavior behavior) [0x000c1] in <fb001e01371b4adca20013e0ac763896>:0 
+  at System.Collections.Generic.Dictionary`2[TKey,TValue].Add (TKey key, TValue value) [0x00000] in <fb001e01371b4adca20013e0ac763896>:0 
+  at Oxide.Plugins.FancyDrop.ExportLootSpawn (Oxide.Plugins.FancyDrop+ExportData expData, LootSpawn lootSpawn, System.Int32 level) [0x000c1] in <f87e5085bd494f7f9f8740b20237d6fb>:0 
+  at Oxide.Plugins.FancyDrop.ExportLootSpawn (Oxide.Plugins.FancyDrop+ExportData expData, LootSpawn lootSpawn, System.Int32 level) [0x000ce] in <f87e5085bd494f7f9f8740b20237d6fb>:0 
+  at Oxide.Plugins.FancyDrop.SetupLoot () [0x000a7] in <f87e5085bd494f7f9f8740b20237d6fb>:0 
+  at Oxide.Plugins.FancyDrop.<OnServerInitialized>m__0 () [0x00000] in <f87e5085bd494f7f9f8740b20237d6fb>:0 
+  at Oxide.Core.OxideMod.OnFrame (System.Single delta) [0x00051] in <c2afd8354b8b4f3ca451cf5a1aa111c3>:0 
+20:14 [Info] [Automated Events] Next Helicopter event will be ran after 00:59:22
+20:14 [Info] [Automated Events] Next Chinook event will be ran after 00:35:32
+20:14 [Info] [Automated Events] Next CargoShip event will be ran after 00:30:16
+20:14 [Info] [Automated Events] Next CargoPlane event will be ran after 00:43:56
+20:14 [Info] [Automated Events] Next Bradley event will be ran after 00:33:41
+20:44 [Info] [Automated Events] Spawning Cargo Ship
+20:44 [Info] [Automated Events] Next CargoShip event will be ran after 00:32:26
+20:47 [Info] [FancyDrop] Timed Airdrop skipped, not enough Players
+20:47 [Info] [FancyDrop] Next timed Airdrop in 32 minutes
+20:48 [Warning] [Automated Events] The number of Bradley events has reached the limit of 1
+20:48 [Info] [Automated Events] Next Bradley event will be ran after 00:35:02
+20:50 [Info] [Automated Events] Spawning Chinook
+20:50 [Info] [Automated Events] Next Chinook event will be ran after 00:40:13
+20:58 [Info] [Automated Events] Spawning FancyDrop Cargo Plane
+20:58 [Info] [FancyDrop] Random Airdrop of type 'regular' incoming at: (79, 14, -1060) grid area: O21
+20:58 [Info] [Automated Events] Next CargoPlane event will be ran after 00:30:30
+21:13 [Info] [Automated Events] Next Chinook event will be ran after 00:36:22
+21:13 [Info] [Automated Events] Spawning Helicopter
+21:13 [Info] [Automated Events] Next Helicopter event will be ran after 00:51:39
+21:17 [Warning] [Automated Events] The number of CargoShip events has reached the limit of 1
+21:17 [Info] [Automated Events] Next CargoShip event will be ran after 00:30:51
+21:19 [Info] [FancyDrop] Timed Airdrop skipped, not enough Players
+21:19 [Info] [FancyDrop] Next timed Airdrop in 40 minutes
+21:23 [Warning] [Automated Events] The number of Bradley events has reached the limit of 1
+21:23 [Info] [Automated Events] Next Bradley event will be ran after 00:41:41
+21:29 [Info] [Automated Events] Spawning FancyDrop Cargo Plane
+21:29 [Info] [FancyDrop] Random Airdrop of type 'regular' incoming at: (-1092, 3, -162) grid area: G14
+21:29 [Info] [Automated Events] Next CargoPlane event will be ran after 00:34:00
+21:32 [Info] [Automated Events] Next Helicopter event will be ran after 00:53:07
+21:33 [Info] Stack size set was blocked for items in config: hammer.
+21:33 [Info] The current stack size is 100x.

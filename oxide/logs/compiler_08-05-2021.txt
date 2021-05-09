@@ -1,0 +1,48 @@
+[SERVER v1.0.20] Started as service
+[SERVER v1.0.20] Running as service
+[SERVER v1.0.20] Got Message: Ready
+[SERVER v1.0.20] Got Message: Compile
+[SERVER v1.0.20] Restarting: TownTeleport.cs(69,22): warning CS0114: `Oxide.Plugins.TownTeleport.LoadDefaultMessages()' hides inherited member `Oxide.Core.Plugins.Plugin.LoadDefaultMessages()'. To make the current member override that implementation, add the override keyword. Otherwise add the new keyword
+/home/tcagame/18212/17008/Oxide.Core.dll (Location of the symbol related to previous warning)
+ClanTags.cs(54,7): warning CS0162: Unreachable code detected
+CopyPaste.cs(701,61): error CS1061: Type `Signage' does not contain a definition for `textureID' and no extension method `textureID' of type `Signage' could be found. Are you missing an assembly reference?
+/home/tcagame/18212/17008/Assembly-CSharp.dll (Location of the symbol related to previous error)
+CopyPaste.cs(708,26): error CS1061: Type `Signage' does not contain a definition for `textureID' and no extension method `textureID' of type `Signage' could be found. Are you missing an assembly reference?
+/home/tcagame/18212/17008/Assembly-CSharp.dll (Location of the symbol related to previous error)
+CopyPaste.cs(888,18): error CS1061: Type `Signage' does not contain a definition for `textureID' and no extension method `textureID' of type `Signage' could be found. Are you missing an assembly reference?
+/home/tcagame/18212/17008/Assembly-CSharp.dll (Location of the symbol related to previous error)
+CopyPaste.cs(1613,49): warning CS0618: `UnityEngine.Quaternion.EulerRotation(UnityEngine.Vector3)' is obsolete: `Use Quaternion.Euler instead. This function was deprecated because it uses radians instead of degrees.'
+CopyPaste.cs(1630,32): warning CS0618: `UnityEngine.Quaternion.EulerRotation(UnityEngine.Vector3)' is obsolete: `Use Quaternion.Euler instead. This function was deprecated because it uses radians instead of degrees.'
+Warning: restarting compilation
+
+[SERVER v1.0.20] Console: TownTeleport.cs(69,22): warning CS0114: `Oxide.Plugins.TownTeleport.LoadDefaultMessages()' hides inherited member `Oxide.Core.Plugins.Plugin.LoadDefaultMessages()'. To make the current member override that implementation, add the override keyword. Otherwise add the new keyword
+/home/tcagame/18212/17008/Oxide.Core.dll (Location of the symbol related to previous warning)
+ClanTags.cs(54,7): warning CS0162: Unreachable code detected
+NTeleportation.cs(2805,33): warning CS0219: The variable `w' is assigned but its value is never used
+NoEscape.cs(1144,17): warning CS0219: The variable `targetMembers' is assigned but its value is never used
+NoEscape.cs(2069,32): warning CS0168: The variable `ex' is declared but never used
+NoEscape.cs(2083,32): warning CS0168: The variable `ex' is declared but never used
+NoEscape.cs(2097,32): warning CS0168: The variable `ex' is declared but never used
+Trade.cs(998,28): warning CS0219: The variable `target' is assigned but its value is never used
+AutomatedEvents.cs(21,60): warning CS0649: Field `Oxide.Plugins.AutomatedEvents.AlphaChristmas' is never assigned to, and will always have its default value `null'
+AutomatedEvents.cs(21,76): warning CS0649: Field `Oxide.Plugins.AutomatedEvents.FancyDrop' is never assigned to, and will always have its default value `null'
+AutomatedEvents.cs(21,87): warning CS0649: Field `Oxide.Plugins.AutomatedEvents.PlaneCrash' is never assigned to, and will always have its default value `null'
+AutomatedEvents.cs(21,99): warning CS0649: Field `Oxide.Plugins.AutomatedEvents.RustTanic' is never assigned to, and will always have its default value `null'
+AutomatedEvents.cs(21,110): warning CS0649: Field `Oxide.Plugins.AutomatedEvents.HeliRefuel' is never assigned to, and will always have its default value `null'
+AutomatedEvents.cs(21,122): warning CS0649: Field `Oxide.Plugins.AutomatedEvents.PilotEject' is never assigned to, and will always have its default value `null'
+BuildingGrades.cs(30,36): warning CS0414: The private field `Oxide.Plugins.BuildingGrades.meshLookupField' is assigned but its value is never used
+ClanTags.cs(20,41): warning CS0169: The private field `Oxide.Plugins.ClanTags.HWClans' is never used
+FancyDrop.cs(230,21): warning CS0414: The private field `Oxide.Plugins.FancyDrop.spawnFilter' is assigned but its value is never used
+FancyDrop.cs(23,27): warning CS0649: Field `Oxide.Plugins.FancyDrop.GUIAnnouncements' is never assigned to, and will always have its default value `null'
+Kits.cs(23,31): warning CS0414: The private field `Oxide.Plugins.Kits._returnFalse' is assigned but its value is never used
+Kits.cs(30,67): warning CS0169: The private field `Oxide.Plugins.Kits.EventManager' is never used
+NTeleportation.cs(71,35): warning CS0169: The private field `Oxide.Plugins.NTeleportation.dataConvert' is never used
+NTeleportation.cs(95,30): warning CS0414: The private field `Oxide.Plugins.NTeleportation.triggerLayer' is assigned but its value is never used
+NoEscape.cs(52,15): warning CS0649: Field `Oxide.Plugins.NoEscape.combatOnHitPlayerMinDamage' is never assigned to, and will always have its default value `0'
+NoEscape.cs(199,22): warning CS0414: The private field `Oxide.Plugins.NoEscape._htmlRegex' is assigned but its value is never used
+Trade.cs(29,24): warning CS0169: The private field `Oxide.Plugins.Trade.Clans' is never used
+Trade.cs(29,31): warning CS0169: The private field `Oxide.Plugins.Trade.Friends' is never used
+Trade.cs(39,31): warning CS0649: Field `Oxide.Plugins.Trade.OnlinePlayer.Player' is never assigned to, and will always have its default value `null'
+
+[SERVER v1.0.20] Connection closed.
+[SERVER v1.0.20] Shutdown

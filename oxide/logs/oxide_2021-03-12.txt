@@ -1,0 +1,1007 @@
+07:13 [Info] Loading Oxide Core v2.0.3991...
+07:13 [Info] Loading extensions...
+07:13 [Info] Loaded extension CSharp v2.0.4041 by Oxide Team and Contributors
+07:13 [Info] Loaded extension MySql v2.0.3760 by Oxide Team and Contributors
+07:13 [Info] Loaded extension Rust v2.0.4944 by Oxide Team and Contributors
+07:13 [Info] Loaded extension SQLite v2.0.3762 by Oxide Team and Contributors
+07:13 [Info] Loaded extension Unity v2.0.3772 by Oxide Team and Contributors
+07:13 [Info] Latest compiler MD5: 8ce6d27e7718e3d164766bba8833537a
+07:13 [Info] Local compiler MD5: 8ce6d27e7718e3d164766bba8833537a
+07:13 [Info] Using Covalence provider for game 'Rust'
+07:13 [Info] Loading plugins...
+07:13 [Info] Loaded plugin Rust v2.0.4944 by Oxide Team and Contributors
+07:13 [Info] Loaded plugin Unity v2.0.3772 by Oxide Team and Contributors
+07:13 [Info] AutomatedEvents, AutomaticAuthorization, BGrade, Backpacks, BetterCharcoal, BetterChat, BetterLoot, BuildingGrades, ClanTags, ClanTeam, Clans, DeathNotes, DisableColdDamage, EasyAirdrop, FancyDrop, FurnaceSplitter, GatherManager, InstantCraft, InventoryViewer, Kits, MagicAirdropPanel, MagicBradleyPanel, MagicCargoShipPanel, MagicHeliPanel, MagicPanel, MagicPlayersPanel, MagicSleepersPanel, NTeleportation, NoEscape, QuickSmelt, RecyclerSpeed, RemoverTool, SAMSiteAuth, SkipNightVote, StackMultiplier, StackSizeController, TownTeleport, Trade and UpgradePermissions were compiled successfully in 0ms
+07:13 [Warning] [DEBUG] ClanTeam plugin is waiting for requirements to be loaded: Clans
+07:13 [Error] Error while compiling: CopyPaste.cs(888,18): error CS1061: Type `Signage' does not contain a definition for `textureID' and no extension method `textureID' of type `Signage' could be found. Are you missing an assembly reference?
+07:13 [Info] Loaded plugin Automated Events v1.0.6 by k1lly0u/mspeedie/Arainrr
+07:13 [Info] Loaded plugin Automatic Authorization v1.2.2 by k1lly0u/Arainrr
+07:13 [Info] Loaded plugin BGrade v1.1.3 by Ryan / Rustoria.co
+07:13 [Info] Loaded plugin Backpacks v3.2.1 by LaserHydra
+07:13 [Info] Loaded plugin BetterCharcoal v1.0.2 by Jake_Rich
+07:13 [Info] Loaded plugin Better Chat v5.2.5 by LaserHydra
+07:13 [Info] Loaded plugin BetterLoot v3.0.1 by Default
+07:13 [Info] Loaded plugin Building Grades v0.5.1 by Default
+07:13 [Info] Loaded plugin Clan Tags v0.8.0 by GreenArrow
+07:13 [Info] Loaded plugin Clans v0.1.55 by k1lly0u
+07:13 [Info] Loaded plugin Clan Team v1.0.5 by deivismac
+07:13 [Info] Loaded plugin Death Notes v6.3.5 by LaserHydra
+07:13 [Info] Loaded plugin Disable Cold Damage v1.0.3 by Talha
+07:13 [Info] Loaded plugin Easy Airdrop v3.2.5 by LaserHydra
+07:13 [Info] Loaded plugin FancyDrop v2.9.2 by FastBurst
+07:13 [Info] Loaded plugin Furnace Splitter v2.2.7 by FastBurst
+07:13 [Info] Loaded plugin Gathering Manager v2.2.75 by Mughisi
+07:13 [Info] Loaded plugin Instant Craft v2.1.5 by Orange
+07:13 [Info] Loaded plugin Inventory Viewer v3.0.3 by Mughisi
+07:13 [Info] Loaded plugin Kits v3.3.1 by Reneb
+07:13 [Info] Loaded plugin Magic Airdrop Panel v1.0.1 by MJSU
+07:13 [Info] Loaded plugin Magic Bradley Panel v1.0.1 by MJSU
+07:13 [Info] Loaded plugin Magic Cargo Ship Panel v1.0.1 by MJSU
+07:13 [Info] Loaded plugin Magic Heli Panel v1.0.2 by MJSU
+07:13 [Info] Loaded plugin Magic Panel v1.0.6 by MJSU
+07:13 [Info] Loaded plugin Magic Players Panel v1.0.2 by MJSU
+07:13 [Info] Loaded plugin Magic Sleepers Panel v1.0.2 by MJSU
+07:13 [Info] Loaded plugin NTeleportation v1.4.2 by nivex
+07:13 [Info] Loaded plugin No Escape v2.1.31 by Calytic
+07:13 [Info] Loaded plugin Quick Smelt v5.1.3 by Iv Misticos
+07:13 [Info] Loaded plugin Recycler Speed v1.0.4 by yetzt
+07:13 [Info] Loaded plugin Remover Tool v4.3.22 by Reneb/Fuji/Arainrr
+07:13 [Info] Loaded plugin SAMSiteAuth v2.3.3 by haggbart
+07:13 [Info] Loaded plugin SkipNightVote v0.1.4 by k1lly0u
+07:13 [Warning] [Stack Multiplier] A new configuration file is being generated.
+07:13 [Info] Loaded plugin Stack Multiplier v1.0.3 by Ryz0r
+07:13 [Info] Loaded plugin Stack Size Controller v2.0.4 by Canopy Sheep
+07:13 [Info] Loaded plugin TownTeleport v1.10.1 by mvrb
+07:13 [Info] Loaded plugin Trade v1.2.42 by Calytic
+07:13 [Info] Loaded plugin Upgrade Permissions v2.0.0 by Wulf
+07:15 [Info] IP address from command-line: 104.238.229.191
+07:15 [Info] [BetterLoot] Using '21' active of '24' supported containertypes
+07:15 [Info] [BetterLoot] Updating internals ...
+07:15 [Info] [FancyDrop] Map Highest Point: (500m) | Plane flying height: (~500m)
+07:15 [Info] [FancyDrop] Timed Airdrop activated with '2' players between '30' and '50' minutes
+07:15 [Info] [FancyDrop] Builtin Airdrop removed
+07:15 [Info] [FancyDrop] Next timed Airdrop in 36 minutes
+07:15 [Warning] Calling 'OnServerInitialized' on 'FancyDrop v2.9.2' took 109ms
+07:15 [Warning] Calling 'OnServerInitialized' on 'GatherManager v2.2.75' took 107ms
+07:15 [Warning] Calling 'OnServerInitialized' on 'NTeleportation v1.4.2' took 116ms
+07:15 [Warning] Calling 'OnServerInitialized' on 'QuickSmelt v5.1.3' took 103ms
+07:15 [Warning] Calling 'OnServerInitialized' on 'TownTeleport v1.10.1' took 112ms
+07:15 [Info] [BetterLoot] No stacked LootContainer found.
+07:15 [Info] [BetterLoot] Populated '804' supported containers.
+07:15 [Error] Exception while calling NextTick callback (ArgumentException: An item with the same key has already been added. Key: GunRoll_Sub_Medium)
+  at System.Collections.Generic.Dictionary`2[TKey,TValue].TryInsert (TKey key, TValue value, System.Collections.Generic.InsertionBehavior behavior) [0x000c1] in <fb001e01371b4adca20013e0ac763896>:0 
+  at System.Collections.Generic.Dictionary`2[TKey,TValue].Add (TKey key, TValue value) [0x00000] in <fb001e01371b4adca20013e0ac763896>:0 
+  at Oxide.Plugins.FancyDrop.ExportLootSpawn (Oxide.Plugins.FancyDrop+ExportData expData, LootSpawn lootSpawn, System.Int32 level) [0x000c1] in <4f2dc37eefe645058c9ec0a16dbe76ed>:0 
+  at Oxide.Plugins.FancyDrop.ExportLootSpawn (Oxide.Plugins.FancyDrop+ExportData expData, LootSpawn lootSpawn, System.Int32 level) [0x000ce] in <4f2dc37eefe645058c9ec0a16dbe76ed>:0 
+  at Oxide.Plugins.FancyDrop.SetupLoot () [0x000a7] in <4f2dc37eefe645058c9ec0a16dbe76ed>:0 
+  at Oxide.Plugins.FancyDrop.<OnServerInitialized>m__0 () [0x00000] in <4f2dc37eefe645058c9ec0a16dbe76ed>:0 
+  at Oxide.Core.OxideMod.OnFrame (System.Single delta) [0x00051] in <c2afd8354b8b4f3ca451cf5a1aa111c3>:0 
+07:15 [Info] [Automated Events] Next Helicopter event will be ran after 00:50:10
+07:15 [Info] [Automated Events] Next Chinook event will be ran after 00:36:36
+07:15 [Info] [Automated Events] Next CargoShip event will be ran after 00:34:41
+07:15 [Info] [Automated Events] Next CargoPlane event will be ran after 00:42:33
+07:15 [Info] [Automated Events] Next Bradley event will be ran after 00:38:20
+07:15 [Info] Unloaded plugin Stack Size Controller v2.0.4 by Canopy Sheep
+07:16 [Info] StackSizeController was compiled successfully in 1934ms
+07:16 [Info] [Stack Size Controller] Generating Data File.
+07:16 [Info] Loaded plugin Stack Size Controller v3.2.1 by AnExiledGod
+07:16 [Info] Operation completed successfully.
+07:17 [Info] Unloaded plugin Stack Multiplier v1.0.3 by Ryz0r
+07:18 [Info] Unloaded plugin Stack Size Controller v3.2.1 by AnExiledGod
+07:18 [Info] Loaded plugin Stack Size Controller v3.2.1 by AnExiledGod
+07:39 [Info] [Death Notes] DevL shot a Bear using their Revolver over a distance of 5.4 meters.
+07:42 [Info] [Death Notes] DevL shot a Boar using their Thompson over a distance of 41.9 meters.
+07:42 [Info] [Death Notes] DevL shot a Boar using their Thompson over a distance of 16.7 meters.
+07:42 [Info] [Death Notes] DevL did not want to be a part of the Scientist's experiments.
+07:50 [Info] [Automated Events] Spawning Cargo Ship
+07:50 [Info] [Automated Events] Next CargoShip event will be ran after 00:39:37
+07:51 [Info] [FancyDrop] Timed Airdrop skipped, not enough Players
+07:51 [Info] [FancyDrop] Next timed Airdrop in 49 minutes
+07:52 [Info] [Automated Events] Spawning Chinook
+07:52 [Info] [Automated Events] Next Chinook event will be ran after 00:37:52
+07:54 [Warning] [Automated Events] The number of Bradley events has reached the limit of 1
+07:54 [Info] [Automated Events] Next Bradley event will be ran after 00:33:21
+07:58 [Info] [Automated Events] Spawning Cargo Plane
+07:58 [Info] [Automated Events] Next CargoPlane event will be ran after 00:41:53
+08:01 [Info] [Death Notes] DevL shot a Wolf using their Thompson over a distance of 20.5 meters.
+08:02 [Info] [Death Notes] DevL shot a Boar using their Thompson over a distance of 34.2 meters.
+08:03 [Info] [Automated Events] Next CargoPlane event will be ran after 00:43:15
+08:06 [Info] [Automated Events] Spawning Helicopter
+08:06 [Info] [Automated Events] Next Helicopter event will be ran after 00:47:58
+08:08 [Info] [Death Notes] DevL shot a Boar using their Thompson over a distance of 19.3 meters.
+08:08 [Info] [Death Notes] DevL did not want to be a part of the Scientist's experiments.
+08:09 [Info] [Death Notes] DevL did not want to be a part of the Scientist's experiments.
+08:10 [Info] [Death Notes] DevL shot a Stag using their Thompson over a distance of 28.4 meters.
+08:10 [Info] [Death Notes] DevL shot a Bear using their Thompson over a distance of 46.3 meters.
+08:14 [Info] [Automated Events] Next Chinook event will be ran after 00:40:38
+08:25 [Info] [Automated Events] Next Helicopter event will be ran after 00:52:08
+08:26 [Warning] 'BetterCharcoal v1.0.2' is using deprecated hook 'OnConsumeFuel', which will stop working on Thursday, 01 July 2021. Please ask the author to update to 'OnFuelConsume(BaseOven oven, Item fuel, ItemModBurnable burnable)'
+08:27 [Warning] [Automated Events] The number of Bradley events has reached the limit of 1
+08:27 [Info] [Automated Events] Next Bradley event will be ran after 00:39:17
+08:30 [Warning] [Automated Events] The number of CargoShip events has reached the limit of 1
+08:30 [Info] [Automated Events] Next CargoShip event will be ran after 00:33:57
+08:40 [Info] [FancyDrop] Timed Airdrop skipped, not enough Players
+08:40 [Info] [FancyDrop] Next timed Airdrop in 42 minutes
+08:47 [Info] [Automated Events] Spawning FancyDrop Cargo Plane
+08:47 [Info] [FancyDrop] Random Airdrop of type 'regular' incoming at: (817, 72, -827) grid area: T19
+08:47 [Info] [Automated Events] Next CargoPlane event will be ran after 00:38:26
+08:50 [Info] [Automated Events] Next CargoShip event will be ran after 00:37:42
+08:55 [Info] [Automated Events] Spawning Chinook
+08:55 [Info] [Automated Events] Next Chinook event will be ran after 00:41:40
+09:05 [Error] Could not load plugin 'Voteday' (no plugin found with that file name)
+09:06 [Info] SkipNightVote was compiled successfully in 1960ms
+09:06 [Info] Unloaded plugin SkipNightVote v0.1.4 by k1lly0u
+09:06 [Info] Loaded plugin SkipNightVote v0.1.4 by k1lly0u
+09:06 [Warning] [Automated Events] The number of Bradley events has reached the limit of 1
+09:06 [Info] [Automated Events] Next Bradley event will be ran after 00:34:14
+09:17 [Info] [Automated Events] Spawning Helicopter
+09:17 [Info] [Automated Events] Next Helicopter event will be ran after 00:46:02
+09:17 [Info] [Death Notes] DevL did not want to be a part of the Scientist's experiments.
+09:20 [Info] [Automated Events] Next Chinook event will be ran after 00:38:22
+09:22 [Info] [FancyDrop] Timed Airdrop skipped, not enough Players
+09:22 [Info] [FancyDrop] Next timed Airdrop in 33 minutes
+09:25 [Info] [Automated Events] Spawning Cargo Plane
+09:25 [Info] [Automated Events] Next CargoPlane event will be ran after 00:38:59
+09:26 [Info] [Death Notes] DevL had no chance against the Helicopter.
+09:26 [Warning] 'Backpacks v3.2.1' is using deprecated hook 'OnPlayerCorpse', which will stop working on Thursday, 01 July 2021. Please ask the author to update to 'OnPlayerCorpseSpawned(BasePlayer player, BaseCorpse corpse)'
+09:28 [Info] [Automated Events] Spawning Cargo Ship
+09:28 [Info] [Automated Events] Next CargoShip event will be ran after 00:37:30
+09:30 [Info] [Automated Events] Next CargoPlane event will be ran after 00:38:43
+09:36 [Info] [Automated Events] Next Helicopter event will be ran after 00:49:25
+09:41 [Warning] [Automated Events] The number of Bradley events has reached the limit of 1
+09:41 [Info] [Automated Events] Next Bradley event will be ran after 00:34:52
+09:55 [Info] [FancyDrop] Timed Airdrop skipped, not enough Players
+09:55 [Info] [FancyDrop] Next timed Airdrop in 43 minutes
+09:59 [Info] [Automated Events] Spawning Chinook
+09:59 [Info] [Automated Events] Next Chinook event will be ran after 00:30:34
+10:05 [Warning] [Automated Events] The number of CargoShip events has reached the limit of 1
+10:05 [Info] [Automated Events] Next CargoShip event will be ran after 00:35:34
+10:09 [Info] [Automated Events] Spawning Cargo Plane
+10:09 [Info] [Automated Events] Next CargoPlane event will be ran after 00:41:11
+10:14 [Info] [Automated Events] Next CargoPlane event will be ran after 00:37:02
+10:15 [Warning] [Automated Events] The number of Bradley events has reached the limit of 1
+10:15 [Info] [Automated Events] Next Bradley event will be ran after 00:43:37
+10:25 [Info] [Automated Events] Spawning Helicopter
+10:25 [Info] [Automated Events] Next Helicopter event will be ran after 00:49:13
+10:27 [Info] [Automated Events] Next Chinook event will be ran after 00:38:55
+10:28 [Info] [Automated Events] Next CargoShip event will be ran after 00:38:53
+10:38 [Info] [FancyDrop] Timed Airdrop skipped, not enough Players
+10:38 [Info] [FancyDrop] Next timed Airdrop in 40 minutes
+10:44 [Info] [Automated Events] Next Helicopter event will be ran after 00:55:33
+10:51 [Info] [Automated Events] Spawning Cargo Plane
+10:51 [Info] [Automated Events] Next CargoPlane event will be ran after 00:42:02
+10:57 [Info] [Automated Events] Next CargoPlane event will be ran after 00:37:41
+10:59 [Warning] [Automated Events] The number of Bradley events has reached the limit of 1
+10:59 [Info] [Automated Events] Next Bradley event will be ran after 00:33:41
+11:06 [Info] [Automated Events] Spawning Chinook
+11:06 [Info] [Automated Events] Next Chinook event will be ran after 00:37:40
+11:07 [Info] [Automated Events] Spawning Cargo Ship
+11:07 [Info] [Automated Events] Next CargoShip event will be ran after 00:32:27
+11:17 [Info] [Death Notes] DevL killed a Stag using their .
+11:18 [Info] [FancyDrop] Timed Airdrop skipped, not enough Players
+11:18 [Info] [FancyDrop] Next timed Airdrop in 49 minutes
+11:22 [Info] GatherManager was compiled successfully in 2094ms
+11:22 [Warning] Calling 'Unload' on 'GatherManager v2.2.75' took 140ms
+11:22 [Info] Unloaded plugin Gathering Manager v2.2.75 by Mughisi
+11:22 [Warning] Calling 'OnServerInitialized' on 'GatherManager v2.2.75' took 134ms
+11:22 [Info] Loaded plugin Gathering Manager v2.2.75 by Mughisi
+11:23 [Warning] Calling 'Unload' on 'GatherManager v2.2.75' took 141ms
+11:23 [Info] Unloaded plugin Gathering Manager v2.2.75 by Mughisi
+11:23 [Warning] Calling 'OnServerInitialized' on 'GatherManager v2.2.75' took 135ms
+11:23 [Info] Loaded plugin Gathering Manager v2.2.75 by Mughisi
+11:24 [Warning] Calling 'Unload' on 'GatherManager v2.2.75' took 139ms
+11:24 [Info] Unloaded plugin Gathering Manager v2.2.75 by Mughisi
+11:24 [Warning] Calling 'OnServerInitialized' on 'GatherManager v2.2.75' took 141ms
+11:24 [Info] Loaded plugin Gathering Manager v2.2.75 by Mughisi
+11:27 [Info] [Automated Events] Next Chinook event will be ran after 00:43:44
+11:29 [Info] [FancyDrop] SupplySignal thrown by 'DevL' at: (194.0, 40.9, -18.3)
+11:33 [Warning] [Automated Events] The number of Bradley events has reached the limit of 1
+11:33 [Info] [Automated Events] Next Bradley event will be ran after 00:40:26
+11:33 [Info] [FancyDrop] DevL (76561198154580978) looted the Drop at: (187, 48, -3) grid area: P13
+11:34 [Info] [Automated Events] Spawning Cargo Plane
+11:34 [Info] [Automated Events] Next CargoPlane event will be ran after 00:35:28
+11:39 [Warning] [Automated Events] The number of CargoShip events has reached the limit of 1
+11:39 [Info] [Automated Events] Next CargoShip event will be ran after 00:33:25
+11:40 [Info] [Automated Events] Spawning Helicopter
+11:40 [Info] [Automated Events] Next Helicopter event will be ran after 00:51:06
+11:40 [Info] [Automated Events] Next CargoPlane event will be ran after 00:36:23
+11:47 [Warning] Calling 'MiningQuarryTickRate' on 'GatherManager v2.2.75' took 141ms
+11:47 [Info] Permissions:
+oxide.plugins, oxide.load, oxide.reload, oxide.unload, oxide.grant, oxide.group, oxide.revoke, oxide.show, oxide.usergroup, automatedevents.allowed, automatedevents.next, automaticauthorization.use, bgrade.1, bgrade.2, bgrade.3, bgrade.4, bgrade.nores, bgrade.all, backpacks.use, backpacks.fetch, backpacks.admin, backpacks.keepondeath, backpacks.use.1, backpacks.use.2, backpacks.use.3, backpacks.use.4, backpacks.use.5, backpacks.use.6, backpacks.use.7, bettercharcoal.allowed, betterchat.admin, deathnotes.cansee, disablecolddamage.use, easyairdrop.call, easyairdrop.call.player, easyairdrop.call.position, easyairdrop.call.mass, furnacesplitter.use, instantcraft.use, inventoryviewer.allowed, nteleportation.deletehome, nteleportation.home, nteleportation.homehomes, nteleportation.importhomes, nteleportation.radiushome, nteleportation.tp, nteleportation.tpb, nteleportation.tpr, nteleportation.tpconsole, nteleportation.tphome, nteleportation.tptown, nteleportation.tpt, nteleportation.tpoutpost, nteleportation.tpbandit, nteleportation.tpn, nteleportation.tpl, nteleportation.tpremove, nteleportation.tpsave, nteleportation.wipehomes, nteleportation.crafthome, nteleportation.crafttown, nteleportation.craftoutpost, nteleportation.craftbandit, nteleportation.crafttpr, nteleportation.vip, recyclerspeed.use, removertool.all, removertool.admin, removertool.normal, removertool.target, removertool.override, removertool.external, removertool.structure, skipnightvote.admin, townteleport.outpost, townteleport.bandit, townteleport.nocooldown, trade.use, trade.accept, upgradepermissions.twigs, upgradepermissions.wood, upgradepermissions.stone, upgradepermissions.metal, upgradepermissions.toptier, upgradepermissions.count, upgradepermissions.none, buildinggrades.cangrade, buildinggrades.nocost, buildinggrades.down, clantags.admin, clantags.default, kits.admin, kits.consolegive, noescape.disable, noescape.raid.removeblock, noescape.combat.removeblock, noescape.raid.tpblock, noescape.combat.tpblock, noescape.raid.bankblock, noescape.combat.bankblock, noescape.raid.tradeblock, noescape.combat.tradeblock, noescape.raid.recycleblock, noescape.combat.recycleblock, noescape.raid.shopblock, noescape.combat.shopblock, noescape.raid.bgradeblock, noescape.combat.bgradeblock, noescape.raid.buildblock, noescape.combat.buildblock, noescape.raid.repairblock, noescape.combat.repairblock, noescape.raid.upgradeblock, noescape.combat.upgradeblock, noescape.raid.vendblock, noescape.combat.vendblock, noescape.raid.kitblock, noescape.combat.kitblock, noescape.raid.assignbedblock, noescape.combat.assignbedblock, noescape.raid.craftblock, noescape.combat.craftblock, noescape.raid.mailboxblock, noescape.combat.mailboxblock, noescape.raid.backpackblock, noescape.combat.backpackblock, quicksmelt.use, stacksizecontroller.regendatafile, stacksizecontroller.setstack, stacksizecontroller.setstackcat, stacksizecontroller.setallstacks, stacksizecontroller.itemsearch, stacksizecontroller.listcategories, stacksizecontroller.listcategoryitems
+11:47 [Info] Permissions:
+oxide.plugins, oxide.load, oxide.reload, oxide.unload, oxide.grant, oxide.group, oxide.revoke, oxide.show, oxide.usergroup, automatedevents.allowed, automatedevents.next, automaticauthorization.use, bgrade.1, bgrade.2, bgrade.3, bgrade.4, bgrade.nores, bgrade.all, backpacks.use, backpacks.fetch, backpacks.admin, backpacks.keepondeath, backpacks.use.1, backpacks.use.2, backpacks.use.3, backpacks.use.4, backpacks.use.5, backpacks.use.6, backpacks.use.7, bettercharcoal.allowed, betterchat.admin, deathnotes.cansee, disablecolddamage.use, easyairdrop.call, easyairdrop.call.player, easyairdrop.call.position, easyairdrop.call.mass, furnacesplitter.use, instantcraft.use, inventoryviewer.allowed, nteleportation.deletehome, nteleportation.home, nteleportation.homehomes, nteleportation.importhomes, nteleportation.radiushome, nteleportation.tp, nteleportation.tpb, nteleportation.tpr, nteleportation.tpconsole, nteleportation.tphome, nteleportation.tptown, nteleportation.tpt, nteleportation.tpoutpost, nteleportation.tpbandit, nteleportation.tpn, nteleportation.tpl, nteleportation.tpremove, nteleportation.tpsave, nteleportation.wipehomes, nteleportation.crafthome, nteleportation.crafttown, nteleportation.craftoutpost, nteleportation.craftbandit, nteleportation.crafttpr, nteleportation.vip, recyclerspeed.use, removertool.all, removertool.admin, removertool.normal, removertool.target, removertool.override, removertool.external, removertool.structure, skipnightvote.admin, townteleport.outpost, townteleport.bandit, townteleport.nocooldown, trade.use, trade.accept, upgradepermissions.twigs, upgradepermissions.wood, upgradepermissions.stone, upgradepermissions.metal, upgradepermissions.toptier, upgradepermissions.count, upgradepermissions.none, buildinggrades.cangrade, buildinggrades.nocost, buildinggrades.down, clantags.admin, clantags.default, kits.admin, kits.consolegive, noescape.disable, noescape.raid.removeblock, noescape.combat.removeblock, noescape.raid.tpblock, noescape.combat.tpblock, noescape.raid.bankblock, noescape.combat.bankblock, noescape.raid.tradeblock, noescape.combat.tradeblock, noescape.raid.recycleblock, noescape.combat.recycleblock, noescape.raid.shopblock, noescape.combat.shopblock, noescape.raid.bgradeblock, noescape.combat.bgradeblock, noescape.raid.buildblock, noescape.combat.buildblock, noescape.raid.repairblock, noescape.combat.repairblock, noescape.raid.upgradeblock, noescape.combat.upgradeblock, noescape.raid.vendblock, noescape.combat.vendblock, noescape.raid.kitblock, noescape.combat.kitblock, noescape.raid.assignbedblock, noescape.combat.assignbedblock, noescape.raid.craftblock, noescape.combat.craftblock, noescape.raid.mailboxblock, noescape.combat.mailboxblock, noescape.raid.backpackblock, noescape.combat.backpackblock, quicksmelt.use, stacksizecontroller.regendatafile, stacksizecontroller.setstack, stacksizecontroller.setstackcat, stacksizecontroller.setallstacks, stacksizecontroller.itemsearch, stacksizecontroller.listcategories, stacksizecontroller.listcategoryitems
+11:59 [Info] [Death Notes] DevL killed a Chicken using their .
+11:59 [Info] [Automated Events] Next Helicopter event will be ran after 00:45:56
+12:06 [Warning] Calling 'MiningQuarryTickRate' on 'GatherManager v2.2.75' took 145ms
+12:06 [Warning] Calling 'MiningQuarryTickRate' on 'GatherManager v2.2.75' took 141ms
+12:06 [Warning] Calling 'MiningQuarryTickRate' on 'GatherManager v2.2.75' took 152ms
+12:07 [Info] [Automated Events] Next CargoShip event will be ran after 00:35:27
+12:07 [Info] [FancyDrop] Timed Airdrop skipped, not enough Players
+12:07 [Info] [FancyDrop] Next timed Airdrop in 48 minutes
+12:09 [Warning] Calling 'MiningQuarryTickRate' on 'GatherManager v2.2.75' took 142ms
+12:11 [Info] [Automated Events] Spawning Chinook
+12:11 [Info] [Automated Events] Next Chinook event will be ran after 00:34:48
+12:13 [Warning] [Automated Events] The number of Bradley events has reached the limit of 1
+12:13 [Info] [Automated Events] Next Bradley event will be ran after 00:32:00
+12:13 [Warning] Calling 'MiningQuarryTickRate' on 'GatherManager v2.2.75' took 142ms
+12:13 [Warning] Calling 'MiningQuarryTickRate' on 'GatherManager v2.2.75' took 134ms
+12:14 [Warning] Calling 'Unload' on 'GatherManager v2.2.75' took 142ms
+12:14 [Info] Unloaded plugin Gathering Manager v2.2.75 by Mughisi
+12:14 [Warning] Calling 'OnServerInitialized' on 'GatherManager v2.2.75' took 143ms
+12:14 [Info] Loaded plugin Gathering Manager v2.2.75 by Mughisi
+12:15 [Warning] Calling 'Unload' on 'GatherManager v2.2.75' took 136ms
+12:15 [Info] Unloaded plugin Gathering Manager v2.2.75 by Mughisi
+12:15 [Warning] Calling 'OnServerInitialized' on 'GatherManager v2.2.75' took 135ms
+12:15 [Info] Loaded plugin Gathering Manager v2.2.75 by Mughisi
+12:16 [Info] [Automated Events] Spawning Cargo Plane
+12:16 [Info] [Automated Events] Next CargoPlane event will be ran after 00:33:19
+12:18 [Info] Usage: oxide.grant <group|user> <name|id> <permission>
+12:18 [Info] Group 'admin' granted permission 'removertool.admin'
+12:21 [Info] [Automated Events] Next CargoPlane event will be ran after 00:30:08
+12:30 [Info] [Automated Events] Next Chinook event will be ran after 00:41:16
+12:42 [Info] [Automated Events] Spawning Cargo Ship
+12:42 [Info] [Automated Events] Next CargoShip event will be ran after 00:43:29
+12:45 [Info] [Automated Events] Spawning Helicopter
+12:45 [Info] [Automated Events] Next Helicopter event will be ran after 00:57:10
+12:45 [Warning] [Automated Events] The number of Bradley events has reached the limit of 1
+12:45 [Info] [Automated Events] Next Bradley event will be ran after 00:39:46
+12:51 [Info] [Automated Events] Spawning Cargo Plane
+12:51 [Info] [Automated Events] Next CargoPlane event will be ran after 00:37:00
+12:55 [Info] [FancyDrop] Timed Airdrop skipped, not enough Players
+12:55 [Info] [FancyDrop] Next timed Airdrop in 47 minutes
+12:57 [Info] [Automated Events] Next CargoPlane event will be ran after 00:38:59
+13:04 [Info] [Automated Events] Next Helicopter event will be ran after 00:58:42
+13:07 [Info] [NTeleportation] DevL teleported back to previous location.
+13:12 [Info] [Automated Events] Spawning Chinook
+13:12 [Info] [Automated Events] Next Chinook event will be ran after 00:42:11
+13:25 [Warning] [Automated Events] The number of Bradley events has reached the limit of 1
+13:25 [Info] [Automated Events] Next Bradley event will be ran after 00:40:13
+13:26 [Warning] [Automated Events] The number of CargoShip events has reached the limit of 1
+13:26 [Info] [Automated Events] Next CargoShip event will be ran after 00:43:04
+13:36 [Info] [Automated Events] Spawning Cargo Plane
+13:36 [Info] [Automated Events] Next CargoPlane event will be ran after 00:36:11
+13:41 [Info] [Automated Events] Next CargoPlane event will be ran after 00:43:52
+13:42 [Info] [Automated Events] Next CargoShip event will be ran after 00:39:20
+13:42 [Info] [FancyDrop] Timed Airdrop skipped, not enough Players
+13:42 [Info] [FancyDrop] Next timed Airdrop in 33 minutes
+13:44 [Info] [Automated Events] Next Chinook event will be ran after 00:41:18
+14:02 [Info] [Death Notes] DevL blew up the Bradley APC with their High Velocity Rocket.
+14:02 [Info] [Automated Events] Spawning Helicopter
+14:02 [Info] [Automated Events] Next Helicopter event will be ran after 00:58:15
+14:05 [Info] [Automated Events] Spawning Bradley
+14:05 [Info] [Automated Events] Next Bradley event will be ran after 00:35:58
+14:11 [Info] [Death Notes] DevL shot a Bear using their Custom SMG over a distance of 26.1 meters.
+14:15 [Info] Loading Oxide Core v2.0.3991...
+14:15 [Info] Loading extensions...
+14:15 [Info] Loaded extension CSharp v2.0.4041 by Oxide Team and Contributors
+14:15 [Info] Loaded extension MySql v2.0.3760 by Oxide Team and Contributors
+14:15 [Info] Loaded extension Rust v2.0.4944 by Oxide Team and Contributors
+14:15 [Info] Loaded extension SQLite v2.0.3762 by Oxide Team and Contributors
+14:15 [Info] Loaded extension Unity v2.0.3772 by Oxide Team and Contributors
+14:15 [Info] Latest compiler MD5: 8ce6d27e7718e3d164766bba8833537a
+14:15 [Info] Local compiler MD5: 8ce6d27e7718e3d164766bba8833537a
+14:15 [Info] Using Covalence provider for game 'Rust'
+14:15 [Info] Loading plugins...
+14:15 [Info] Loaded plugin Rust v2.0.4944 by Oxide Team and Contributors
+14:15 [Info] Loaded plugin Unity v2.0.3772 by Oxide Team and Contributors
+14:16 [Info] AutomatedEvents, AutomaticAuthorization, BGrade, Backpacks, BetterCharcoal, BetterChat, BetterLoot, BuildingGrades, ClanTags, ClanTeam, Clans, DeathNotes, DisableColdDamage, EasyAirdrop, FancyDrop, FurnaceSplitter, GatherManager, InstantCraft, InventoryViewer, Kits, MagicAirdropPanel, MagicBradleyPanel, MagicCargoShipPanel, MagicHeliPanel, MagicPanel, MagicPlayersPanel, MagicSleepersPanel, NTeleportation, NoEscape, QuickSmelt, RecyclerSpeed, RemoverTool, SAMSiteAuth, SkipNightVote, StackSizeController, TownTeleport, Trade and UpgradePermissions were compiled successfully in 0ms
+14:16 [Warning] [DEBUG] ClanTeam plugin is waiting for requirements to be loaded: Clans
+14:16 [Error] Error while compiling: CopyPaste.cs(888,18): error CS1061: Type `Signage' does not contain a definition for `textureID' and no extension method `textureID' of type `Signage' could be found. Are you missing an assembly reference?
+14:16 [Info] Loaded plugin Automated Events v1.0.6 by k1lly0u/mspeedie/Arainrr
+14:16 [Info] Loaded plugin Automatic Authorization v1.2.2 by k1lly0u/Arainrr
+14:16 [Info] Loaded plugin BGrade v1.1.3 by Ryan / Rustoria.co
+14:16 [Info] Loaded plugin Backpacks v3.2.1 by LaserHydra
+14:16 [Info] Loaded plugin BetterCharcoal v1.0.2 by Jake_Rich
+14:16 [Info] Loaded plugin Better Chat v5.2.5 by LaserHydra
+14:16 [Info] Loaded plugin BetterLoot v3.0.1 by Default
+14:16 [Info] Loaded plugin Building Grades v0.5.1 by Default
+14:16 [Info] Loaded plugin Clan Tags v0.8.0 by GreenArrow
+14:16 [Info] Loaded plugin Clans v0.1.55 by k1lly0u
+14:16 [Info] Loaded plugin Clan Team v1.0.5 by deivismac
+14:16 [Info] Loaded plugin Death Notes v6.3.5 by LaserHydra
+14:16 [Info] Loaded plugin Disable Cold Damage v1.0.3 by Talha
+14:16 [Info] Loaded plugin Easy Airdrop v3.2.5 by LaserHydra
+14:16 [Info] Loaded plugin FancyDrop v2.9.2 by FastBurst
+14:16 [Info] Loaded plugin Furnace Splitter v2.2.7 by FastBurst
+14:16 [Info] Loaded plugin Gathering Manager v2.2.75 by Mughisi
+14:16 [Info] Loaded plugin Instant Craft v2.1.5 by Orange
+14:16 [Info] Loaded plugin Inventory Viewer v3.0.3 by Mughisi
+14:16 [Info] Loaded plugin Kits v3.3.1 by Reneb
+14:16 [Info] Loaded plugin Magic Airdrop Panel v1.0.1 by MJSU
+14:16 [Info] Loaded plugin Magic Bradley Panel v1.0.1 by MJSU
+14:16 [Info] Loaded plugin Magic Cargo Ship Panel v1.0.1 by MJSU
+14:16 [Info] Loaded plugin Magic Heli Panel v1.0.2 by MJSU
+14:16 [Info] Loaded plugin Magic Panel v1.0.6 by MJSU
+14:16 [Info] Loaded plugin Magic Players Panel v1.0.2 by MJSU
+14:16 [Info] Loaded plugin Magic Sleepers Panel v1.0.2 by MJSU
+14:16 [Info] Loaded plugin NTeleportation v1.4.2 by nivex
+14:16 [Info] Loaded plugin No Escape v2.1.31 by Calytic
+14:16 [Info] Loaded plugin Quick Smelt v5.1.3 by Iv Misticos
+14:16 [Info] Loaded plugin Recycler Speed v1.0.4 by yetzt
+14:16 [Info] Loaded plugin Remover Tool v4.3.22 by Reneb/Fuji/Arainrr
+14:16 [Info] Loaded plugin SAMSiteAuth v2.3.3 by haggbart
+14:16 [Info] Loaded plugin SkipNightVote v0.1.4 by k1lly0u
+14:16 [Info] Loaded plugin Stack Size Controller v3.2.1 by AnExiledGod
+14:16 [Info] Loaded plugin TownTeleport v1.10.1 by mvrb
+14:16 [Info] Loaded plugin Trade v1.2.42 by Calytic
+14:16 [Info] Loaded plugin Upgrade Permissions v2.0.0 by Wulf
+14:16 [Warning] [Death Notes] Could not load remote config 'CombatEntityTypes'. The plugin will be using the previously downloaded file.
+14:17 [Info] [Stack Size Controller] Ensuring VanillaStackSize integrity.
+14:17 [Warning] Calling 'OnTerrainInitialized' on 'StackSizeController v3.2.1' took 6073ms [GARBAGE COLLECT]
+15:58 [Info] Loading Oxide Core v2.0.3991...
+15:58 [Info] Loading extensions...
+15:58 [Info] Loaded extension CSharp v2.0.4041 by Oxide Team and Contributors
+15:58 [Info] Loaded extension MySql v2.0.3760 by Oxide Team and Contributors
+15:58 [Info] Loaded extension Rust v2.0.4944 by Oxide Team and Contributors
+15:58 [Info] Loaded extension SQLite v2.0.3762 by Oxide Team and Contributors
+15:58 [Info] Loaded extension Unity v2.0.3772 by Oxide Team and Contributors
+15:58 [Info] Latest compiler MD5: 8ce6d27e7718e3d164766bba8833537a
+15:58 [Info] Local compiler MD5: 8ce6d27e7718e3d164766bba8833537a
+15:58 [Info] Using Covalence provider for game 'Rust'
+15:58 [Info] Loading plugins...
+15:58 [Info] Loaded plugin Rust v2.0.4944 by Oxide Team and Contributors
+15:58 [Info] Loaded plugin Unity v2.0.3772 by Oxide Team and Contributors
+15:58 [Info] AutomatedEvents, AutomaticAuthorization, BGrade, Backpacks, BetterCharcoal, BetterChat, BetterLoot, BuildingGrades, ClanTags, ClanTeam, Clans, DeathNotes, DisableColdDamage, EasyAirdrop, FancyDrop, FurnaceSplitter, GatherManager, InstantCraft, InventoryViewer, Kits, MagicAirdropPanel, MagicBradleyPanel, MagicCargoShipPanel, MagicHeliPanel, MagicPanel, MagicPlayersPanel, MagicSleepersPanel, NTeleportation, NoEscape, QuickSmelt, RecyclerSpeed, RemoverTool, SAMSiteAuth, SkipNightVote, StackSizeController, TownTeleport, Trade and UpgradePermissions were compiled successfully in 0ms
+15:58 [Warning] [DEBUG] ClanTeam plugin is waiting for requirements to be loaded: Clans
+15:58 [Error] Error while compiling: CopyPaste.cs(888,18): error CS1061: Type `Signage' does not contain a definition for `textureID' and no extension method `textureID' of type `Signage' could be found. Are you missing an assembly reference?
+15:58 [Info] Loaded plugin Automated Events v1.0.6 by k1lly0u/mspeedie/Arainrr
+15:58 [Info] Loaded plugin Automatic Authorization v1.2.2 by k1lly0u/Arainrr
+15:58 [Info] Loaded plugin BGrade v1.1.3 by Ryan / Rustoria.co
+15:58 [Info] Loaded plugin Backpacks v3.2.1 by LaserHydra
+15:58 [Info] Loaded plugin BetterCharcoal v1.0.2 by Jake_Rich
+15:58 [Info] Loaded plugin Better Chat v5.2.5 by LaserHydra
+15:58 [Info] Loaded plugin BetterLoot v3.0.1 by Default
+15:58 [Info] Loaded plugin Building Grades v0.5.1 by Default
+15:58 [Info] Loaded plugin Clan Tags v0.8.0 by GreenArrow
+15:58 [Info] Loaded plugin Clans v0.1.55 by k1lly0u
+15:58 [Info] Loaded plugin Clan Team v1.0.5 by deivismac
+15:58 [Info] Loaded plugin Death Notes v6.3.5 by LaserHydra
+15:58 [Info] Loaded plugin Disable Cold Damage v1.0.3 by Talha
+15:58 [Info] Loaded plugin Easy Airdrop v3.2.5 by LaserHydra
+15:58 [Info] Loaded plugin FancyDrop v2.9.2 by FastBurst
+15:58 [Info] Loaded plugin Furnace Splitter v2.2.7 by FastBurst
+15:58 [Info] Loaded plugin Gathering Manager v2.2.75 by Mughisi
+15:58 [Info] Loaded plugin Instant Craft v2.1.5 by Orange
+15:58 [Info] Loaded plugin Inventory Viewer v3.0.3 by Mughisi
+15:58 [Info] Loaded plugin Kits v3.3.1 by Reneb
+15:58 [Info] Loaded plugin Magic Airdrop Panel v1.0.1 by MJSU
+15:58 [Info] Loaded plugin Magic Bradley Panel v1.0.1 by MJSU
+15:58 [Info] Loaded plugin Magic Cargo Ship Panel v1.0.1 by MJSU
+15:58 [Info] Loaded plugin Magic Heli Panel v1.0.2 by MJSU
+15:58 [Info] Loaded plugin Magic Panel v1.0.6 by MJSU
+15:58 [Info] Loaded plugin Magic Players Panel v1.0.2 by MJSU
+15:58 [Info] Loaded plugin Magic Sleepers Panel v1.0.2 by MJSU
+15:58 [Info] Loaded plugin NTeleportation v1.4.2 by nivex
+15:58 [Info] Loaded plugin No Escape v2.1.31 by Calytic
+15:58 [Info] Loaded plugin Quick Smelt v5.1.3 by Iv Misticos
+15:58 [Info] Loaded plugin Recycler Speed v1.0.4 by yetzt
+15:58 [Info] Loaded plugin Remover Tool v4.3.22 by Reneb/Fuji/Arainrr
+15:58 [Info] Loaded plugin SAMSiteAuth v2.3.3 by haggbart
+15:58 [Info] Loaded plugin SkipNightVote v0.1.4 by k1lly0u
+15:58 [Info] Loaded plugin Stack Size Controller v3.2.1 by AnExiledGod
+15:58 [Info] Loaded plugin TownTeleport v1.10.1 by mvrb
+15:58 [Info] Loaded plugin Trade v1.2.42 by Calytic
+15:58 [Info] Loaded plugin Upgrade Permissions v2.0.0 by Wulf
+16:08 [Info] Loading Oxide Core v2.0.3991...
+16:08 [Info] Loading extensions...
+16:08 [Info] Loaded extension CSharp v2.0.4041 by Oxide Team and Contributors
+16:08 [Info] Loaded extension MySql v2.0.3760 by Oxide Team and Contributors
+16:08 [Info] Loaded extension Rust v2.0.4944 by Oxide Team and Contributors
+16:08 [Info] Loaded extension SQLite v2.0.3762 by Oxide Team and Contributors
+16:08 [Info] Loaded extension Unity v2.0.3772 by Oxide Team and Contributors
+16:08 [Info] Latest compiler MD5: 8ce6d27e7718e3d164766bba8833537a
+16:08 [Info] Local compiler MD5: 8ce6d27e7718e3d164766bba8833537a
+16:08 [Info] Using Covalence provider for game 'Rust'
+16:08 [Info] Loading plugins...
+16:08 [Info] Loaded plugin Rust v2.0.4944 by Oxide Team and Contributors
+16:08 [Info] Loaded plugin Unity v2.0.3772 by Oxide Team and Contributors
+16:08 [Info] AutomatedEvents, AutomaticAuthorization, BGrade, Backpacks, BetterCharcoal, BetterChat, BetterLoot, BuildingGrades, ClanTags, ClanTeam, Clans, DeathNotes, DisableColdDamage, EasyAirdrop, FancyDrop, FurnaceSplitter, GatherManager, InstantCraft, InventoryViewer, Kits, MagicAirdropPanel, MagicBradleyPanel, MagicCargoShipPanel, MagicHeliPanel, MagicPanel, MagicPlayersPanel, MagicSleepersPanel, NTeleportation, NoEscape, QuickSmelt, RecyclerSpeed, RemoverTool, SAMSiteAuth, SkipNightVote, StackSizeController, TownTeleport, Trade and UpgradePermissions were compiled successfully in 0ms
+16:08 [Warning] [DEBUG] ClanTeam plugin is waiting for requirements to be loaded: Clans
+16:08 [Error] Error while compiling: CopyPaste.cs(888,18): error CS1061: Type `Signage' does not contain a definition for `textureID' and no extension method `textureID' of type `Signage' could be found. Are you missing an assembly reference?
+16:08 [Info] Loaded plugin Automated Events v1.0.6 by k1lly0u/mspeedie/Arainrr
+16:08 [Info] Loaded plugin Automatic Authorization v1.2.2 by k1lly0u/Arainrr
+16:08 [Info] Loaded plugin BGrade v1.1.3 by Ryan / Rustoria.co
+16:08 [Info] Loaded plugin Backpacks v3.2.1 by LaserHydra
+16:08 [Info] Loaded plugin BetterCharcoal v1.0.2 by Jake_Rich
+16:08 [Info] Loaded plugin Better Chat v5.2.5 by LaserHydra
+16:08 [Info] Loaded plugin BetterLoot v3.0.1 by Default
+16:08 [Info] Loaded plugin Building Grades v0.5.1 by Default
+16:08 [Info] Loaded plugin Clan Tags v0.8.0 by GreenArrow
+16:08 [Info] Loaded plugin Clans v0.1.55 by k1lly0u
+16:08 [Info] Loaded plugin Clan Team v1.0.5 by deivismac
+16:08 [Info] Loaded plugin Death Notes v6.3.5 by LaserHydra
+16:08 [Info] Loaded plugin Disable Cold Damage v1.0.3 by Talha
+16:08 [Info] Loaded plugin Easy Airdrop v3.2.5 by LaserHydra
+16:08 [Info] Loaded plugin FancyDrop v2.9.2 by FastBurst
+16:08 [Info] Loaded plugin Furnace Splitter v2.2.7 by FastBurst
+16:08 [Info] Loaded plugin Gathering Manager v2.2.75 by Mughisi
+16:08 [Info] Loaded plugin Instant Craft v2.1.5 by Orange
+16:08 [Info] Loaded plugin Inventory Viewer v3.0.3 by Mughisi
+16:08 [Info] Loaded plugin Kits v3.3.1 by Reneb
+16:08 [Info] Loaded plugin Magic Airdrop Panel v1.0.1 by MJSU
+16:08 [Info] Loaded plugin Magic Bradley Panel v1.0.1 by MJSU
+16:08 [Info] Loaded plugin Magic Cargo Ship Panel v1.0.1 by MJSU
+16:08 [Info] Loaded plugin Magic Heli Panel v1.0.2 by MJSU
+16:08 [Info] Loaded plugin Magic Panel v1.0.6 by MJSU
+16:08 [Info] Loaded plugin Magic Players Panel v1.0.2 by MJSU
+16:08 [Info] Loaded plugin Magic Sleepers Panel v1.0.2 by MJSU
+16:08 [Info] Loaded plugin NTeleportation v1.4.2 by nivex
+16:08 [Info] Loaded plugin No Escape v2.1.31 by Calytic
+16:08 [Info] Loaded plugin Quick Smelt v5.1.3 by Iv Misticos
+16:08 [Info] Loaded plugin Recycler Speed v1.0.4 by yetzt
+16:08 [Info] Loaded plugin Remover Tool v4.3.22 by Reneb/Fuji/Arainrr
+16:08 [Info] Loaded plugin SAMSiteAuth v2.3.3 by haggbart
+16:08 [Info] Loaded plugin SkipNightVote v0.1.4 by k1lly0u
+16:08 [Info] Loaded plugin Stack Size Controller v3.2.1 by AnExiledGod
+16:08 [Info] Loaded plugin TownTeleport v1.10.1 by mvrb
+16:08 [Info] Loaded plugin Trade v1.2.42 by Calytic
+16:08 [Info] Loaded plugin Upgrade Permissions v2.0.0 by Wulf
+16:09 [Info] [Stack Size Controller] Ensuring VanillaStackSize integrity.
+16:10 [Warning] Calling 'OnTerrainInitialized' on 'StackSizeController v3.2.1' took 5139ms [GARBAGE COLLECT]
+16:11 [Info] IP address from command-line: 104.238.229.191
+16:11 [Info] [BetterLoot] Using '21' active of '24' supported containertypes
+16:11 [Info] [BetterLoot] Updating internals ...
+16:11 [Info] [FancyDrop] Map Highest Point: (500m) | Plane flying height: (~500m)
+16:11 [Info] [FancyDrop] Timed Airdrop activated with '2' players between '30' and '50' minutes
+16:11 [Info] [FancyDrop] Builtin Airdrop removed
+16:11 [Info] [FancyDrop] Next timed Airdrop in 46 minutes
+16:11 [Warning] Calling 'OnServerInitialized' on 'FancyDrop v2.9.2' took 100ms
+16:11 [Warning] Calling 'OnServerInitialized' on 'GatherManager v2.2.75' took 106ms
+16:11 [Warning] Calling 'OnServerInitialized' on 'NTeleportation v1.4.2' took 107ms
+16:11 [Warning] Calling 'OnServerInitialized' on 'TownTeleport v1.10.1' took 103ms
+16:11 [Info] [BetterLoot] No stacked LootContainer found.
+16:11 [Info] [BetterLoot] Populated '806' supported containers.
+16:11 [Error] Exception while calling NextTick callback (ArgumentException: An item with the same key has already been added. Key: GunRoll_Sub_Medium)
+  at System.Collections.Generic.Dictionary`2[TKey,TValue].TryInsert (TKey key, TValue value, System.Collections.Generic.InsertionBehavior behavior) [0x000c1] in <fb001e01371b4adca20013e0ac763896>:0 
+  at System.Collections.Generic.Dictionary`2[TKey,TValue].Add (TKey key, TValue value) [0x00000] in <fb001e01371b4adca20013e0ac763896>:0 
+  at Oxide.Plugins.FancyDrop.ExportLootSpawn (Oxide.Plugins.FancyDrop+ExportData expData, LootSpawn lootSpawn, System.Int32 level) [0x000c1] in <3527944ccd6d4c968ac75d221c0da324>:0 
+  at Oxide.Plugins.FancyDrop.ExportLootSpawn (Oxide.Plugins.FancyDrop+ExportData expData, LootSpawn lootSpawn, System.Int32 level) [0x000ce] in <3527944ccd6d4c968ac75d221c0da324>:0 
+  at Oxide.Plugins.FancyDrop.SetupLoot () [0x000a7] in <3527944ccd6d4c968ac75d221c0da324>:0 
+  at Oxide.Plugins.FancyDrop.<OnServerInitialized>m__0 () [0x00000] in <3527944ccd6d4c968ac75d221c0da324>:0 
+  at Oxide.Core.OxideMod.OnFrame (System.Single delta) [0x00051] in <c2afd8354b8b4f3ca451cf5a1aa111c3>:0 
+16:11 [Info] [Automated Events] Next Helicopter event will be ran after 00:52:24
+16:11 [Info] [Automated Events] Next Chinook event will be ran after 00:44:14
+16:11 [Info] [Automated Events] Next CargoShip event will be ran after 00:44:07
+16:11 [Info] [Automated Events] Next CargoPlane event will be ran after 00:44:03
+16:11 [Info] [Automated Events] Next Bradley event will be ran after 00:33:12
+16:27 [Info] [Death Notes] DevL shot a Bear using their Custom SMG over a distance of 5.1 meters.
+16:30 [Info] [Death Notes] DevL did not want to be a part of the Scientist's experiments.
+16:30 [Info] [Death Notes] DevL shot a Wolf using their Custom SMG over a distance of 2.9 meters.
+16:44 [Warning] [Automated Events] The number of Bradley events has reached the limit of 1
+16:44 [Info] [Automated Events] Next Bradley event will be ran after 00:34:54
+16:48 [Info] [Death Notes] DevL blew up the Bradley APC with their High Velocity Rocket.
+16:55 [Info] [Automated Events] Spawning Cargo Plane
+16:55 [Info] [Automated Events] Next CargoPlane event will be ran after 00:37:51
+16:55 [Info] [Automated Events] Spawning Cargo Ship
+16:55 [Info] [Automated Events] Next CargoShip event will be ran after 00:34:40
+16:55 [Info] [Automated Events] Spawning Chinook
+16:55 [Info] [Automated Events] Next Chinook event will be ran after 00:33:20
+16:57 [Info] [FancyDrop] Timed Airdrop skipped, not enough Players
+16:57 [Info] [FancyDrop] Next timed Airdrop in 36 minutes
+17:00 [Info] [Automated Events] Next CargoPlane event will be ran after 00:31:17
+17:03 [Info] [Automated Events] Spawning Helicopter
+17:03 [Info] [Automated Events] Next Helicopter event will be ran after 00:51:06
+17:15 [Info] [Automated Events] Next Chinook event will be ran after 00:33:25
+17:17 [Info] [Death Notes] DevL did not want to be a part of the Scientist's experiments.
+17:17 [Info] [Death Notes] DevL did not want to be a part of the Scientist's experiments.
+17:18 [Info] [Death Notes] DevL did not want to be a part of the Scientist's experiments.
+17:18 [Info] [Death Notes] DevL did not want to be a part of the Scientist's experiments.
+17:19 [Info] [Automated Events] Spawning Bradley
+17:19 [Info] [Automated Events] Next Bradley event will be ran after 00:31:33
+17:19 [Info] [Death Notes] DevL did not want to be a part of the Scientist's experiments.
+17:19 [Info] [Death Notes] DevL did not want to be a part of the Scientist's experiments.
+17:19 [Info] [Death Notes] DevL did not want to be a part of the Scientist's experiments.
+17:20 [Info] [Better Chat] [Global] [Player] Impact_dustructi: hullo
+17:20 [Info] [Better Chat] [Global] [Player] Impact_dustructi: punk boi
+17:20 [Info] [Death Notes] DevL did not want to be a part of the Scientist's experiments.
+17:21 [Info] [Death Notes] DevL did not want to be a part of the Scientist's experiments.
+17:21 [Info] [Death Notes] DevL did not want to be a part of the Scientist's experiments.
+17:22 [Info] [Better Chat] [Global] [Player] Impact_dustructi: smoke
+17:22 [Info] [Better Chat] [Global] [Player] BigSmoke: yo
+17:22 [Info] [Death Notes] DevL did not want to be a part of the Scientist's experiments.
+17:22 [Info] [Better Chat] [Global] [Player] Impact_dustructi: is server lagging or is that me
+17:22 [Info] [Automated Events] Next Helicopter event will be ran after 00:49:22
+17:22 [Info] [Better Chat] [Global] [Player] BigSmoke: i'm not lagging so might be you
+17:22 [Info] [Death Notes] DevL did not want to be a part of the Scientist's experiments.
+17:22 [Info] [Better Chat] [Global] [Player] Impact_dustructi: yay frames go die
+17:23 [Info] [Death Notes] DevL did not want to be a part of the Scientist's experiments.
+17:23 [Info] [Better Chat] [Global] [Player] BigSmoke: no clue dude
+17:23 [Info] [Better Chat] [Global] [Player] Impact_dustructi: when do u think zlevels will be here
+17:23 [Info] [Better Chat] [Global] [Player] BigSmoke: devl?
+17:24 [Info] [Better Chat] [Global] [Player] [Operator] DevL: nerds
+17:24 [Info] [Better Chat] [Global] [Player] BigSmoke: add zlevels
+17:24 [Info] [Better Chat] [Global] [Player] [Operator] DevL: alright
+17:24 [Info] [Better Chat] [Global] [Player] [Operator] DevL: also server is at 60fps
+17:24 [Info] [Better Chat] [Global] [Player] Impact_dustructi: my frames are dead
+17:24 [Info] [Better Chat] [Global] [Player] [Operator] DevL: Press F8
+17:24 [Info] [Better Chat] [Global] [Player] Impact_dustructi: pc go BRRRR
+17:24 [Info] [Better Chat] [Global] [Player] [Operator] DevL: damn
+17:24 [Info] [Better Chat] [Global] [Player] Impact_dustructi: my CPU uptime is 5 days
+17:26 [Info] [Better Chat] [Global] [Player] [Operator] DevL: Like you got it 5 days ago or have had your PC on for 5 days?
+17:26 [Info] [Better Chat] [Global] [Player] Impact_dustructi: its been running for 5 days
+17:26 [Info] [Better Chat] [Global] [Player] [Operator] DevL: damn
+17:26 [Info] [Better Chat] [Global] [Player] BigSmoke: daaaamn
+17:26 [Info] [Better Chat] [Global] [Player] BigSmoke: turn that shit off for 5 minutes
+17:27 [Info] [Better Chat] [Global] [Player] Impact_dustructi: meh i can go another day or 2
+17:27 [Info] [Better Chat] [Global] [Player] [Operator] DevL: god damn you have a death wish dont you?
+17:27 [Info] [Better Chat] [Global] [Player] [Operator] DevL: lmao
+17:28 [Info] [Death Notes] DevL did not want to be a part of the Scientist's experiments.
+17:29 [Info] [Death Notes] DevL did not want to be a part of the Scientist's experiments.
+17:29 [Warning] [Automated Events] The number of CargoShip events has reached the limit of 1
+17:29 [Info] [Automated Events] Next CargoShip event will be ran after 00:34:34
+17:31 [Info] [Better Chat] [Global] [Player] Impact_dustructi: 5 days and 4 hours
+17:31 [Info] [Better Chat] [Global] [Player] BigSmoke: yeah turn it off its gonna catch fire lol
+17:31 [Info] [Death Notes] DevL did not want to be a part of the Scientist's experiments.
+17:31 [Info] [Better Chat] [Global] [Player] Impact_dustructi: i have a fan on
+17:31 [Info] [Automated Events] Spawning FancyDrop Cargo Plane
+17:31 [Info] [FancyDrop] Random Airdrop of type 'regular' incoming at: (-415, 23, -1240) grid area: K22
+17:31 [Info] [Automated Events] Next CargoPlane event will be ran after 00:37:32
+17:33 [Info] [FancyDrop] Random Airdrop of type 'regular' incoming at: (-1171, 41, 1020) grid area: F6
+17:33 [Info] [FancyDrop] Timed Airdrop initiated with command 'ad.random'
+17:33 [Info] [FancyDrop] Next timed Airdrop in 34 minutes
+17:37 [Info] [Better Chat] [Global] [Player] Impact_dustructi: and my CPU is at 56C
+17:37 [Info] [Better Chat] [Global] [Player] BigSmoke: going to melt
+17:41 [Info] [Better Chat] [Global] [Player] Impact_dustructi: Average Temperature	115 °C my CPU
+17:41 [Info] [Better Chat] [Global] [Player] [Operator] DevL: ._.
+17:41 [Info] [Better Chat] [Global] [Player] BigSmoke: dude
+17:41 [Info] [Better Chat] [Global] [Player] Impact_dustructi: speccy doesnt like AMD CPUS
+17:42 [Info] [Better Chat] [Global] [Player] Impact_dustructi: my CPU is at 52C
+17:42 [Info] [Better Chat] [Global] [Player] Impact_dustructi: speccy reads wrong
+17:44 [Info] [Better Chat] [Global] [Player] Impact_dustructi: smoke can u boop you 100 times with a flashlight going mach 10
+17:44 [Info] [Better Chat] [Global] [Player] BigSmoke: what?
+17:44 [Info] [Better Chat] [Global] [Player] Impact_dustructi: can i hit you with a flashlight that is going mach 10
+17:44 [Info] [Better Chat] [Global] [Player] BigSmoke: no
+17:45 [Info] [Better Chat] [Global] [Player] Impact_dustructi: but why
+17:45 [Info] [Better Chat] [Global] [Player] BigSmoke: mach 10?
+17:45 [Info] [Better Chat] [Global] [Player] Impact_dustructi: yea XD
+17:46 [Info] [Better Chat] [Global] [Player] Impact_dustructi: wow the british kit XD
+17:46 [Info] [Better Chat] [Global] [Player] [Operator] DevL: innit
+17:48 [Info] [Better Chat] [Global] [Player] BigSmoke: impact you getting your buddies to join?
+17:48 [Info] [Better Chat] [Global] [Player] Impact_dustructi: il check one guy ik
+17:48 [Info] [Better Chat] [Global] [Player] BigSmoke: what about the guys you were playing with on the other server
+17:48 [Info] [Automated Events] Spawning Chinook
+17:48 [Info] [Automated Events] Next Chinook event will be ran after 00:30:05
+17:48 [Info] [Better Chat] [Global] [Player] Impact_dustructi: fox hasnt been on yet
+17:49 [Info] [Better Chat] [Global] [Player] BigSmoke: more active people we get more people will join
+17:50 [Info] [FancyDrop] SupplySignal thrown by 'DevL' at: (-1481.1, 6.5, 609.6)
+17:50 [Warning] [Automated Events] The number of Bradley events has reached the limit of 1
+17:50 [Info] [Automated Events] Next Bradley event will be ran after 00:41:23
+17:55 [Info] [Automated Events] Next CargoShip event will be ran after 00:39:01
+17:56 [Info] [Death Notes] Corona.Virus killed a Boar using their Wooden Spear.
+17:56 [Info] [Better Chat] [Global] [Player] Impact_dustructi: i miss dericks and quarrys
+17:57 [Info] [Better Chat] [Global] [Player] [Operator] DevL: yea those were always fun
+17:57 [Info] [Better Chat] [Global] [Player] [Operator] DevL: Oh yea, HQM and stone quarrys are gone on this map
+17:57 [Info] [Better Chat] [Global] [Player] Impact_dustructi: id snipe my basemates from my quarrys
+17:57 [Info] [Better Chat] [Global] [Player] [Operator] DevL: lol
+17:57 [Info] [Better Chat] [Global] [Player] Impact_dustructi: i got d fuel for thoes
+17:57 [Info] [Death Notes] Corona.Virus shot a Boar using their Hunting Bow over a distance of 40.1 meters.
+17:58 [Info] [FancyDrop] DevL (76561198154580978) looted the Drop at: (-1500, 0, 588) grid area: D9
+17:59 [Info] [Death Notes] BigSmoke shot a Stag using their Assault Rifle over a distance of 51.4 meters.
+17:59 [Info] [Better Chat] [Global] [Player] Impact_dustructi: who is near a monument
+18:00 [Info] [Better Chat] [Global] [Player] Impact_dustructi: and what i wanna make a phone call
+18:00 [Info] [Better Chat] [Global] [Player] BigSmoke: not me
+18:01 [Info] [Death Notes] Impact_dustructi shot a Chicken using their Hunting Bow over a distance of 18.1 meters.
+18:02 [Info] [Better Chat] [Global] [Player] Impact_dustructi: fuck that chicken
+18:04 [Info] [Death Notes] Corona.Virus did not want to be a part of the Scientist's experiments.
+18:05 [Info] [Death Notes] BigSmoke shot a Bear using their Assault Rifle over a distance of 4.9 meters.
+18:05 [Info] [Better Chat] [Global] [Player] Impact_dustructi: yo smoke i need a fav
+18:05 [Info] [Better Chat] [Global] [Player] BigSmoke: sup
+18:05 [Info] [Better Chat] [Global] [Player] Impact_dustructi: fuse
+18:05 [Info] [Better Chat] [Global] [Player] BigSmoke: dont have 1
+18:05 [Info] [Better Chat] [Global] [Player] Impact_dustructi: wow rude
+18:06 [Info] ZLevelsRemastered was compiled successfully in 1987ms
+18:06 [Info] [ZLevelsRemastered] Generating new item list...
+18:06 [Info] [ZLevelsRemastered] Loaded 683 items. (Enabled: 0 | Inactive: 683).
+18:06 [Info] [ZLevelsRemastered] Stats can be reset by > zl.reset <
+18:06 [Warning] Calling 'OnServerInitialized' on 'ZLevelsRemastered v2.9.22' took 194ms
+18:06 [Info] Loaded plugin ZLevelsRemastered v2.9.22 by Default
+18:06 [Info] [Better Chat] [Global] [Player] Impact_dustructi: so rood
+18:06 [Info] [Better Chat] [Global] [Player] BigSmoke: hit some barrels lol
+18:06 [Info] [Better Chat] [Global] [Player] Impact_dustructi: i need to find some XD
+18:06 [Info] [Better Chat] [Global] [Player] [Operator] DevL: bam zlevels
+18:06 [Info] [Better Chat] [Global] [Player] Impact_dustructi: 0-0
+18:06 [Info] [Better Chat] [Global] [Player] Impact_dustructi: MEHGICAL PERSON
+18:06 [Info] [Better Chat] [Global] [Player] [Operator] DevL: default config rn so it will either work or give you a million fucking sulfer
+18:06 [Info] [Death Notes] BigSmoke shot a Bear using their Assault Rifle over a distance of 23.7 meters.
+18:06 [Info] [Better Chat] [Global] [Player] [Operator] DevL: first to find out gets a chunk of coal
+18:07 [Info] [Better Chat] [Global] [Player] Impact_dustructi: deal
+18:07 [Info] [FancyDrop] Random Airdrop of type 'regular' incoming at: (-722, 34, 1283) grid area: I4
+18:07 [Info] [FancyDrop] Timed Airdrop initiated with command 'ad.random'
+18:07 [Info] [FancyDrop] Next timed Airdrop in 32 minutes
+18:07 [Info] [Better Chat] [Global] [Player] BigSmoke: there's the zlevels
+18:08 [Info] [Better Chat] [Global] [Player] Impact_dustructi: i have lvl 2 acquire
+18:08 [Info] [Better Chat] [Global] [Player] Impact_dustructi: it not broken where my coal
+18:09 [Info] [Better Chat] [Global] [Player] Impact_dustructi: XD
+18:09 [Info] [Automated Events] Spawning Cargo Plane
+18:09 [Info] [Automated Events] Next CargoPlane event will be ran after 00:32:21
+18:09 [Info] [Death Notes] Corona.Virus shot a Boar using their Hunting Bow over a distance of 9.3 meters.
+18:09 [Info] [Death Notes] Impact_dustructi did not want to be a part of the Scientist's experiments.
+18:10 [Info] [Better Chat] [Global] [Player] Impact_dustructi: is there a discord yet
+18:11 [Info] [Better Chat] [Global] [Player] [Operator] DevL: yea
+18:11 [Info] [Better Chat] [Global] [Player] [Operator] DevL: click the website button
+18:11 [Info] [Better Chat] [Global] [Player] Impact_dustructi: can i bum a blue card from someone
+18:11 [Info] [Automated Events] Spawning Helicopter
+18:11 [Info] [Automated Events] Next Helicopter event will be ran after 00:55:23
+18:11 [Info] [Better Chat] [Global] [Player] BigSmoke: buy one at outpost
+18:12 [Info] [Better Chat] [Global] [Player] Impact_dustructi: to far
+18:12 [Info] [Better Chat] [Global] [Player] BigSmoke: do /outpost
+18:12 [Info] [Better Chat] [Global] [Player] Impact_dustructi: then i cant get back :P
+18:12 [Info] [Better Chat] [Global] [Player] BigSmoke: set a home then
+18:12 [Info] [Automated Events] Next Chinook event will be ran after 00:35:10
+18:13 [Info] [Death Notes] BigSmoke did not want to be a part of the Scientist's experiments.
+18:14 [Info] [Death Notes] Corona.Virus shot a Wolf using their Hunting Bow over a distance of 5.6 meters.
+18:14 [Info] [Automated Events] Next CargoPlane event will be ran after 00:33:12
+18:15 [Error] Could not load plugin 'ZlevelsRemastered' (no plugin found with that file name)
+18:15 [Info] [Death Notes] Corona.Virus shot a Boar using their Hunting Bow over a distance of 5.7 meters.
+18:15 [Info] Unloaded plugin ZLevelsRemastered v2.9.22 by Default
+18:15 [Info] [ZLevelsRemastered] Stats can be reset by > zl.reset <
+18:15 [Warning] Calling 'OnServerInitialized' on 'ZLevelsRemastered v2.9.22' took 161ms
+18:15 [Info] Loaded plugin ZLevelsRemastered v2.9.22 by Default
+18:15 [Info] [Death Notes] Corona.Virus shot a Boar using their Hunting Bow over a distance of 22.5 meters.
+18:16 [Info] [Death Notes] Corona.Virus shot a Boar using their Hunting Bow over a distance of 28.9 meters.
+18:17 [Info] [Death Notes] Corona.Virus shot a Bear using their Hunting Bow over a distance of 41.5 meters.
+18:19 [Info] [Death Notes] DevL shot a Boar using their LR-300 Assault Rifle over a distance of 22 meters.
+18:19 [Info] [Better Chat] [Global] [Player] Impact_dustructi: i tot didnt say anything in general....
+18:24 [Info] [Better Chat] [Global] [Player] Impact_dustructi: smoke
+18:24 [Info] [Better Chat] [Global] [Player] [Operator] DevL: he hopped off
+18:25 [Info] [Better Chat] [Global] [Player] Impact_dustructi: awwww i wanted to steal his whiskey
+18:25 [Info] [Better Chat] [Global] [Player] [Operator] DevL: his chkn tendies arrived
+18:25 [Info] [Better Chat] [Global] [Player] [Operator] DevL: damn
+18:25 [Info] [Better Chat] [Global] [Player] [Operator] DevL: you and corona should team up then
+18:25 [Info] [Better Chat] [Global] [Player] Corona.Virus: nope
+18:25 [Info] [Better Chat] [Global] [Player] [Operator] DevL: sour
+18:25 [Info] [Better Chat] [Global] [Player] Impact_dustructi: fuck his chicken tendies
+18:25 [Info] [Better Chat] [Global] [Player] Impact_dustructi: they shit
+18:26 [Info] [Better Chat] [Global] [Player] Impact_dustructi: i can make better
+18:26 [Info] [Better Chat] [Global] [Player] [Operator] DevL: well when its late at night and just you and him
+18:26 [Info] [Better Chat] [Global] [Player] [Operator] DevL: you can snuggle together in his base and feed him your chicken tendies
+18:26 [Info] [Better Chat] [Global] [Player] [Operator] DevL: ;)
+18:26 [Info] [Better Chat] [Global] [Player] Impact_dustructi: hell nah
+18:27 [Info] [Better Chat] [Global] [Player] Impact_dustructi: they mine
+18:27 [Info] [Better Chat] [Global] [Player] [Operator] DevL: damn
+18:27 [Info] [Better Chat] [Global] [Player] Impact_dustructi: i will guard them with high vol rocks
+18:30 [Info] [Automated Events] Next Helicopter event will be ran after 00:47:01
+18:32 [Warning] [Automated Events] The number of Bradley events has reached the limit of 1
+18:32 [Info] [Automated Events] Next Bradley event will be ran after 00:38:50
+18:34 [Info] [Automated Events] Spawning Cargo Ship
+18:34 [Info] [Automated Events] Next CargoShip event will be ran after 00:43:46
+18:39 [Info] [FancyDrop] Random Airdrop of type 'regular' incoming at: (-920, 26, -1167) grid area: H21
+18:39 [Info] [FancyDrop] Timed Airdrop initiated with command 'ad.random'
+18:39 [Info] [FancyDrop] Next timed Airdrop in 35 minutes
+18:41 [Info] [Better Chat] [Global] [Player] Impact_dustructi: whoes base is this
+18:41 [Info] [Better Chat] [Global] [Player] Corona.Virus: ?
+18:41 [Info] [Better Chat] [Global] [Player] [Operator] DevL: Where are you?
+18:41 [Info] [Better Chat] [Global] [Player] Impact_dustructi: snow
+18:42 [Info] [Better Chat] [Global] [Player] [Operator] DevL: I think its bigsmokes
+18:45 [Info] [Better Chat] [Global] [Player] [Operator] DevL: "ZLevels works its fine"
+18:46 [Info] [Better Chat] [Global] [Player] [Operator] DevL: bitch i have half a inventory of wood from 10 fucking minutes
+18:46 [Info] [Better Chat] [Global] [Player] [Operator] DevL: But, im not gonna nerf it until i get the okay from bigsmoke ;)
+18:46 [Info] [FancyDrop] SupplySignal thrown by 'Corona.Virus' at: (-148.3, 4.6, -1062.3)
+18:47 [Info] [Better Chat] [Global] [Player] Impact_dustructi: whats ur wood cutting at
+18:47 [Info] [Better Chat] [Global] [Player] [Operator] DevL: 13
+18:47 [Info] [Better Chat] [Global] [Player] [Operator] DevL: from 10 minutes
+18:47 [Info] [Better Chat] [Global] [Player] Impact_dustructi: buff the msg
+18:47 [Info] [Automated Events] Spawning Chinook
+18:47 [Info] [Automated Events] Next Chinook event will be ran after 00:32:20
+18:48 [Warning] [Automated Events] The number of CargoPlane events has reached the limit of 1
+18:48 [Info] [Automated Events] Next CargoPlane event will be ran after 00:40:59
+18:49 [Info] [FancyDrop] Corona.Virus (76561199014694691) looted the Drop at: (-140, 0, -1074) grid area: M21
+18:53 [Info] [Better Chat] [Global] [Player] Impact_dustructi: XP not MSG idk
+18:58 [Info] [Better Chat] [Global] [Player] BigSmoke: corona i raid you
+18:59 [Info] [Better Chat] [Global] [Player] Corona.Virus: no u wont
+18:59 [Info] [Better Chat] [Global] [Player] BigSmoke: drop cords
+18:59 [Info] [Better Chat] [Global] [Player] [Operator] DevL: near M21
+18:59 [Info] [Better Chat] [Global] [Player] Corona.Virus: a 10
+18:59 [Info] [Better Chat] [Global] [Player] Impact_dustructi: smoke i found ur base
+18:59 [Info] [Better Chat] [Global] [Player] BigSmoke: wheres my base?
+19:00 [Info] [Better Chat] [Global] [Player] Impact_dustructi: in the snow
+19:00 [Info] [Better Chat] [Global] [Player] BigSmoke: i'm w3
+19:00 [Info] [Better Chat] [Global] [Player] Impact_dustructi: who tf in 04
+19:00 [Info] [Better Chat] [Global] [Player] BigSmoke: prob corona
+19:02 [Info] [Death Notes] Corona.Virus had enough of life.
+19:02 [Warning] 'Backpacks v3.2.1' is using deprecated hook 'OnPlayerCorpse', which will stop working on Thursday, 01 July 2021. Please ask the author to update to 'OnPlayerCorpseSpawned(BasePlayer player, BaseCorpse corpse)'
+19:03 [Info] [Better Chat] [Global] [Player] BigSmoke: corona you noob
+19:04 [Info] [Death Notes] DevL shot a Bear using their LR-300 Assault Rifle over a distance of 3.2 meters.
+19:04 [Info] [Better Chat] [Global] [Player] BigSmoke: thanks corona
+19:04 [Info] [Better Chat] [Global] [Player] Corona.Virus: ?
+19:04 [Info] [Better Chat] [Global] [Player] BigSmoke: you cleared my tc
+19:04 [Info] [Better Chat] [Global] [Player] Corona.Virus: ?
+19:04 [Info] [Better Chat] [Global] [Player] BigSmoke: or devl did
+19:04 [Info] [Better Chat] [Global] [Player] [Operator] DevL: Big corona is talking about how nice it was getting pegged by you
+19:04 [Info] [Better Chat] [Global] [Player] Corona.Virus: im at power
+19:05 [Info] [Better Chat] [Global] [Player] [Operator] DevL: "Fuck you devl, fuck yourself"
+19:05 [Info] [Better Chat] [Global] [Player] [Operator] DevL: okay corona
+19:05 [Info] [Better Chat] [Global] [Player] Cramden: roner
+19:05 [Info] [Better Chat] [Global] [Player] Cramden: more like boner
+19:07 [Info] [FancyDrop] DevL (76561198154580978) looted the Drop at: (-863, 43, 140) grid area: H12
+19:07 [Info] [Automated Events] Next Chinook event will be ran after 00:43:30
+19:09 [Info] [Death Notes] Impact_dustructi was shredded by the Bradley APC.
+19:09 [Info] [Better Chat] [Global] [Player] BigSmoke: lol
+19:09 [Info] [Better Chat] [Global] [Player] Impact_dustructi: hey devl
+19:09 [Info] [Better Chat] [Global] [Player] [Operator] DevL: yea
+19:09 [Warning] [No Escape] Unable to find clan after creation: Better
+19:09 [Info] [Better Chat] [Global] [Player] Impact_dustructi: can i file a rape report?
+19:09 [Info] [Better Chat] [Global] [Player] [Operator] [Better] [Better] DevL: sure
+19:09 [Info] [Better Chat] [Global] [Player] [Operator] [Better] [Better] DevL: why the fuck
+19:10 [Info] [Better Chat] [Global] [Player] [Operator] [Better] [Better] DevL: does that
+19:10 [Info] [Better Chat] [Global] [Player] [Operator] [Better] [Better] DevL: list twice
+19:10 [Warning] [No Escape] Unable to find clan after creation: porn
+19:10 [Info] [Better Chat] [Global] [Player] [porn] [porn] Corona.Virus: porn
+19:10 [Info] [Better Chat] [Global] [Player] Impact_dustructi: my last death
+19:10 [Info] [Better Chat] [Global] [Player] Cramden: porn
+19:10 [Info] [Better Chat] [Global] [Player] BigSmoke: cram<​3
+19:10 [Info] [Better Chat] [Global] [Player] [Better] [Better] Cramden: cram
+19:10 [Info] [Better Chat] [Team] [Player] [Operator] [Better] [Better] DevL: okay
+19:10 [Info] [Better Chat] [Global] [Player] [Operator] [Better] [Better] DevL: okay
+19:10 [Info] [Better Chat] [Global] [Player] [Operator] [Better] [Better] DevL: clans listing twice
+19:10 [Info] [Better Chat] [Global] [Player] [Operator] [Better] [Better] DevL: feature or bug
+19:11 [Warning] [Automated Events] The number of Bradley events has reached the limit of 1
+19:11 [Info] [Automated Events] Next Bradley event will be ran after 00:31:07
+19:11 [Info] [Better Chat] [Global] [Player] [Operator] [Better] [Better] DevL: first to repsond
+19:14 [Info] [FancyDrop] Random Airdrop of type 'regular' incoming at: (588, 32, -530) grid area: R17
+19:14 [Info] [FancyDrop] Timed Airdrop initiated with command 'ad.random'
+19:14 [Info] [FancyDrop] Next timed Airdrop in 36 minutes
+19:15 [Info] [Death Notes] DevL shot Cramden using their L96 Rifle over a distance of 85.7 meters.
+19:15 [Info] [Better Chat] [Global] [Player] BigSmoke: ooooof
+19:17 [Info] [Better Chat] [Global] [Player] [Better] [Better] Cramden: devl is fat
+19:17 [Info] [Better Chat] [Global] [Player] BigSmoke: prob spawned that L9
+19:17 [Info] [Death Notes] Corona.Virus had enough of life.
+19:17 [Info] [Better Chat] [Global] [Player] [Operator] [Better] [Better] DevL: totally
+19:17 [Info] [Better Chat] [Global] [Player] [Better] [Better] Cramden: he did
+19:17 [Info] [Better Chat] [Global] [Player] [Operator] [Better] [Better] DevL: ^
+19:17 [Info] [Better Chat] [Global] [Player] [Better] [Better] Cramden: told me himself
+19:17 [Info] [Automated Events] Spawning Helicopter
+19:17 [Info] [Automated Events] Next Helicopter event will be ran after 00:51:51
+19:17 [Info] [Better Chat] [Global] [Player] [Better] [Better] Cramden: big smoke join the vc or your fat
+19:18 [Warning] [Automated Events] The number of CargoShip events has reached the limit of 1
+19:18 [Info] [Automated Events] Next CargoShip event will be ran after 00:38:28
+19:18 [Info] [Better Chat] [Global] [Player] BigSmoke: watching a movie with the woman
+19:18 [Info] [Better Chat] [Global] [Player] [Better] [Better] Cramden: the
+19:18 [Info] [Better Chat] [Global] [Player] Corona.Virus: ooof
+19:18 [Info] [Better Chat] [Global] [Player] [Better] [Better] Cramden: you mean all 3
+19:18 [Info] [Better Chat] [Global] [Player] BigSmoke: yeeeet
+19:18 [Info] [Better Chat] [Global] [Player] [Better] [Better] Cramden: why dont you ever watch movies with me?
+19:18 [Info] [Better Chat] [Global] [Player] BigSmoke: too young for me
+19:19 [Info] [Better Chat] [Global] [Player] [Better] [Better] Cramden: what about supers pegging buddy
+19:19 [Info] [Better Chat] [Global] [Player] BigSmoke: too young also
+19:19 [Info] [Better Chat] [Global] [Player] [Better] [Better] Cramden: supers aunt?
+19:19 [Info] [Better Chat] [Global] [Player] BigSmoke: definatly
+19:19 [Info] [Better Chat] [Global] [Player] Impact_dustructi: how do i file a rape report
+19:19 [Info] [Better Chat] [Global] [Player] BigSmoke: f1 kill
+19:20 [Warning] [No Escape] Unable to find clan after creation: PHUB
+19:20 [Info] [Death Notes] BigSmoke shot a Bear using their Assault Rifle over a distance of 19.6 meters.
+19:22 [Info] [Death Notes] BigSmoke did not want to be a part of the Scientist's experiments.
+19:23 [Info] [Death Notes] BigSmoke shot a Bear using their Assault Rifle over a distance of 34.5 meters.
+19:24 [Info] [Death Notes] BigSmoke did not want to be a part of the Scientist's experiments.
+19:24 [Info] [Death Notes] BigSmoke shot a Bear using their Assault Rifle over a distance of 19.4 meters.
+19:24 [Info] [FancyDrop] Corona.Virus (76561199014694691) looted the Drop at: (589, 31, -529) grid area: R17
+19:26 [Info] [Death Notes] BigSmoke shot a Bear using their Assault Rifle over a distance of 22 meters.
+19:27 [Info] [Death Notes] BigSmoke shot a Bear using their Assault Rifle over a distance of 0.8 meters.
+19:29 [Info] [Automated Events] Spawning Cargo Plane
+19:29 [Info] [Automated Events] Next CargoPlane event will be ran after 00:34:57
+19:30 [Info] [Death Notes] The Helicopter was finally shot down.
+19:30 [Info] [Automated Events] Next Helicopter event will be ran after 00:55:28
+19:30 [Info] [Death Notes] BigSmoke did not want to be a part of the Scientist's experiments.
+19:31 [Info] [Death Notes] BigSmoke did not did not follow the rules in a safezone and was killed by a Scientist Sentry.
+19:31 [Info] [Better Chat] [Global] [Player] BigSmoke: uuuummmm
+19:31 [Info] [Better Chat] [Global] [Player] Impact_dustructi: ?
+19:31 [Info] [Better Chat] [Global] [Player] [Better] [Better] Cramden: ummm
+19:31 [Info] [Better Chat] [Global] [Player] BigSmoke: tp'd to outpost and died lol
+19:31 [Info] [Better Chat] [Global] [Player] Impact_dustructi: lol
+19:31 [Info] [Death Notes] BigSmoke did not did not follow the rules in a safezone and was killed by a Scientist Sentry.
+19:34 [Info] [Death Notes] BigSmoke did not did not follow the rules in a safezone and was killed by a Scientist Sentry.
+19:34 [Info] [Automated Events] Next CargoShip event will be ran after 00:42:33
+19:34 [Info] [Automated Events] Next CargoPlane event will be ran after 00:31:04
+19:34 [Info] [Better Chat] [Global] [Player] Impact_dustructi: gg game over i win
+19:34 [Info] [Better Chat] [Global] [Player] BigSmoke: i'm not marked hostile but everything is killing me ...
+19:34 [Info] [Better Chat] [Global] [Player] [Operator] [Better] [Better] DevL: relog
+19:35 [Info] [Better Chat] [Global] [Player] Impact_dustructi: i got a launcher from a milly
+19:35 [Info] [Better Chat] [Global] [Player] [Operator] [Better] [Better] DevL: nice
+19:36 [Info] [Death Notes] BigSmoke did not did not follow the rules in a safezone and was killed by a Scientist Sentry.
+19:36 [Info] [Better Chat] [Global] [Player] BigSmoke: didnt work devl lol
+19:36 [Info] [Better Chat] [Global] [Player] [Better] [Better] Cramden: make it work
+19:37 [Info] [Better Chat] [Global] [Player] [Operator] [Better] [Better] DevL: i have 0 idea
+19:37 [Info] [Better Chat] [Global] [Player] [Operator] [Better] [Better] DevL: ill try reseting your shit in a minute
+19:37 [Info] [Better Chat] [Global] [Player] BigSmoke: okay
+19:37 [Info] [Better Chat] [Global] [Player] BigSmoke: odd because i never killed anything , let alone wasnt near there
+19:40 [Info] [Better Chat] [Global] [Player] [Better] [Better] Cramden: hey smoke
+19:40 [Info] [Better Chat] [Global] [Player] BigSmoke: hi
+19:40 [Info] [Better Chat] [Global] [Player] [Better] [Better] Cramden: hows the smoke
+19:41 [Info] [Better Chat] [Global] [Player] BigSmoke: come back
+19:42 [Warning] [Automated Events] The number of Bradley events has reached the limit of 1
+19:42 [Info] [Automated Events] Next Bradley event will be ran after 00:42:18
+19:42 [Info] [Better Chat] [Global] [Player] BigSmoke: why you guys teamed up we sapposed to be solo's
+19:42 [Info] [Better Chat] [Global] [Player] [Operator] [Better] [Better] DevL: hes to retarded
+19:42 [Info] [Better Chat] [Global] [Player] [Operator] [Better] [Better] DevL: litteraly cant get up my ladder
+19:42 [Info] [Better Chat] [Global] [Player] [Better] [Better] Cramden: he invited me to the team
+19:42 [Info] [Better Chat] [Global] [Player] [PHUB] [PHUB] Corona.Virus: lol
+19:42 [Warning] [No Escape] Unable to find clan after creation: GSF
+19:42 [Info] [Death Notes] Corona.Virus shot Cramden using their Semi-Automatic Rifle over a distance of 36.8 meters.
+19:42 [Info] [Better Chat] [Global] [Player] [GSF] [GSF] BigSmoke: ooooooooooooof
+19:42 [Info] [Better Chat] [Global] [Player] [Better] [Better] Cramden: lo
+19:42 [Info] [Death Notes] BigSmoke did not want to be a part of the Scientist's experiments.
+19:43 [Info] [Better Chat] [Global] [Player] Impact_dustructi: smokle i got a launcher
+19:43 [Info] [Better Chat] [Global] [Player] [GSF] [GSF] BigSmoke: i have every bp
+19:43 [Info] [Death Notes] Corona.Virus shot DevL using their L96 Rifle over a distance of 105.2 meters.
+19:43 [Info] [Better Chat] [Global] [Player] [GSF] [GSF] BigSmoke: oooooof
+19:43 [Info] [Better Chat] [Global] [Player] [Better] [Better] Cramden: lmaooooooooo
+19:43 [Info] [Better Chat] [Global] [Player] [Operator] [Better] [Better] DevL: lmaooo
+19:43 [Info] [Better Chat] [Global] [Player] [Better] [Better] Cramden: devl got shit on
+19:43 [Info] [Better Chat] [Global] [Player] [Operator] [Better] [Better] DevL: You died to a sar with a L9 nerd
+19:44 [Info] [Better Chat] [Global] [Player] [Better] [Better] Cramden: also had a inventory of gls XDDDDDD
+19:44 [Info] [Better Chat] [Global] [Player] [GSF] [GSF] BigSmoke: devl look into this hostile thing
+19:44 [Info] [Better Chat] [Global] [Player] [Operator] [Better] [Better] DevL: yea i am
+19:44 [Info] [Better Chat] [Global] [Player] [GSF] [GSF] BigSmoke: only shows me hostile going near the monuments
+19:48 [Info] [Better Chat] [Global] [Player] Impact_dustructi: i got cut by like spikes but there are none
+19:48 [Info] [Death Notes] Cramden did not did not follow the rules in a safezone and was killed by a Scientist Sentry.
+19:49 [Info] [Better Chat] [Global] [Player] Impact_dustructi: i c what did it
+19:49 [Info] [Better Chat] [Global] [Player] [Operator] [Better] [Better] DevL: he shot them
+19:49 [Info] [Better Chat] [Global] [Player] [PHUB] [PHUB] Corona.Virus: porn
+19:49 [Info] [Better Chat] [Global] [Player] Cold.Soup: hub good
+19:49 [Info] [Better Chat] [Global] [Player] [PHUB] [PHUB] Corona.Virus: yes
+19:49 [Info] [Better Chat] [Global] [Player] Impact_dustructi: if u shoot one its a 30m
+19:49 [Info] [Better Chat] [Global] [Player] [Better] [Better] Cramden: 30 million
+19:50 [Info] [FancyDrop] Random Airdrop of type 'regular' incoming at: (-79, 62, 567) grid area: N9
+19:50 [Info] [FancyDrop] Timed Airdrop initiated with command 'ad.random'
+19:50 [Info] [FancyDrop] Next timed Airdrop in 42 minutes
+19:50 [Info] [Better Chat] [Team] [Player] [PHUB] [PHUB] Corona.Virus: how am i on u team
+19:50 [Info] [Better Chat] [Global] [Player] [GSF] [GSF] BigSmoke: ooof
+19:50 [Warning] [No Escape] Unable to find clan after creation: BLOODS
+19:50 [Info] [Death Notes] BigSmoke did not did not follow the rules in a safezone and was killed by a Scientist Sentry.
+19:51 [Warning] [No Escape] Unable to find clan after creation: RIP
+19:51 [Info] [Automated Events] Spawning Chinook
+19:51 [Info] [Automated Events] Next Chinook event will be ran after 00:33:17
+19:51 [Warning] [No Escape] Unable to find clan after creation: SESH
+19:52 [Info] [Better Chat] [Global] [Player] Impact_dustructi: wtf
+19:52 [Info] [Better Chat] [Global] [Player] [GSF] [GSF] BigSmoke: lol
+19:55 [Info] [Death Notes] Cramden did not did not follow the rules in a safezone and was killed by a Scientist Sentry.
+19:55 [Info] [Death Notes] Cramden fell to their death.
+19:55 [Info] [Better Chat] [Global] [Player] [Better] [Better] Cramden: devl is admin abuse
+19:56 [Info] [Better Chat] [Global] [Player] [Operator] [Better] [Better] DevL: dont ask for the power of flight you nerd
+19:56 [Info] [Better Chat] [Global] [Player] [Better] [Better] Cramden: dont be giner
+19:56 [Info] [Better Chat] [Global] [Player] [GSF] [GSF] BigSmoke: i'll catch you guys tomorrow heading to bed
+19:56 [Info] [Better Chat] [Global] [Player] [Better] [Better] Cramden: ginger
+19:56 [Info] [Better Chat] [Global] [Player] [Operator] [Better] [Better] DevL: see ya
+19:56 [Info] [Better Chat] [Global] [Player] [Better] [Better] Cramden: cya
+19:56 [Info] [Better Chat] [Global] [Player] [Operator] [Better] [Better] DevL: correct
+19:57 [Info] [Better Chat] [Global] [Player] Impact_dustructi: smoke kinda smells
+19:59 [Info] [Better Chat] [Team] [Player] [PHUB] [PHUB] Corona.Virus: how u on my team
+19:59 [Info] [Better Chat] [Team] [Player] [SESH] [SESH] Cold.Soup: no idea lol
+20:00 [Info] [Better Chat] [Team] [Player] [PHUB] [PHUB] Corona.Virus: lol
+20:00 [Info] [Better Chat] [Global] [Player] [SESH] [SESH] Cold.Soup: corona has hax
+20:00 [Info] [Better Chat] [Global] [Player] [PHUB] [PHUB] Corona.Virus: no u
+20:00 [Info] [Better Chat] [Global] [Player] [Operator] [Better] [Better] DevL: ^
+20:00 [Info] [Better Chat] [Global] [Player] [Operator] [Better] [Better] DevL: ^^
+20:00 [Info] [Better Chat] [Global] [Player] [Operator] [Better] [Better] DevL: corona does hack
+20:00 [Info] [Better Chat] [Global] [Player] [Operator] [Better] [Better] DevL: can confirm
+20:01 [Info] [Better Chat] [Global] [Player] [SESH] [SESH] Cold.Soup: feels bad
+20:01 [Info] [Better Chat] [Global] [Player] [Better] [Better] Cramden: rona has downloaded scripts before
+20:01 [Info] [Better Chat] [Global] [Player] [PHUB] [PHUB] Corona.Virus: dont ban me
+20:01 [Info] [Better Chat] [Global] [Player] [Operator] [Better] [Better] DevL: nice fat vac ban
+20:01 [Info] [Better Chat] [Global] [Player] [SESH] [SESH] Cold.Soup: devl has hax
+20:02 [Info] [Better Chat] [Global] [Player] [SESH] [SESH] Cold.Soup: i saw him flying
+20:02 [Info] [Better Chat] [Global] [Player] [Better] [Better] Cramden: im cheating
+20:02 [Info] [Better Chat] [Global] [Player] [SESH] [SESH] Cold.Soup: me too
+20:02 [Info] [Better Chat] [Global] [Player] [SESH] [SESH] Cold.Soup: hanging out under the map aint that right devl?
+20:05 [Info] [Death Notes] Corona.Virus did not want to be a part of the Scientist's experiments.
+20:05 [Info] [Automated Events] Spawning Cargo Plane
+20:05 [Info] [Automated Events] Next CargoPlane event will be ran after 00:43:52
+20:06 [Info] [Death Notes] Corona.Virus did not want to be a part of the Scientist's experiments.
+20:07 [Info] [Death Notes] Corona.Virus did not want to be a part of the Scientist's experiments.
+20:07 [Info] [Death Notes] Corona.Virus did not want to be a part of the Scientist's experiments.
+20:07 [Info] [Death Notes] Corona.Virus did not want to be a part of the Scientist's experiments.
+20:07 [Info] [Death Notes] Corona.Virus did not want to be a part of the Scientist's experiments.
+20:07 [Info] [Death Notes] Corona.Virus did not want to be a part of the Scientist's experiments.
+20:08 [Info] [Death Notes] Corona.Virus did not want to be a part of the Scientist's experiments.
+20:08 [Info] [Death Notes] Corona.Virus did not want to be a part of the Scientist's experiments.
+20:08 [Info] [Death Notes] Corona.Virus did not want to be a part of the Scientist's experiments.
+20:08 [Info] [Death Notes] Corona.Virus did not want to be a part of the Scientist's experiments.
+20:09 [Info] [Death Notes] Corona.Virus did not want to be a part of the Scientist's experiments.
+20:09 [Info] [Death Notes] Cold.Soup killed a Boar using their Salvaged Axe.
+20:09 [Info] [Death Notes] Corona.Virus did not want to be a part of the Scientist's experiments.
+20:10 [Info] [Death Notes] Corona.Virus did not want to be a part of the Scientist's experiments.
+20:10 [Info] [Death Notes] Corona.Virus did not want to be a part of the Scientist's experiments.
+20:10 [Info] [Automated Events] Next CargoPlane event will be ran after 00:39:04
+20:13 [Info] [Death Notes] Corona.Virus did not want to be a part of the Scientist's experiments.
+20:14 [Info] [Automated Events] Next Chinook event will be ran after 00:43:15
+20:14 [Info] [Death Notes] Corona.Virus did not want to be a part of the Scientist's experiments.
+20:15 [Info] [Death Notes] Corona.Virus did not want to be a part of the Scientist's experiments.
+20:16 [Info] [Death Notes] Corona.Virus did not want to be a part of the Scientist's experiments.
+20:16 [Info] [Automated Events] Spawning Cargo Ship
+20:16 [Info] [Automated Events] Next CargoShip event will be ran after 00:42:29
+20:17 [Info] [Death Notes] Corona.Virus did not want to be a part of the Scientist's experiments.
+20:17 [Info] [Death Notes] Corona.Virus did not want to be a part of the Scientist's experiments.
+20:24 [Warning] [Automated Events] The number of Bradley events has reached the limit of 1
+20:24 [Info] [Automated Events] Next Bradley event will be ran after 00:36:45
+20:26 [Info] [Automated Events] Spawning Helicopter
+20:26 [Info] [Automated Events] Next Helicopter event will be ran after 00:45:42
+20:29 [Info] [FancyDrop] SupplySignal thrown by 'Corona.Virus' at: (-147.0, 3.0, -1065.7)
+20:32 [Info] [FancyDrop] Random Airdrop of type 'regular' incoming at: (1060, 21, 583) grid area: V9
+20:32 [Info] [FancyDrop] Timed Airdrop initiated with command 'ad.random'
+20:32 [Info] [FancyDrop] Next timed Airdrop in 35 minutes
+20:32 [Info] [Death Notes] Corona.Virus had no chance against the Helicopter.
+20:32 [Warning] 'Backpacks v3.2.1' is using deprecated hook 'OnPlayerCorpse', which will stop working on Thursday, 01 July 2021. Please ask the author to update to 'OnPlayerCorpseSpawned(BasePlayer player, BaseCorpse corpse)'
+20:34 [Info] [FancyDrop] Corona.Virus (76561199014694691) looted the Drop at: (-149, 0, -1078) grid area: M21
+20:37 [Warning] 'BetterCharcoal v1.0.2' is using deprecated hook 'OnConsumeFuel', which will stop working on Thursday, 01 July 2021. Please ask the author to update to 'OnFuelConsume(BaseOven oven, Item fuel, ItemModBurnable burnable)'
+20:41 [Info] [Death Notes] Corona.Virus shot a Bear using their Semi-Automatic Rifle over a distance of 98.1 meters.
+20:42 [Info] [Death Notes] Impact_dustructi did not did not follow the rules in a safezone and was killed by a Scientist Sentry.
+20:43 [Info] [Death Notes] DevL shot a Boar using their LR-300 Assault Rifle over a distance of 11.8 meters.
+20:43 [Info] [Death Notes] Impact_dustructi did not did not follow the rules in a safezone and was killed by a Scientist Sentry.
+20:44 [Info] [Death Notes] Impact_dustructi did not did not follow the rules in a safezone and was killed by a Scientist Sentry.
+20:45 [Info] [Death Notes] Corona.Virus shot a Bear using their Semi-Automatic Rifle over a distance of 73.9 meters.
+20:45 [Info] [Automated Events] Next Helicopter event will be ran after 00:55:37
+20:45 [Info] [Death Notes] Corona.Virus shot a Stag using their Semi-Automatic Rifle over a distance of 8.4 meters.
+20:45 [Info] [Death Notes] Corona.Virus shot a Boar using their Semi-Automatic Rifle over a distance of 40.4 meters.
+20:45 [Info] [Death Notes] Corona.Virus shot a Stag using their Semi-Automatic Rifle over a distance of 54.7 meters.
+20:49 [Info] [Automated Events] Spawning Cargo Plane
+20:49 [Info] [Automated Events] Next CargoPlane event will be ran after 00:44:16
+20:54 [Info] [Death Notes] DevL did not want to be a part of the Scientist's experiments.
+20:55 [Info] [Automated Events] Next CargoPlane event will be ran after 00:33:51
+20:57 [Info] [Automated Events] Spawning Chinook
+20:57 [Info] [Automated Events] Next Chinook event will be ran after 00:39:52
+20:59 [Warning] [Automated Events] The number of CargoShip events has reached the limit of 1
+20:59 [Info] [Automated Events] Next CargoShip event will be ran after 00:37:31
+21:01 [Warning] [Automated Events] The number of Bradley events has reached the limit of 1
+21:01 [Info] [Automated Events] Next Bradley event will be ran after 00:32:19
+21:07 [Info] [FancyDrop] Random Airdrop of type 'regular' incoming at: (264, 42, 271) grid area: P11
+21:07 [Info] [FancyDrop] Timed Airdrop initiated with command 'ad.random'
+21:07 [Info] [FancyDrop] Next timed Airdrop in 33 minutes
+21:13 [Info] [Automated Events] Next Chinook event will be ran after 00:43:13
+21:16 [Info] [Automated Events] Next CargoShip event will be ran after 00:35:04
+21:28 [Info] [Better Chat] [Global] [Player] [Operator] [Better] [Better] DevL: .up 23
+21:29 [Info] [Automated Events] Spawning Cargo Plane
+21:29 [Info] [Automated Events] Next CargoPlane event will be ran after 00:32:48
+21:30 [Warning] [No Escape] Unable to find clan after creation: PHUB
+21:33 [Warning] [Automated Events] The number of Bradley events has reached the limit of 1
+21:33 [Info] [Automated Events] Next Bradley event will be ran after 00:40:51
+21:34 [Info] [Automated Events] Next CargoPlane event will be ran after 00:44:08
+21:38 [Warning] 'BetterCharcoal v1.0.2' is using deprecated hook 'OnConsumeFuel', which will stop working on Thursday, 01 July 2021. Please ask the author to update to 'OnFuelConsume(BaseOven oven, Item fuel, ItemModBurnable burnable)'
+21:40 [Info] [FancyDrop] Timed Airdrop skipped, not enough Players
+21:40 [Info] [FancyDrop] Next timed Airdrop in 40 minutes
+21:40 [Info] [Automated Events] Spawning Helicopter
+21:40 [Info] [Automated Events] Next Helicopter event will be ran after 00:55:09
+21:51 [Info] [Automated Events] Spawning Cargo Ship
+21:51 [Info] [Automated Events] Next CargoShip event will be ran after 00:37:38
+21:56 [Info] [Automated Events] Spawning Chinook
+21:56 [Info] [Automated Events] Next Chinook event will be ran after 00:30:43
+21:59 [Info] [Automated Events] Next Helicopter event will be ran after 00:59:30
+22:12 [Info] [Automated Events] Next Chinook event will be ran after 00:32:37
+22:14 [Warning] [Automated Events] The number of Bradley events has reached the limit of 1
+22:14 [Info] [Automated Events] Next Bradley event will be ran after 00:31:49
+22:18 [Info] [Automated Events] Spawning Cargo Plane
+22:18 [Info] [Automated Events] Next CargoPlane event will be ran after 00:41:42
+22:20 [Info] [FancyDrop] Timed Airdrop skipped, not enough Players
+22:20 [Info] [FancyDrop] Next timed Airdrop in 45 minutes
+22:23 [Info] [Automated Events] Next CargoPlane event will be ran after 00:44:37
+22:29 [Warning] [Automated Events] The number of CargoShip events has reached the limit of 1
+22:29 [Info] [Automated Events] Next CargoShip event will be ran after 00:39:09
+22:38 [Warning] 'BetterCharcoal v1.0.2' is using deprecated hook 'OnConsumeFuel', which will stop working on Thursday, 01 July 2021. Please ask the author to update to 'OnFuelConsume(BaseOven oven, Item fuel, ItemModBurnable burnable)'
+22:45 [Info] [Automated Events] Spawning Chinook
+22:45 [Info] [Automated Events] Next Chinook event will be ran after 00:30:07
+22:46 [Warning] [Automated Events] The number of Bradley events has reached the limit of 1
+22:46 [Info] [Automated Events] Next Bradley event will be ran after 00:32:47
+22:51 [Info] [Automated Events] Next CargoShip event will be ran after 00:41:12
+22:59 [Info] [Automated Events] Spawning Helicopter
+22:59 [Info] [Automated Events] Next Helicopter event will be ran after 00:56:56
+23:05 [Info] [FancyDrop] Timed Airdrop skipped, not enough Players
+23:05 [Info] [FancyDrop] Next timed Airdrop in 31 minutes
+23:08 [Info] [Automated Events] Spawning Cargo Plane
+23:08 [Info] [Automated Events] Next CargoPlane event will be ran after 00:32:21
+23:09 [Info] [Automated Events] Next Chinook event will be ran after 00:31:32
+23:13 [Info] [Automated Events] Next CargoPlane event will be ran after 00:33:07
+23:18 [Info] [Automated Events] Next Helicopter event will be ran after 00:59:31
+23:18 [Warning] [Automated Events] The number of Bradley events has reached the limit of 1
+23:18 [Info] [Automated Events] Next Bradley event will be ran after 00:39:44
+23:33 [Info] [Automated Events] Spawning Cargo Ship
+23:33 [Info] [Automated Events] Next CargoShip event will be ran after 00:40:16
+23:36 [Info] [FancyDrop] Timed Airdrop skipped, not enough Players
+23:36 [Info] [FancyDrop] Next timed Airdrop in 44 minutes
+23:39 [Warning] 'BetterCharcoal v1.0.2' is using deprecated hook 'OnConsumeFuel', which will stop working on Thursday, 01 July 2021. Please ask the author to update to 'OnFuelConsume(BaseOven oven, Item fuel, ItemModBurnable burnable)'
+23:41 [Info] [Automated Events] Spawning Chinook
+23:41 [Info] [Automated Events] Next Chinook event will be ran after 00:41:00
+23:46 [Info] [Automated Events] Spawning Cargo Plane
+23:46 [Info] [Automated Events] Next CargoPlane event will be ran after 00:39:28
+23:52 [Info] [Automated Events] Next CargoPlane event will be ran after 00:36:49
+23:58 [Info] [Automated Events] Next Chinook event will be ran after 00:43:43
+23:58 [Warning] [Automated Events] The number of Bradley events has reached the limit of 1
+23:58 [Info] [Automated Events] Next Bradley event will be ran after 00:34:07

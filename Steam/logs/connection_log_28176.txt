@@ -1,0 +1,59 @@
+
+
+[2021-05-06 13:38:33] Log session started
+[2021-05-06 13:38:33] [0,0] SetSteamID( [A:1:0:0] )
+[2021-05-06 13:38:33] [0,0] Server says 0% of connections should be websockets, we rolled 67 - using UDP as default.
+[2021-05-06 13:38:33] CCMInterface::YieldingConnect -- no CMs cached locally, calling ISteamDirectory/GetCMList web api for launcher type 'default'. . .
+[2021-05-06 13:38:33] IPv6 HTTP connectivity test (ipv6check-http.steamcontent.com / [2602:801:f006:102::a2fe:c32a]:80 ([2602:801:f006:102::a2fe:c32a]:80)) - FAILURE (Invalid)
+[2021-05-06 13:38:34] CCMInterface::YieldingConnect -- got 100 CMs and 100 WebSocket CMS from ISteamDirectory/GetCMList.
+[2021-05-06 13:38:34] [0,0] PingWebSocketCM() (cm1-ord1.cm.steampowered.com:443) starting...
+[2021-05-06 13:38:34] [0,0] PingWebSocketCM() (cm2-ord1.cm.steampowered.com:27035) starting...
+[2021-05-06 13:38:34] [0,0] PingWebSocketCM() (cm5-lax1.cm.steampowered.com:27037) starting...
+[2021-05-06 13:38:34] [0,0] PingWebSocketCM() (cm6-lax1.cm.steampowered.com:27033) starting...
+[2021-05-06 13:38:34] [0,0] PingWebSocketCM() (cm6-lax1.cm.steampowered.com:27033) results: 49.7095ms + load 16.0000
+[2021-05-06 13:38:34] [0,0] PingWebSocketCM() stopping early for good host (cm6-lax1.cm.steampowered.com:27033)
+[2021-05-06 13:38:34] [0,0] PingWebSocketCM() (cm5-lax1.cm.steampowered.com:27037) results: 49.8964ms + load 15.0000
+[2021-05-06 13:38:34] [0,0] PingWebSocketCM() (cm2-ord1.cm.steampowered.com:27035) results: 49.7280ms + load 21.0000
+[2021-05-06 13:38:34] [0,0] PingWebSocketCM() (cm1-ord1.cm.steampowered.com:443) results: 49.6932ms + load 21.0000
+[2021-05-06 13:38:34] [1,3] Connect() starting connection (eNetQOSLevelMedium, cm5-lax1.cm.steampowered.com:27037, WebSocket)
+[2021-05-06 13:38:34] [1,3] ConnectionCompleted() (162.254.195.71:27037, WebSocket)
+[2021-05-06 13:38:34] [1,3] RecvMsgClientLogOnResponse() : [A:1:3188457475:17309] 'OK'
+[2021-05-06 13:38:35] IPv6 UDP connectivity test (ipv6check-udp.steamcontent.com / 2602:801:f006:100::a2fe:c31c) - TIMEOUT
+
+
+[2021-05-07 14:00:07] Log session started
+[2021-05-07 14:00:07] [0,0] SetSteamID( [A:1:0:0] )
+[2021-05-07 14:00:07] [0,0] Server says 50% of connections should be websockets, we rolled 43 - using WebSockets as default.
+[2021-05-07 14:00:07] [0,0] PingWebSocketCM() (cm2-ord1.cm.steampowered.com:27035) starting...
+[2021-05-07 14:00:07] [0,0] PingWebSocketCM() (cm5-lax1.cm.steampowered.com:27037) starting...
+[2021-05-07 14:00:07] [0,0] PingWebSocketCM() (cm6-lax1.cm.steampowered.com:27033) starting...
+[2021-05-07 14:00:07] [0,0] PingWebSocketCM() (cm2-ord1.cm.steampowered.com:27028) starting...
+[2021-05-07 14:00:07] [0,0] PingWebSocketCM() (cm6-lax1.cm.steampowered.com:27033) results: 49.6257ms + load 14.0000
+[2021-05-07 14:00:07] [0,0] PingWebSocketCM() stopping early for good host (cm6-lax1.cm.steampowered.com:27033)
+[2021-05-07 14:00:07] [0,0] PingWebSocketCM() (cm5-lax1.cm.steampowered.com:27037) results: 49.5751ms + load 17.0000
+[2021-05-07 14:00:07] [0,0] PingWebSocketCM() (cm2-ord1.cm.steampowered.com:27035) results: 49.5026ms + load 24.0000
+[2021-05-07 14:00:07] [0,0] PingWebSocketCM() (cm2-ord1.cm.steampowered.com:27028) results: 49.3135ms + load 23.0000
+[2021-05-07 14:00:07] [1,3] Connect() starting connection (eNetQOSLevelMedium, cm6-lax1.cm.steampowered.com:27033, WebSocket)
+[2021-05-07 14:00:08] [1,3] ConnectionCompleted() (162.254.195.87:27033, WebSocket)
+[2021-05-07 14:00:08] IPv6 HTTP connectivity test (ipv6check-http.steamcontent.com / [2602:801:f002:102::a2fe:c02b]:80 ([2602:801:f002:102::a2fe:c02b]:80)) - FAILURE (Invalid)
+[2021-05-07 14:00:08] [1,3] RecvMsgClientLogOnResponse() : [A:1:3018177547:17319] 'OK'
+[2021-05-07 14:00:10] IPv6 UDP connectivity test (ipv6check-udp.steamcontent.com / 2602:801:f006:100::a2fe:c31e) - TIMEOUT
+
+
+[2021-05-08 17:17:40] Log session started
+[2021-05-08 17:17:40] [0,0] SetSteamID( [A:1:0:0] )
+[2021-05-08 17:17:40] [0,0] Server says 50% of connections should be websockets, we rolled 98 - using UDP as default.
+[2021-05-08 17:17:40] [0,0] PingWebSocketCM() (cm5-lax1.cm.steampowered.com:27037) starting...
+[2021-05-08 17:17:40] [0,0] PingWebSocketCM() (cm2-ord1.cm.steampowered.com:27035) starting...
+[2021-05-08 17:17:40] [0,0] PingWebSocketCM() (cm2-ord1.cm.steampowered.com:27028) starting...
+[2021-05-08 17:17:40] [0,0] PingWebSocketCM() (cm6-lax1.cm.steampowered.com:27033) starting...
+[2021-05-08 17:17:40] [0,0] PingWebSocketCM() (cm6-lax1.cm.steampowered.com:27033) results: 49.7409ms + load 15.0000
+[2021-05-08 17:17:40] [0,0] PingWebSocketCM() stopping early for good host (cm6-lax1.cm.steampowered.com:27033)
+[2021-05-08 17:17:41] [0,0] PingWebSocketCM() (cm2-ord1.cm.steampowered.com:27035) results: 49.6466ms + load 23.0000
+[2021-05-08 17:17:41] [0,0] PingWebSocketCM() (cm5-lax1.cm.steampowered.com:27037) results: 49.6076ms + load 16.0000
+[2021-05-08 17:17:41] [0,0] PingWebSocketCM() (cm2-ord1.cm.steampowered.com:27028) results: 49.5238ms + load 23.0000
+[2021-05-08 17:17:41] [1,3] Connect() starting connection (eNetQOSLevelMedium, cm6-lax1.cm.steampowered.com:27033, WebSocket)
+[2021-05-08 17:17:41] [1,3] ConnectionCompleted() (162.254.195.87:27033, WebSocket)
+[2021-05-08 17:17:41] IPv6 HTTP connectivity test (ipv6check-http.steamcontent.com / [2602:801:f002:101::a2fe:c00a]:80 ([2602:801:f002:101::a2fe:c00a]:80)) - FAILURE (Invalid)
+[2021-05-08 17:17:41] [1,3] RecvMsgClientLogOnResponse() : [A:1:3848794123:17328] 'OK'
+[2021-05-08 17:17:43] IPv6 UDP connectivity test (ipv6check-udp.steamcontent.com / 2602:801:f006:102::a2fe:c329) - TIMEOUT
