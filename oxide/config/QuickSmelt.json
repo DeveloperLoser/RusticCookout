@@ -1,7 +1,7 @@
 {
   "Use Permission": true,
   "Speed Multipliers": {
-    "global": 10.0,
+    "global": 2.0,
     "furnace.shortname": 1.0
   },
   "Fuel Usage Speed Multipliers": {
@@ -15,7 +15,7 @@
   "Output Multipliers": {
     "global": {
       "global": 1.0,
-      "charcoal":10.0
+      "charcoal":2.0
     },
     "furnace.shortname": {
       "item.shortname": 1.0
