@@ -11,7 +11,7 @@ namespace Oxide.Plugins
     {
         private Configuration _config;
         private readonly Dictionary<string, int> _defaultSizes = new Dictionary<string, int>();
-        private int _multiplier = 1;
+        private int _multiplier = 2;
         private const string UsePerm = "stackmultiplier.use";
         
         #region Configuration
@@ -156,7 +156,7 @@ namespace Oxide.Plugins
                 gameitem.stackable = _defaultSizes[gameitem.shortname];
             }
             
-            _multiplier = 1;
+            _multiplier = 2;
         }
     }
 }
