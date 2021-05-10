@@ -146,7 +146,7 @@ namespace Oxide.Plugins
 
         private void ChangeSize(ItemDefinition gameitem, int multiplier)
         {
-            gameitem.stackable = _defaultSizes[gameitem.shortname] * _multiplier;
+            gameitem.stackable = _defaultSizes[gameitem.shortname] * 2;
         }
 
         private void ResetStacks()
