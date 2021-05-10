@@ -112,7 +112,7 @@ namespace Oxide.Plugins
                 {
                     if (!_config.BlockedList.Contains(gameitem.shortname))
                     {
-                        ChangeSize(gameitem, _multiplier);
+                        ChangeSize(gameitem, 2);
                     }
                 }
                 
@@ -146,7 +146,7 @@ namespace Oxide.Plugins
 
         private void ChangeSize(ItemDefinition gameitem, int multiplier)
         {
-            gameitem.stackable = _defaultSizes[gameitem.shortname] * 2;
+            gameitem.stackable = _defaultSizes[gameitem.shortname] * _multiplier;
         }
 
         private void ResetStacks()
