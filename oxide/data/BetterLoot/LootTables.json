@@ -27,7 +27,7 @@
             "ItemsMax": 2,
             "ItemsMin": 2,
             "MaxBPs": 0,
-            "Scrap": 15
+            "Scrap": 6
         },
         "assets/bundled/prefabs/autospawn/resource/loot/loot-barrel-1.prefab": {
             "Enabled": true,
@@ -84,7 +84,7 @@
             "ItemsMax": 4,
             "ItemsMin": 4,
             "MaxBPs": 0,
-            "Scrap": 20
+            "Scrap": 6
         },
         "assets/bundled/prefabs/autospawn/resource/loot/loot-barrel-2.prefab": {
             "Enabled": true,
@@ -141,7 +141,7 @@
             "ItemsMax": 4,
             "ItemsMin": 4,
             "MaxBPs": 0,
-            "Scrap": 30
+            "Scrap": 8
         },
         "assets/bundled/prefabs/autospawn/resource/loot/trash-pile-1.prefab": {
             "Enabled": true,
@@ -186,7 +186,7 @@
             "ItemsMax": 20,
             "ItemsMin": 20,
             "MaxBPs": 0,
-            "Scrap": 30
+            "Scrap": 8
         },
         "assets/bundled/prefabs/radtown/crate_elite.prefab": {
             "Enabled": true,
@@ -319,7 +319,7 @@
             "ItemsMax": 4,
             "ItemsMin": 4,
             "MaxBPs": 0,
-            "Scrap": 250
+            "Scrap": 125
         },
         "assets/bundled/prefabs/radtown/crate_mine.prefab": {
             "Enabled": true,
@@ -489,7 +489,7 @@
             "ItemsMax": 5,
             "ItemsMin": 3,
             "MaxBPs": 0,
-            "Scrap": 80
+            "Scrap": 12
         },
         "assets/bundled/prefabs/radtown/crate_normal_2.prefab": {
             "Enabled": true,
@@ -566,7 +566,7 @@
             "ItemsMax": 5,
             "ItemsMin": 3,
             "MaxBPs": 0,
-            "Scrap": 50
+            "Scrap": 6
         },
         "assets/bundled/prefabs/radtown/crate_normal_2_food.prefab": {
             "Enabled": true,
@@ -717,7 +717,7 @@
             "ItemsMax": 1,
             "ItemsMin": 1,
             "MaxBPs": 0,
-            "Scrap": 50
+            "Scrap": 6
         },
         "assets/bundled/prefabs/radtown/crate_underwater_advanced.prefab": {
             "Enabled": true,
@@ -738,7 +738,7 @@
             "ItemsMax": 1,
             "ItemsMin": 1,
             "MaxBPs": 0,
-            "Scrap": 1000
+            "Scrap": 250
         },
         "assets/bundled/prefabs/radtown/crate_underwater_basic.prefab": {
             "Enabled": false,
@@ -807,7 +807,7 @@
             "ItemsMax": 3,
             "ItemsMin": 2,
             "MaxBPs": 0,
-            "Scrap": 50
+            "Scrap": 6
         },
         "assets/bundled/prefabs/radtown/foodbox.prefab": {
             "Enabled": false,
@@ -905,7 +905,7 @@
             "ItemsMax": 4,
             "ItemsMin": 4,
             "MaxBPs": 0,
-            "Scrap": 20
+            "Scrap": 6
         },
         "assets/bundled/prefabs/radtown/loot_barrel_2.prefab": {
             "Enabled": true,
@@ -962,7 +962,7 @@
             "ItemsMax": 4,
             "ItemsMin": 4,
             "MaxBPs": 0,
-            "Scrap": 20
+            "Scrap": 6
         },
         "assets/bundled/prefabs/radtown/loot_trash.prefab": {
             "Enabled": true,
@@ -1170,7 +1170,7 @@
             "ItemsMax": 9,
             "ItemsMin": 9,
             "MaxBPs": 1,
-            "Scrap": 1000
+            "Scrap": 250
         },
         "assets/prefabs/misc/supply drop/supply_drop.prefab": {
             "Enabled": true,
