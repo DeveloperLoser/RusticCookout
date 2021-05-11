@@ -181,10 +181,24 @@
             "Scrap": 0
         },
         "assets/bundled/prefabs/radtown/crate_basic.prefab": {
-            "Enabled": false,
-            "ItemList": {},
-            "ItemsMax": 20,
-            "ItemsMin": 20,
+            "Enabled": true,
+            "ItemList": {
+            },
+            "oretea.advanced": {
+                "Max": 2,
+                "Min": 1
+            },
+            "scraptea.advanced": {
+                "Max": 2,
+                "Min": 1
+            },
+            "woodtea.advanced": {
+                "Max": 2,
+                "Min": 1
+            }
+            },
+            "ItemsMax": 1,
+            "ItemsMin": 1,
             "MaxBPs": 0,
             "Scrap": 8
         },
@@ -255,10 +269,6 @@
                     "Max": 1,
                     "Min": 1
                 },
-                "rifle.ak": {
-                    "Max": 1,
-                    "Min": 1
-                },
                 "rifle.bolt": {
                     "Max": 1,
                     "Min": 1
@@ -266,10 +276,6 @@
                 "riflebody": {
                     "Max": 8,
                     "Min": 4
-                },
-                "rocket.launcher": {
-                    "Max": 1,
-                    "Min": 1
                 },
                 "smg.mp5": {
                     "Max": 1,
@@ -526,7 +532,23 @@
                     "Max": 1,
                     "Min": 1
                 },
-                "pistol.python": {
+                "shoes.boots": {
+                    "Max": 1,
+                    "Min": 1
+                },
+                "burlap.glovess": {
+                    "Max": 1,
+                    "Min": 1
+                },
+                "roadsign.gloves": {
+                    "Max": 1,
+                    "Min": 1
+                },
+                "tactical.gloves": {
+                    "Max": 1,
+                    "Min": 1
+                },
+                "hoodie": {
                     "Max": 1,
                     "Min": 1
                 },
@@ -701,19 +723,6 @@
                     "Max": 1,
                     "Min": 1
                 },
-                "oretea.advanced": {
-                    "Max": 2,
-                    "Min": 1
-                },
-                "scraptea.advanced": {
-                    "Max": 2,
-                    "Min": 1
-                },
-                "woodtea.advanced": {
-                    "Max": 2,
-                    "Min": 1
-                }
-            },
             "ItemsMax": 1,
             "ItemsMin": 1,
             "MaxBPs": 0,
@@ -810,7 +819,7 @@
             "Scrap": 6
         },
         "assets/bundled/prefabs/radtown/foodbox.prefab": {
-            "Enabled": false,
+            "Enabled": true,
             "ItemList": {
                 "antiradpills": {
                     "Max": 8,
