@@ -183,19 +183,18 @@
         "assets/bundled/prefabs/radtown/crate_basic.prefab": {
             "Enabled": true,
             "ItemList": {
-            },
-            "oretea.advanced": {
+                "oretea.advanced": {
                 "Max": 2,
                 "Min": 1
-            },
-            "scraptea.advanced": {
+                },
+                "scraptea.advanced": {
                 "Max": 2,
                 "Min": 1
-            },
-            "woodtea.advanced": {
+                },
+                "woodtea.advanced": {
                 "Max": 2,
                 "Min": 1
-            }
+                }
             },
             "ItemsMax": 1,
             "ItemsMin": 1,
@@ -1490,3 +1489,4 @@
             "Scrap": 0
         }
     }
+}
