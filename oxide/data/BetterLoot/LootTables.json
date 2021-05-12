@@ -722,7 +722,8 @@
                 "hoodie": {
                     "Max": 1,
                     "Min": 1
-                },
+                }
+            },
             "ItemsMax": 1,
             "ItemsMin": 1,
             "MaxBPs": 0,
@@ -1489,4 +1490,3 @@
             "Scrap": 0
         }
     }
-}
