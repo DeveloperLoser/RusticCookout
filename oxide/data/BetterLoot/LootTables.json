@@ -1,5 +1,6 @@
 {
 <<<<<<< HEAD
+<<<<<<< HEAD
     "LootTables": {
         "assets/bundled/prefabs/radtown/vehicle_parts.prefab": {
             "Enabled": true,
@@ -1489,6 +1490,8 @@
             "MaxBPs": 1,
             "Scrap": 0
 =======
+=======
+>>>>>>> parent of 5253a81 (Update LootTables.json)
   "LootTables": {
     "assets/bundled/prefabs/radtown/vehicle_parts.prefab": {
       "Enabled": true,
@@ -2970,6 +2973,9 @@
         "weapon.mod.small.scope": {
           "Max": 10,
           "Min": 4
+<<<<<<< HEAD
+>>>>>>> parent of 5253a81 (Update LootTables.json)
+=======
 >>>>>>> parent of 5253a81 (Update LootTables.json)
         }
       },
