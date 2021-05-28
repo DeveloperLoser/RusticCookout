@@ -1,5 +1,6 @@
 {
 <<<<<<< HEAD
+<<<<<<< HEAD
     "Messages": {
         "Dispensers": "Resource Dispensers",
         "Excavators": "Excavators",
@@ -250,6 +251,8 @@
         "ChatPrefixColor": "#008000ff"
     }
 =======
+=======
+>>>>>>> parent of ec6525d (Config nuke)
   "Messages": {
     "Dispensers": "Resource Dispensers",
     "Excavators": "Excavators",
@@ -498,5 +501,8 @@
     "ChatPrefix": "Gather Manager",
     "ChatPrefixColor": "#008000ff"
   }
+<<<<<<< HEAD
+>>>>>>> parent of ec6525d (Config nuke)
+=======
 >>>>>>> parent of ec6525d (Config nuke)
 }
