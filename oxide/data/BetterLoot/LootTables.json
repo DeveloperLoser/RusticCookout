@@ -154,8 +154,8 @@
         "assets/bundled/prefabs/radtown/crate_basic.prefab": {
             "Enabled": false,
             "ItemList": {},
-            "ItemsMax": 20,
-            "ItemsMin": 20,
+            "ItemsMax": 4,
+            "ItemsMin": 6,
             "MaxBPs": 0,
             "Scrap": 30
         },
@@ -360,6 +360,10 @@
                     "Max": 4,
                     "Min": 4
                 },
+                "mining.quarry": {
+                    "Max": 1,
+                    "Min": 1
+                },
                 "grenade.f1": {
                     "Max": 4,
                     "Min": 4
@@ -457,8 +461,8 @@
                     "Min": 1
                 }
             },
-            "ItemsMax": 3,
-            "ItemsMin": 3,
+            "ItemsMax": 4,
+            "ItemsMin": 6,
             "MaxBPs": 0,
             "Scrap": 80
         },
@@ -496,10 +500,6 @@
                 "metalspring": {
                     "Max": 8,
                     "Min": 4
-                },
-                "pants": {
-                    "Max": 1,
-                    "Min": 1
                 },
                 "pistol.revolver": {
                     "Max": 1,
@@ -540,9 +540,29 @@
                 "riflebody": {
                     "Max": 4,
                     "Min": 4
+                },
+                "metalblade": {
+                    "Max": 20,
+                    "Min": 10
+                },
+                "propanetank": {
+                    "Max": 20,
+                    "Min": 10
+                },
+                "rope": {
+                    "Max": 20,
+                    "Min": 10
+                },
+                "sewingkit": {
+                    "Max": 30,
+                    "Min": 20
+                },
+                "tarp": {
+                    "Max": 20,
+                    "Min": 10
                 }
             },
-            "ItemsMax": 4,
+            "ItemsMax": 6,
             "ItemsMin": 4,
             "MaxBPs": 0,
             "Scrap": 50
